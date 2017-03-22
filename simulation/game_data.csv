@@ -1,0 +1,3477 @@
+year,month,away_tm,away_score,home_tm,home_score
+2015,october,Houston Rockets,108,Los Angeles Lakers,90
+2015,october,Orlando Magic,84,New Orleans Pelicans,101
+2015,october,Dallas Mavericks,100,San Antonio Spurs,101
+2015,october,Brooklyn Nets,105,Boston Celtics,121
+2015,october,Milwaukee Bucks,106,Charlotte Hornets,108
+2015,october,Detroit Pistons,79,Denver Nuggets,89
+2015,october,Philadelphia 76ers,91,Indiana Pacers,103
+2015,october,Minnesota Timberwolves,101,Memphis Grizzlies,105
+2015,october,Washington Wizards,95,Miami Heat,107
+2015,october,Chicago Bulls,104,New York Knicks,80
+2015,october,Los Angeles Lakers,99,Phoenix Suns,119
+2015,october,Oklahoma City Thunder,89,Portland Trail Blazers,106
+2015,october,Golden State Warriors,95,Sacramento Kings,77
+2015,october,Atlanta Hawks,102,Toronto Raptors,109
+2015,october,Houston Rockets,104,Utah Jazz,93
+2015,october,New York Knicks,95,Cleveland Cavaliers,90
+2015,october,Utah Jazz,102,Dallas Mavericks,120
+2015,october,Oklahoma City Thunder,90,Los Angeles Clippers,93
+2015,october,Detroit Pistons,91,Minnesota Timberwolves,97
+2015,october,Washington Wizards,105,Orlando Magic,98
+2015,october,Cleveland Cavaliers,114,Chicago Bulls,108
+2015,october,Memphis Grizzlies,97,Indiana Pacers,89
+2015,october,Los Angeles Clippers,118,Los Angeles Lakers,111
+2015,october,Philadelphia 76ers,81,Milwaukee Bucks,93
+2015,october,San Antonio Spurs,89,Phoenix Suns,94
+2015,october,Portland Trail Blazers,94,Sacramento Kings,103
+2015,november,Indiana Pacers,92,Atlanta Hawks,102
+2015,november,Memphis Grizzlies,71,Charlotte Hornets,69
+2015,november,Brooklyn Nets,102,Detroit Pistons,90
+2015,november,Los Angeles Lakers,104,Golden State Warriors,127
+2015,november,Boston Celtics,90,Houston Rockets,104
+2015,november,Chicago Bulls,106,Minnesota Timberwolves,105
+2015,november,Dallas Mavericks,109,New Orleans Pelicans,104
+2015,november,Denver Nuggets,91,Oklahoma City Thunder,102
+2015,november,Toronto Raptors,108,Orlando Magic,95
+2015,november,Miami Heat,114,Philadelphia 76ers,96
+2015,november,Phoenix Suns,91,Utah Jazz,118
+2015,november,Milwaukee Bucks,97,Washington Wizards,108
+2015,november,Sacramento Kings,98,Los Angeles Clippers,92
+2015,november,Toronto Raptors,102,Miami Heat,107
+2015,november,Charlotte Hornets,93,New York Knicks,96
+2015,november,Golden State Warriors,95,Portland Trail Blazers,90
+2015,november,Oklahoma City Thunder,85,Brooklyn Nets,116
+2015,november,Boston Celtics,113,Dallas Mavericks,118
+2015,november,Sacramento Kings,110,Denver Nuggets,105
+2015,november,Utah Jazz,101,Los Angeles Clippers,107
+2015,november,New Orleans Pelicans,81,Memphis Grizzlies,93
+2015,november,Houston Rockets,104,Philadelphia 76ers,93
+2015,november,Orlando Magic,90,Chicago Bulls,98
+2015,november,Milwaukee Bucks,87,Indiana Pacers,81
+2015,november,Phoenix Suns,112,Los Angeles Lakers,106
+2015,november,Houston Rockets,108,Miami Heat,91
+2015,november,Charlotte Hornets,91,New Orleans Pelicans,100
+2015,november,Washington Wizards,98,New York Knicks,83
+2015,november,Cleveland Cavaliers,82,Portland Trail Blazers,101
+2015,november,Oklahoma City Thunder,88,Toronto Raptors,100
+2015,november,Toronto Raptors,110,Boston Celtics,107
+2015,november,Minnesota Timberwolves,98,Brooklyn Nets,91
+2015,november,Miami Heat,89,Charlotte Hornets,96
+2015,november,New York Knicks,95,Detroit Pistons,98
+2015,november,Los Angeles Clippers,104,Golden State Warriors,121
+2015,november,Chicago Bulls,95,Milwaukee Bucks,86
+2015,november,Orlando Magic,91,Philadelphia 76ers,89
+2015,november,Memphis Grizzlies,102,Phoenix Suns,91
+2015,november,Denver Nuggets,109,Sacramento Kings,131
+2015,november,Atlanta Hawks,92,San Antonio Spurs,94
+2015,november,Cleveland Cavaliers,100,Utah Jazz,102
+2015,november,Indiana Pacers,94,Washington Wizards,96
+2015,november,San Antonio Spurs,81,Houston Rockets,98
+2015,november,Dallas Mavericks,87,Portland Trail Blazers,108
+2015,november,Indiana Pacers,98,Boston Celtics,101
+2015,november,New York Knicks,99,Brooklyn Nets,110
+2015,november,Atlanta Hawks,119,Charlotte Hornets,122
+2015,november,Cleveland Cavaliers,110,Denver Nuggets,101
+2015,november,Milwaukee Bucks,95,Detroit Pistons,98
+2015,november,Memphis Grizzlies,91,Oklahoma City Thunder,89
+2015,november,Minnesota Timberwolves,103,Orlando Magic,112
+2015,november,Chicago Bulls,118,Philadelphia 76ers,115
+2015,november,Sacramento Kings,114,Phoenix Suns,112
+2015,november,Washington Wizards,84,Toronto Raptors,103
+2015,november,Dallas Mavericks,105,Utah Jazz,82
+2015,november,New York Knicks,96,Atlanta Hawks,103
+2015,november,Boston Celtics,106,Chicago Bulls,101
+2015,november,Golden State Warriors,98,Houston Rockets,87
+2015,november,Washington Wizards,97,Indiana Pacers,90
+2015,november,Portland Trail Blazers,102,Los Angeles Clippers,106
+2015,november,Minnesota Timberwolves,92,Miami Heat,102
+2015,november,Memphis Grizzlies,92,Milwaukee Bucks,93
+2015,november,New Orleans Pelicans,100,San Antonio Spurs,99
+2015,november,Orlando Magic,96,Brooklyn Nets,104
+2015,november,Miami Heat,105,Dallas Mavericks,96
+2015,november,Utah Jazz,97,Detroit Pistons,96
+2015,november,Charlotte Hornets,92,Los Angeles Lakers,107
+2015,november,Sacramento Kings,93,Oklahoma City Thunder,101
+2015,november,Golden State Warriors,95,Phoenix Suns,107
+2015,november,Denver Nuggets,100,Portland Trail Blazers,116
+2015,november,Philadelphia 76ers,88,Toronto Raptors,120
+2015,november,Detroit Pistons,91,Chicago Bulls,102
+2015,november,New Orleans Pelicans,111,Cleveland Cavaliers,118
+2015,november,Utah Jazz,86,Indiana Pacers,97
+2015,november,San Antonio Spurs,89,Los Angeles Clippers,85
+2015,november,Atlanta Hawks,91,New York Knicks,85
+2015,november,Sacramento Kings,98,Dallas Mavericks,106
+2015,november,San Antonio Spurs,113,Golden State Warriors,100
+2015,november,Los Angeles Lakers,102,Memphis Grizzlies,107
+2015,november,Oklahoma City Thunder,78,Milwaukee Bucks,85
+2015,november,Charlotte Hornets,100,Portland Trail Blazers,102
+2015,november,Orlando Magic,100,Toronto Raptors,104
+2015,november,Utah Jazz,97,Atlanta Hawks,100
+2015,november,Oklahoma City Thunder,109,Boston Celtics,94
+2015,november,Portland Trail Blazers,130,Denver Nuggets,113
+2015,november,Indiana Pacers,81,Miami Heat,75
+2015,november,Houston Rockets,113,Minnesota Timberwolves,101
+2015,november,Los Angeles Lakers,102,New Orleans Pelicans,109
+2015,november,Orlando Magic,97,New York Knicks,95
+2015,november,Brooklyn Nets,104,Phoenix Suns,112
+2015,november,Detroit Pistons,103,Washington Wizards,107
+2015,november,Philadelphia 76ers,70,Dallas Mavericks,123
+2015,november,Brooklyn Nets,99,Golden State Warriors,107
+2015,november,Sacramento Kings,110,Memphis Grizzlies,111
+2015,november,Chicago Bulls,100,Toronto Raptors,93
+2015,november,Miami Heat,103,Atlanta Hawks,114
+2015,november,Cleveland Cavaliers,122,Boston Celtics,121
+2015,november,Philadelphia 76ers,87,Houston Rockets,88
+2015,november,Denver Nuggets,108,Indiana Pacers,87
+2015,november,San Antonio Spurs,93,Los Angeles Lakers,80
+2015,november,Minnesota Timberwolves,91,New Orleans Pelicans,139
+2015,november,Utah Jazz,102,New York Knicks,100
+2015,november,Detroit Pistons,96,Oklahoma City Thunder,89
+2015,november,Milwaukee Bucks,85,Orlando Magic,101
+2015,november,Charlotte Hornets,103,Phoenix Suns,95
+2015,november,Indiana Pacers,99,Chicago Bulls,90
+2015,november,Atlanta Hawks,94,Cleveland Cavaliers,127
+2015,november,Minnesota Timberwolves,117,Dallas Mavericks,131
+2015,november,Charlotte Hornets,87,Golden State Warriors,112
+2015,november,Phoenix Suns,107,Los Angeles Clippers,120
+2015,november,Detroit Pistons,88,Memphis Grizzlies,95
+2015,november,Brooklyn Nets,87,Portland Trail Blazers,97
+2015,november,San Antonio Spurs,91,Sacramento Kings,94
+2015,november,Utah Jazz,93,Toronto Raptors,111
+2015,november,Orlando Magic,93,Washington Wizards,98
+2015,november,Golden State Warriors,136,Los Angeles Lakers,115
+2015,november,Milwaukee Bucks,91,Miami Heat,84
+2015,november,Denver Nuggets,93,New York Knicks,109
+2015,november,Houston Rockets,69,Oklahoma City Thunder,65
+2015,november,Phoenix Suns,118,Boston Celtics,114
+2015,november,Miami Heat,95,Brooklyn Nets,83
+2015,november,Dallas Mavericks,107,Charlotte Hornets,80
+2015,november,Denver Nuggets,106,Cleveland Cavaliers,97
+2015,november,Orlando Magic,107,Detroit Pistons,93
+2015,november,Chicago Bulls,105,Los Angeles Clippers,89
+2015,november,Houston Rockets,93,Memphis Grizzlies,119
+2015,november,New Orleans Pelicans,93,Portland Trail Blazers,102
+2015,november,Philadelphia 76ers,75,San Antonio Spurs,100
+2015,november,Los Angeles Lakers,114,Atlanta Hawks,109
+2015,november,New York Knicks,113,Milwaukee Bucks,117
+2015,november,New Orleans Pelicans,106,Sacramento Kings,100
+2015,november,Oklahoma City Thunder,81,Utah Jazz,98
+2015,november,Milwaukee Bucks,122,Brooklyn Nets,118
+2015,november,San Antonio Spurs,92,Cleveland Cavaliers,90
+2015,november,Oklahoma City Thunder,100,Denver Nuggets,107
+2015,november,Phoenix Suns,88,Detroit Pistons,86
+2015,november,Los Angeles Lakers,98,Houston Rockets,92
+2015,november,Charlotte Hornets,86,Indiana Pacers,88
+2015,november,New York Knicks,99,Minnesota Timberwolves,115
+2015,november,Los Angeles Clippers,114,Orlando Magic,90
+2015,november,Boston Celtics,101,Philadelphia 76ers,90
+2015,november,Memphis Grizzlies,92,Toronto Raptors,96
+2015,november,Dallas Mavericks,105,Washington Wizards,102
+2015,november,Los Angeles Clippers,110,Miami Heat,93
+2015,november,Chicago Bulls,88,Sacramento Kings,103
+2015,november,Detroit Pistons,89,Atlanta Hawks,99
+2015,november,Orlando Magic,105,Charlotte Hornets,100
+2015,november,Los Angeles Lakers,106,Dallas Mavericks,140
+2015,november,New Orleans Pelicans,97,Denver Nuggets,117
+2015,november,Utah Jazz,88,Golden State Warriors,101
+2015,november,Boston Celtics,100,Memphis Grizzlies,117
+2015,november,San Antonio Spurs,121,Minnesota Timberwolves,92
+2015,november,Brooklyn Nets,94,Oklahoma City Thunder,92
+2015,november,Phoenix Suns,122,Philadelphia 76ers,96
+2015,november,Chicago Bulls,87,Portland Trail Blazers,105
+2015,november,Milwaukee Bucks,82,Toronto Raptors,124
+2015,november,Cleveland Cavaliers,78,Washington Wizards,91
+2015,november,Toronto Raptors,110,Cleveland Cavaliers,93
+2015,november,Dallas Mavericks,92,Houston Rockets,95
+2015,november,Phoenix Suns,106,Indiana Pacers,83
+2015,november,Washington Wizards,111,Milwaukee Bucks,100
+2015,november,Sacramento Kings,113,Minnesota Timberwolves,101
+2015,november,Philadelphia 76ers,83,New York Knicks,91
+2015,november,Miami Heat,99,Orlando Magic,92
+2015,november,Brooklyn Nets,87,San Antonio Spurs,99
+2015,november,New Orleans Pelicans,106,Utah Jazz,94
+2015,november,Portland Trail Blazers,94,Boston Celtics,88
+2015,november,Denver Nuggets,101,Los Angeles Lakers,94
+2015,november,Los Angeles Clippers,91,Memphis Grizzlies,107
+2015,november,Charlotte Hornets,93,Miami Heat,94
+2015,november,Golden State Warriors,91,Oklahoma City Thunder,86
+2015,november,Los Angeles Clippers,113,Charlotte Hornets,92
+2015,november,Orlando Magic,74,Cleveland Cavaliers,106
+2015,november,Indiana Pacers,111,Dallas Mavericks,100
+2015,november,New York Knicks,86,Houston Rockets,91
+2015,november,Portland Trail Blazers,114,Philadelphia 76ers,104
+2015,november,Phoenix Suns,100,Toronto Raptors,104
+2015,november,Chicago Bulls,97,Utah Jazz,95
+2015,november,Chicago Bulls,109,Denver Nuggets,114
+2015,november,Golden State Warriors,114,Miami Heat,97
+2015,november,Detroit Pistons,86,Milwaukee Bucks,98
+2015,november,Sacramento Kings,99,New Orleans Pelicans,89
+2015,november,Atlanta Hawks,106,Washington Wizards,102
+2015,november,Toronto Raptors,126,Atlanta Hawks,115
+2015,november,Portland Trail Blazers,105,Charlotte Hornets,97
+2015,november,Washington Wizards,87,Cleveland Cavaliers,113
+2015,november,New York Knicks,102,Dallas Mavericks,109
+2015,november,Los Angeles Clippers,104,Detroit Pistons,98
+2015,november,Sacramento Kings,89,Houston Rockets,102
+2015,november,Memphis Grizzlies,99,Los Angeles Lakers,93
+2015,november,Milwaukee Bucks,103,Minnesota Timberwolves,86
+2015,november,Utah Jazz,82,Oklahoma City Thunder,97
+2015,november,Golden State Warriors,111,Orlando Magic,96
+2015,november,Brooklyn Nets,99,Philadelphia 76ers,91
+2015,november,Denver Nuggets,112,Phoenix Suns,120
+2015,november,Indiana Pacers,100,San Antonio Spurs,106
+2015,november,New Orleans Pelicans,91,Atlanta Hawks,100
+2015,november,Chicago Bulls,109,Boston Celtics,102
+2015,november,Golden State Warriors,106,Charlotte Hornets,101
+2015,november,Phoenix Suns,97,Denver Nuggets,122
+2015,november,Milwaukee Bucks,104,Detroit Pistons,88
+2015,november,Los Angeles Clippers,102,Houston Rockets,85
+2015,november,Orlando Magic,83,Indiana Pacers,98
+2015,november,Minnesota Timberwolves,120,Los Angeles Lakers,119
+2015,november,New York Knicks,78,Oklahoma City Thunder,105
+2015,november,Memphis Grizzlies,112,Portland Trail Blazers,99
+2015,november,Sacramento Kings,104,San Antonio Spurs,112
+2015,november,Dallas Mavericks,106,Toronto Raptors,102
+2015,november,Charlotte Hornets,75,Atlanta Hawks,105
+2015,november,Indiana Pacers,97,Cleveland Cavaliers,109
+2015,november,Houston Rockets,117,Milwaukee Bucks,103
+2015,november,Dallas Mavericks,110,Philadelphia 76ers,103
+2015,november,Los Angeles Clippers,112,Utah Jazz,96
+2015,november,New Orleans Pelicans,80,Washington Wizards,83
+2015,november,San Antonio Spurs,111,Boston Celtics,89
+2015,november,Chicago Bulls,102,Brooklyn Nets,84
+2015,november,Golden State Warriors,104,Detroit Pistons,93
+2015,november,Toronto Raptors,122,Los Angeles Lakers,129
+2015,november,Miami Heat,86,New York Knicks,79
+2015,november,Orlando Magic,93,Phoenix Suns,90
+2015,november,Minnesota Timberwolves,93,Portland Trail Blazers,107
+2015,november,Memphis Grizzlies,97,Sacramento Kings,85
+2015,december,Minnesota Timberwolves,101,Los Angeles Clippers,127
+2015,december,San Antonio Spurs,109,Philadelphia 76ers,103
+2015,december,Denver Nuggets,103,Utah Jazz,101
+2015,december,Miami Heat,86,Washington Wizards,107
+2015,december,Boston Celtics,105,Atlanta Hawks,109
+2015,december,Dallas Mavericks,132,Chicago Bulls,129
+2015,december,Milwaukee Bucks,108,Cleveland Cavaliers,111
+2015,december,Portland Trail Blazers,105,Denver Nuggets,103
+2015,december,Los Angeles Lakers,106,Detroit Pistons,96
+2015,december,Orlando Magic,97,Golden State Warriors,98
+2015,december,Oklahoma City Thunder,104,New Orleans Pelicans,112
+2015,december,Brooklyn Nets,98,New York Knicks,93
+2015,december,Indiana Pacers,99,Phoenix Suns,116
+2015,december,Toronto Raptors,117,Sacramento Kings,109
+2015,december,Detroit Pistons,102,Boston Celtics,109
+2015,december,San Antonio Spurs,93,Brooklyn Nets,95
+2015,december,Chicago Bulls,102,Charlotte Hornets,95
+2015,december,Memphis Grizzlies,96,Houston Rockets,105
+2015,december,Orlando Magic,86,Los Angeles Clippers,114
+2015,december,Atlanta Hawks,112,Miami Heat,102
+2015,december,Dallas Mavericks,107,Milwaukee Bucks,105
+2015,december,Philadelphia 76ers,85,Minnesota Timberwolves,77
+2015,december,Toronto Raptors,123,Utah Jazz,104
+2015,december,Los Angeles Lakers,95,Washington Wizards,111
+2015,december,New Orleans Pelicans,85,Golden State Warriors,112
+2015,december,Cleveland Cavaliers,90,New York Knicks,87
+2015,december,Indiana Pacers,82,Portland Trail Blazers,88
+2015,december,Los Angeles Lakers,96,Boston Celtics,113
+2015,december,Atlanta Hawks,98,Brooklyn Nets,75
+2015,december,New York Knicks,102,Charlotte Hornets,103
+2015,december,Phoenix Suns,118,Dallas Mavericks,106
+2015,december,San Antonio Spurs,107,Memphis Grizzlies,101
+2015,december,Miami Heat,85,Milwaukee Bucks,109
+2015,december,Houston Rockets,114,Minnesota Timberwolves,112
+2015,december,Oklahoma City Thunder,103,Philadelphia 76ers,91
+2015,december,Indiana Pacers,101,Sacramento Kings,102
+2015,december,Cleveland Cavaliers,105,Toronto Raptors,91
+2015,december,Orlando Magic,98,Utah Jazz,93
+2015,december,Denver Nuggets,89,Washington Wizards,119
+2015,december,Golden State Warriors,112,Chicago Bulls,102
+2015,december,Philadelphia 76ers,108,Detroit Pistons,101
+2015,december,Phoenix Suns,95,Houston Rockets,100
+2015,december,New Orleans Pelicans,100,Los Angeles Clippers,120
+2015,december,Orlando Magic,105,Sacramento Kings,96
+2015,december,Minnesota Timberwolves,101,San Antonio Spurs,123
+2015,december,Denver Nuggets,84,Atlanta Hawks,96
+2015,december,Washington Wizards,93,Boston Celtics,101
+2015,december,Milwaukee Bucks,102,Dallas Mavericks,125
+2015,december,Oklahoma City Thunder,96,Detroit Pistons,94
+2015,december,New Orleans Pelicans,104,Los Angeles Lakers,87
+2015,december,Miami Heat,87,Memphis Grizzlies,103
+2015,december,Portland Trail Blazers,103,New York Knicks,99
+2015,december,Cleveland Cavaliers,110,Brooklyn Nets,88
+2015,december,Atlanta Hawks,108,Indiana Pacers,92
+2015,december,Phoenix Suns,120,Los Angeles Clippers,121
+2015,december,Golden State Warriors,102,Minnesota Timberwolves,86
+2015,december,Utah Jazz,92,Sacramento Kings,101
+2015,december,Denver Nuggets,107,Toronto Raptors,112
+2015,december,Boston Celtics,132,Washington Wizards,133
+2015,december,Toronto Raptors,101,Cleveland Cavaliers,105
+2015,december,Portland Trail Blazers,98,Detroit Pistons,86
+2015,december,Sacramento Kings,95,Los Angeles Lakers,98
+2015,december,Dallas Mavericks,105,Memphis Grizzlies,114
+2015,december,New York Knicks,93,New Orleans Pelicans,104
+2015,december,Milwaukee Bucks,101,Oklahoma City Thunder,114
+2015,december,Miami Heat,103,Phoenix Suns,97
+2015,december,San Antonio Spurs,96,Utah Jazz,100
+2015,december,Philadelphia 76ers,79,Atlanta Hawks,95
+2015,december,Brooklyn Nets,80,Chicago Bulls,105
+2015,december,Boston Celtics,87,Charlotte Hornets,96
+2015,december,New Orleans Pelicans,107,Dallas Mavericks,112
+2015,december,Miami Heat,82,Denver Nuggets,102
+2015,december,Houston Rockets,93,Golden State Warriors,105
+2015,december,Los Angeles Clippers,103,Indiana Pacers,96
+2015,december,Portland Trail Blazers,82,Minnesota Timberwolves,90
+2015,december,Washington Wizards,91,Orlando Magic,89
+2015,december,New York Knicks,95,San Antonio Spurs,109
+2015,december,Cleveland Cavaliers,94,Oklahoma City Thunder,103
+2015,december,Houston Rockets,113,Sacramento Kings,109
+2015,december,Orlando Magic,81,Atlanta Hawks,87
+2015,december,New York Knicks,101,Boston Celtics,95
+2015,december,Philadelphia 76ers,70,Brooklyn Nets,88
+2015,december,Portland Trail Blazers,106,Chicago Bulls,115
+2015,december,Charlotte Hornets,107,Memphis Grizzlies,113
+2015,december,Oklahoma City Thunder,111,Minnesota Timberwolves,92
+2015,december,Cleveland Cavaliers,114,New Orleans Pelicans,119
+2015,december,Detroit Pistons,105,Phoenix Suns,103
+2015,december,Los Angeles Lakers,112,San Antonio Spurs,110
+2015,december,Indiana Pacers,94,Toronto Raptors,106
+2015,december,Miami Heat,100,Utah Jazz,95
+2015,december,Los Angeles Clippers,96,Washington Wizards,104
+2015,december,Brooklyn Nets,114,Charlotte Hornets,87
+2015,december,Golden State Warriors,105,Dallas Mavericks,98
+2015,december,Denver Nuggets,96,Houston Rockets,108
+2015,december,Portland Trail Blazers,95,Indiana Pacers,85
+2015,december,Los Angeles Clippers,106,Milwaukee Bucks,111
+2015,december,Atlanta Hawks,99,Orlando Magic,100
+2015,december,Memphis Grizzlies,120,Philadelphia 76ers,115
+2015,december,Detroit Pistons,95,Sacramento Kings,90
+2015,december,San Antonio Spurs,99,Denver Nuggets,91
+2015,december,Chicago Bulls,93,Miami Heat,75
+2015,december,Los Angeles Lakers,100,Minnesota Timberwolves,94
+2015,december,Golden State Warriors,128,New Orleans Pelicans,122
+2015,december,Toronto Raptors,95,New York Knicks,90
+2015,december,Phoenix Suns,88,Oklahoma City Thunder,112
+2015,december,Utah Jazz,84,Washington Wizards,93
+2015,december,Chicago Bulls,86,Atlanta Hawks,93
+2015,december,Charlotte Hornets,88,Cleveland Cavaliers,97
+2015,december,Los Angeles Lakers,91,Indiana Pacers,110
+2015,december,Detroit Pistons,91,Los Angeles Clippers,113
+2015,december,Boston Celtics,105,Philadelphia 76ers,87
+2015,december,Milwaukee Bucks,96,Phoenix Suns,94
+2015,december,San Antonio Spurs,95,Portland Trail Blazers,108
+2015,december,Orlando Magic,82,Toronto Raptors,95
+2015,december,Miami Heat,95,Brooklyn Nets,91
+2015,december,Golden State Warriors,98,Memphis Grizzlies,105
+2015,december,Utah Jazz,111,New Orleans Pelicans,119
+2015,december,Dallas Mavericks,107,New York Knicks,87
+2015,december,Oklahoma City Thunder,104,Sacramento Kings,92
+2015,december,Minnesota Timberwolves,95,Washington Wizards,109
+2015,december,Orlando Magic,92,Boston Celtics,109
+2015,december,Phoenix Suns,111,Charlotte Hornets,106
+2015,december,Atlanta Hawks,127,Cleveland Cavaliers,98
+2015,december,Houston Rockets,115,Denver Nuggets,111
+2015,december,Dallas Mavericks,117,Detroit Pistons,106
+2015,december,Indiana Pacers,100,Los Angeles Clippers,102
+2015,december,Utah Jazz,105,Miami Heat,87
+2015,december,Milwaukee Bucks,97,Portland Trail Blazers,104
+2015,december,Memphis Grizzlies,117,San Antonio Spurs,116
+2015,december,Brooklyn Nets,89,Toronto Raptors,105
+2015,december,New York Knicks,97,Chicago Bulls,103
+2015,december,Oklahoma City Thunder,109,Golden State Warriors,114
+2015,december,New Orleans Pelicans,99,Houston Rockets,90
+2015,december,Milwaukee Bucks,108,Sacramento Kings,107
+2015,december,Minnesota Timberwolves,98,Boston Celtics,114
+2015,december,Brooklyn Nets,91,Cleveland Cavaliers,95
+2015,december,Los Angeles Clippers,106,Denver Nuggets,109
+2015,december,Toronto Raptors,110,Detroit Pistons,100
+2015,december,Oklahoma City Thunder,104,Los Angeles Lakers,103
+2015,december,Chicago Bulls,103,Memphis Grizzlies,97
+2015,december,Washington Wizards,105,Miami Heat,103
+2015,december,Utah Jazz,101,Orlando Magic,94
+2015,december,Charlotte Hornets,109,Philadelphia 76ers,91
+2015,december,Portland Trail Blazers,129,San Antonio Spurs,119
+2015,december,Utah Jazz,86,Charlotte Hornets,104
+2015,december,San Antonio Spurs,93,Dallas Mavericks,99
+2015,december,Indiana Pacers,73,Denver Nuggets,76
+2015,december,Atlanta Hawks,104,Houston Rockets,97
+2015,december,Milwaukee Bucks,102,Los Angeles Clippers,106
+2015,december,Portland Trail Blazers,114,New Orleans Pelicans,88
+2015,december,Phoenix Suns,99,New York Knicks,90
+2015,december,Detroit Pistons,105,Brooklyn Nets,110
+2015,december,Memphis Grizzlies,91,Cleveland Cavaliers,105
+2015,december,Boston Celtics,84,Miami Heat,100
+2015,december,Indiana Pacers,100,Minnesota Timberwolves,96
+2015,december,New Orleans Pelicans,101,Oklahoma City Thunder,99
+2015,december,Philadelphia 76ers,96,Orlando Magic,88
+2015,december,Los Angeles Lakers,101,Sacramento Kings,108
+2015,december,New York Knicks,108,Toronto Raptors,118
+2015,december,Phoenix Suns,104,Washington Wizards,92
+2015,december,Toronto Raptors,120,Chicago Bulls,129
+2015,december,Denver Nuggets,82,Charlotte Hornets,110
+2015,december,Atlanta Hawks,105,Dallas Mavericks,102
+2015,december,Sacramento Kings,108,Golden State Warriors,128
+2015,december,Portland Trail Blazers,95,Houston Rockets,110
+2015,december,Utah Jazz,97,Memphis Grizzlies,91
+2015,december,Los Angeles Clippers,118,San Antonio Spurs,125
+2015,december,Los Angeles Clippers,104,Atlanta Hawks,107
+2015,december,Denver Nuggets,96,Brooklyn Nets,102
+2015,december,Minnesota Timberwolves,104,Cleveland Cavaliers,125
+2015,december,New Orleans Pelicans,84,Indiana Pacers,96
+2015,december,Golden State Warriors,105,Los Angeles Lakers,115
+2015,december,Philadelphia 76ers,91,Miami Heat,87
+2015,december,Charlotte Hornets,108,Milwaukee Bucks,101
+2015,december,Portland Trail Blazers,115,Oklahoma City Thunder,111
+2015,december,Boston Celtics,95,Orlando Magic,100
+2015,december,Dallas Mavericks,115,Phoenix Suns,124
+2015,december,Chicago Bulls,99,Washington Wizards,91
+2015,december,Los Angeles Lakers,93,Chicago Bulls,113
+2015,december,Golden State Warriors,86,Los Angeles Clippers,100
+2015,december,Cleveland Cavaliers,91,Miami Heat,101
+2015,december,Washington Wizards,102,New York Knicks,91
+2015,december,Oklahoma City Thunder,114,San Antonio Spurs,106
+2015,december,Milwaukee Bucks,107,Atlanta Hawks,77
+2015,december,Brooklyn Nets,109,Boston Celtics,107
+2015,december,Los Angeles Lakers,98,Dallas Mavericks,102
+2015,december,Minnesota Timberwolves,102,Denver Nuggets,106
+2015,december,Indiana Pacers,109,Detroit Pistons,119
+2015,december,Houston Rockets,117,Memphis Grizzlies,111
+2015,december,San Antonio Spurs,90,New Orleans Pelicans,97
+2015,december,Charlotte Hornets,75,Oklahoma City Thunder,98
+2015,december,Cleveland Cavaliers,98,Orlando Magic,89
+2015,december,Philadelphia 76ers,93,Portland Trail Blazers,114
+2015,december,Phoenix Suns,115,Sacramento Kings,106
+2015,december,Indiana Pacers,110,Brooklyn Nets,85
+2015,december,New Orleans Pelicans,100,Chicago Bulls,107
+2015,december,Orlando Magic,102,Charlotte Hornets,94
+2015,december,Minnesota Timberwolves,97,Golden State Warriors,110
+2015,december,Toronto Raptors,110,Los Angeles Clippers,98
+2015,december,Memphis Grizzlies,103,Miami Heat,95
+2015,december,Atlanta Hawks,90,Milwaukee Bucks,85
+2015,december,New York Knicks,129,Sacramento Kings,135
+2015,december,Philadelphia 76ers,71,Utah Jazz,88
+2015,december,Boston Celtics,88,Washington Wizards,101
+2015,december,Detroit Pistons,103,Cleveland Cavaliers,80
+2015,december,Oklahoma City Thunder,107,Dallas Mavericks,112
+2015,december,Toronto Raptors,116,Denver Nuggets,102
+2015,december,Phoenix Suns,116,Los Angeles Lakers,107
+2015,december,New York Knicks,79,Portland Trail Blazers,101
+2015,december,Houston Rockets,106,San Antonio Spurs,110
+2015,december,Sacramento Kings,99,Brooklyn Nets,107
+2015,december,Milwaukee Bucks,104,Charlotte Hornets,94
+2015,december,Washington Wizards,104,Houston Rockets,103
+2015,december,Chicago Bulls,92,Indiana Pacers,90
+2015,december,Utah Jazz,97,Los Angeles Clippers,101
+2015,december,Orlando Magic,102,Miami Heat,101
+2015,december,Cleveland Cavaliers,101,Atlanta Hawks,109
+2015,december,Brooklyn Nets,96,Chicago Bulls,82
+2015,december,Washington Wizards,87,Dallas Mavericks,114
+2015,december,Los Angeles Lakers,111,Denver Nuggets,103
+2015,december,Philadelphia 76ers,86,Golden State Warriors,126
+2015,december,San Antonio Spurs,87,Memphis Grizzlies,95
+2015,december,Phoenix Suns,106,New Orleans Pelicans,110
+2015,december,Detroit Pistons,109,Orlando Magic,86
+2015,december,Toronto Raptors,97,Portland Trail Blazers,102
+2015,december,Minnesota Timberwolves,94,Utah Jazz,100
+2015,december,Sacramento Kings,84,Boston Celtics,106
+2015,december,Milwaukee Bucks,96,Cleveland Cavaliers,80
+2015,december,Charlotte Hornets,83,Houston Rockets,102
+2015,december,Miami Heat,95,Indiana Pacers,106
+2015,december,New York Knicks,78,Los Angeles Clippers,99
+2015,december,Phoenix Suns,134,Oklahoma City Thunder,137
+2015,december,New Orleans Pelicans,93,San Antonio Spurs,95
+2015,january,Denver Nuggets,101,Chicago Bulls,106
+2015,january,Sacramento Kings,110,Minnesota Timberwolves,107
+2015,january,Dallas Mavericks,119,Boston Celtics,101
+2015,january,Cleveland Cavaliers,91,Charlotte Hornets,87
+2015,january,Toronto Raptors,105,Golden State Warriors,126
+2015,january,Memphis Grizzlies,109,Los Angeles Lakers,106
+2015,january,Indiana Pacers,94,Milwaukee Bucks,91
+2015,january,Houston Rockets,83,New Orleans Pelicans,111
+2015,january,Detroit Pistons,97,New York Knicks,81
+2015,january,Washington Wizards,102,Oklahoma City Thunder,109
+2015,january,Brooklyn Nets,100,Orlando Magic,98
+2015,january,Philadelphia 76ers,96,Phoenix Suns,112
+2015,january,Atlanta Hawks,98,Utah Jazz,92
+2015,january,Boston Celtics,104,Chicago Bulls,109
+2015,january,Memphis Grizzlies,85,Denver Nuggets,114
+2015,january,Miami Heat,79,Houston Rockets,115
+2015,january,Philadelphia 76ers,91,Los Angeles Clippers,127
+2015,january,Utah Jazz,101,Minnesota Timberwolves,89
+2015,january,Charlotte Hornets,98,Orlando Magic,90
+2015,january,Atlanta Hawks,115,Portland Trail Blazers,107
+2015,january,Washington Wizards,92,San Antonio Spurs,101
+2015,january,Dallas Mavericks,109,Cleveland Cavaliers,90
+2015,january,Sacramento Kings,95,Detroit Pistons,114
+2015,january,Indiana Pacers,87,Los Angeles Lakers,88
+2015,january,Brooklyn Nets,84,Miami Heat,88
+2015,january,Milwaukee Bucks,95,New York Knicks,82
+2015,january,Toronto Raptors,109,Phoenix Suns,125
+2015,january,Charlotte Hornets,104,Boston Celtics,95
+2015,january,Dallas Mavericks,96,Brooklyn Nets,88
+2015,january,Houston Rockets,105,Chicago Bulls,114
+2015,january,Oklahoma City Thunder,91,Golden State Warriors,117
+2015,january,Atlanta Hawks,107,Los Angeles Clippers,98
+2015,january,New York Knicks,83,Memphis Grizzlies,105
+2015,january,Denver Nuggets,110,Minnesota Timberwolves,101
+2015,january,Washington Wizards,92,New Orleans Pelicans,85
+2015,january,Cleveland Cavaliers,92,Philadelphia 76ers,95
+2015,january,Los Angeles Lakers,94,Portland Trail Blazers,98
+2015,january,Indiana Pacers,105,Utah Jazz,101
+2015,january,Phoenix Suns,102,Milwaukee Bucks,96
+2015,january,Detroit Pistons,105,San Antonio Spurs,104
+2015,january,Memphis Grizzlies,86,Atlanta Hawks,96
+2015,january,Boston Celtics,89,Brooklyn Nets,81
+2015,january,Utah Jazz,97,Chicago Bulls,77
+2015,january,New Orleans Pelicans,94,Charlotte Hornets,98
+2015,january,Houston Rockets,105,Cleveland Cavaliers,93
+2015,january,Detroit Pistons,108,Dallas Mavericks,95
+2015,january,Orlando Magic,90,Denver Nuggets,93
+2015,january,Indiana Pacers,102,Golden State Warriors,117
+2015,january,Los Angeles Lakers,89,Los Angeles Clippers,114
+2015,january,Phoenix Suns,113,Minnesota Timberwolves,111
+2015,january,Milwaukee Bucks,97,Philadelphia 76ers,77
+2015,january,Oklahoma City Thunder,83,Sacramento Kings,104
+2015,january,New York Knicks,91,Washington Wizards,101
+2015,january,Houston Rockets,120,New York Knicks,96
+2015,january,Miami Heat,83,Portland Trail Blazers,99
+2015,january,Charlotte Hornets,103,Toronto Raptors,95
+2015,january,Philadelphia 76ers,90,Brooklyn Nets,88
+2015,january,Atlanta Hawks,106,Detroit Pistons,103
+2015,january,Cleveland Cavaliers,94,Golden State Warriors,112
+2015,january,Boston Celtics,103,Indiana Pacers,107
+2015,january,Orlando Magic,84,Los Angeles Lakers,101
+2015,january,Minnesota Timberwolves,84,Milwaukee Bucks,98
+2015,january,Memphis Grizzlies,95,New Orleans Pelicans,106
+2015,january,Utah Jazz,94,Oklahoma City Thunder,99
+2015,january,Denver Nuggets,118,Sacramento Kings,108
+2015,january,Phoenix Suns,95,San Antonio Spurs,100
+2015,january,Chicago Bulls,86,Washington Wizards,102
+2015,january,Milwaukee Bucks,87,Chicago Bulls,95
+2015,january,Brooklyn Nets,93,Detroit Pistons,98
+2015,january,Utah Jazz,82,Houston Rockets,97
+2015,january,Dallas Mavericks,100,Los Angeles Clippers,120
+2015,january,San Antonio Spurs,108,Minnesota Timberwolves,93
+2015,january,Charlotte Hornets,110,New York Knicks,82
+2015,january,Indiana Pacers,92,Philadelphia 76ers,93
+2015,january,Orlando Magic,92,Portland Trail Blazers,103
+2015,january,Boston Celtics,96,Toronto Raptors,109
+2015,january,Washington Wizards,89,Atlanta Hawks,120
+2015,january,Miami Heat,104,Los Angeles Clippers,90
+2015,january,Portland Trail Blazers,106,Los Angeles Lakers,94
+2015,january,Phoenix Suns,110,Memphis Grizzlies,122
+2015,january,Cleveland Cavaliers,84,Sacramento Kings,103
+2015,january,New Orleans Pelicans,100,Boston Celtics,108
+2015,january,Houston Rockets,113,Brooklyn Nets,99
+2015,january,Orlando Magic,121,Chicago Bulls,114
+2015,january,Detroit Pistons,114,Toronto Raptors,111
+2015,january,Minnesota Timberwolves,110,Indiana Pacers,101
+2015,january,Miami Heat,78,Los Angeles Lakers,75
+2015,january,Atlanta Hawks,105,Philadelphia 76ers,87
+2015,january,Cleveland Cavaliers,100,Phoenix Suns,107
+2015,january,Dallas Mavericks,108,Sacramento Kings,104
+2015,january,Golden State Warriors,116,Utah Jazz,105
+2015,january,San Antonio Spurs,93,Washington Wizards,101
+2015,january,Atlanta Hawks,105,Boston Celtics,91
+2015,january,Memphis Grizzlies,103,Brooklyn Nets,92
+2015,january,Washington Wizards,105,Chicago Bulls,99
+2015,january,San Antonio Spurs,98,Charlotte Hornets,93
+2015,january,Dallas Mavericks,107,Denver Nuggets,114
+2015,january,New Orleans Pelicans,105,Detroit Pistons,94
+2015,january,Miami Heat,89,Golden State Warriors,104
+2015,january,Houston Rockets,113,Orlando Magic,120
+2015,january,Los Angeles Clippers,100,Portland Trail Blazers,94
+2015,january,Philadelphia 76ers,84,Toronto Raptors,100
+2015,january,Oklahoma City Thunder,101,Houston Rockets,112
+2015,january,Cleveland Cavaliers,109,Los Angeles Lakers,102
+2015,january,New York Knicks,79,Milwaukee Bucks,95
+2015,january,Chicago Bulls,119,Boston Celtics,103
+2015,january,Denver Nuggets,89,Dallas Mavericks,97
+2015,january,Detroit Pistons,98,Indiana Pacers,96
+2015,january,Cleveland Cavaliers,126,Los Angeles Clippers,121
+2015,january,Golden State Warriors,115,Oklahoma City Thunder,127
+2015,january,Memphis Grizzlies,106,Orlando Magic,96
+2015,january,New Orleans Pelicans,81,Philadelphia 76ers,96
+2015,january,Minnesota Timberwolves,99,Phoenix Suns,110
+2015,january,Miami Heat,95,Sacramento Kings,83
+2015,january,Portland Trail Blazers,96,San Antonio Spurs,110
+2015,january,Atlanta Hawks,110,Toronto Raptors,89
+2015,january,Los Angeles Lakers,85,Utah Jazz,94
+2015,january,Brooklyn Nets,102,Washington Wizards,80
+2015,january,Washington Wizards,99,Brooklyn Nets,90
+2015,january,Atlanta Hawks,107,Chicago Bulls,99
+2015,january,Indiana Pacers,71,Charlotte Hornets,80
+2015,january,Minnesota Timberwolves,113,Denver Nuggets,105
+2015,january,Philadelphia 76ers,89,Detroit Pistons,107
+2015,january,Golden State Warriors,131,Houston Rockets,106
+2015,january,Portland Trail Blazers,98,Memphis Grizzlies,102
+2015,january,Los Angeles Clippers,117,Sacramento Kings,108
+2015,january,Oklahoma City Thunder,127,Orlando Magic,99
+2015,january,Utah Jazz,69,San Antonio Spurs,89
+2015,january,New Orleans Pelicans,95,Toronto Raptors,93
+2015,january,Detroit Pistons,82,Atlanta Hawks,93
+2015,january,Minnesota Timberwolves,80,Charlotte Hornets,105
+2015,january,Chicago Bulls,94,Cleveland Cavaliers,108
+2015,january,Denver Nuggets,79,Golden State Warriors,122
+2015,january,Indiana Pacers,98,Houston Rockets,110
+2015,january,Boston Celtics,93,Los Angeles Clippers,102
+2015,january,Dallas Mavericks,103,Memphis Grizzlies,95
+2015,january,Toronto Raptors,92,Milwaukee Bucks,89
+2015,january,New Orleans Pelicans,92,New York Knicks,99
+2015,january,Los Angeles Lakers,100,Phoenix Suns,115
+2015,january,Sacramento Kings,94,Portland Trail Blazers,98
+2015,january,Philadelphia 76ers,76,Washington Wizards,111
+2015,january,San Antonio Spurs,109,Denver Nuggets,99
+2015,january,Oklahoma City Thunder,94,Miami Heat,86
+2015,january,Indiana Pacers,91,Atlanta Hawks,110
+2015,january,Miami Heat,76,Charlotte Hornets,78
+2015,january,Utah Jazz,92,Cleveland Cavaliers,106
+2015,january,Orlando Magic,118,Detroit Pistons,128
+2015,january,Houston Rockets,113,Golden State Warriors,126
+2015,january,Toronto Raptors,86,Memphis Grizzlies,92
+2015,january,Dallas Mavericks,98,Minnesota Timberwolves,75
+2015,january,Los Angeles Lakers,80,New Orleans Pelicans,96
+2015,january,New York Knicks,98,Philadelphia 76ers,91
+2015,january,Portland Trail Blazers,113,Phoenix Suns,118
+2015,january,Brooklyn Nets,103,Sacramento Kings,100
+2015,january,Oklahoma City Thunder,105,Washington Wizards,103
+2015,january,San Antonio Spurs,81,Chicago Bulls,104
+2015,january,Brooklyn Nets,84,Los Angeles Clippers,123
+2015,january,Utah Jazz,101,Milwaukee Bucks,99
+2015,january,Boston Celtics,90,Portland Trail Blazers,89
+2015,january,Oklahoma City Thunder,93,Atlanta Hawks,103
+2015,january,Charlotte Hornets,90,Cleveland Cavaliers,129
+2015,january,Chicago Bulls,102,Dallas Mavericks,98
+2015,january,Boston Celtics,100,Denver Nuggets,99
+2015,january,Sacramento Kings,101,Golden State Warriors,126
+2015,january,Indiana Pacers,87,Miami Heat,89
+2015,january,New Orleans Pelicans,92,Minnesota Timberwolves,84
+2015,january,Orlando Magic,106,New York Knicks,113
+2015,january,Toronto Raptors,91,Philadelphia 76ers,86
+2015,january,Houston Rockets,113,Phoenix Suns,111
+2015,january,Los Angeles Lakers,85,San Antonio Spurs,99
+2015,january,New York Knicks,71,Charlotte Hornets,76
+2015,january,Philadelphia 76ers,83,Memphis Grizzlies,101
+2015,january,Detroit Pistons,86,Milwaukee Bucks,101
+2015,january,Washington Wizards,96,Portland Trail Blazers,103
+2015,january,Brooklyn Nets,73,Utah Jazz,108
+2015,january,Minnesota Timberwolves,100,Atlanta Hawks,112
+2015,january,Miami Heat,96,Chicago Bulls,84
+2015,january,Oklahoma City Thunder,98,Cleveland Cavaliers,108
+2015,january,Washington Wizards,117,Denver Nuggets,115
+2015,january,Boston Celtics,111,Golden State Warriors,114
+2015,january,Houston Rockets,99,Los Angeles Lakers,87
+2015,january,Dallas Mavericks,106,New Orleans Pelicans,109
+2015,january,Indiana Pacers,106,Orlando Magic,99
+2015,january,Los Angeles Clippers,120,Phoenix Suns,100
+2015,january,Milwaukee Bucks,95,San Antonio Spurs,101
+2015,january,Detroit Pistons,110,Toronto Raptors,114
+2015,january,Denver Nuggets,98,Los Angeles Clippers,102
+2015,january,Orlando Magic,94,Memphis Grizzlies,103
+2015,january,Philadelphia 76ers,74,New Orleans Pelicans,99
+2015,january,Minnesota Timberwolves,84,Oklahoma City Thunder,92
+2015,january,Boston Celtics,99,Utah Jazz,90
+2015,january,Memphis Grizzlies,109,Dallas Mavericks,90
+2015,january,Cleveland Cavaliers,103,Detroit Pistons,95
+2015,january,Chicago Bulls,113,Golden State Warriors,111
+2015,january,Toronto Raptors,104,Indiana Pacers,91
+2015,january,Washington Wizards,98,Los Angeles Lakers,92
+2015,january,Milwaukee Bucks,109,Miami Heat,102
+2015,january,Brooklyn Nets,102,Atlanta Hawks,113
+2015,january,Portland Trail Blazers,94,Cleveland Cavaliers,99
+2015,january,Dallas Mavericks,94,Houston Rockets,99
+2015,january,Boston Celtics,98,Minnesota Timberwolves,110
+2015,january,Denver Nuggets,93,New Orleans Pelicans,85
+2015,january,Oklahoma City Thunder,92,New York Knicks,100
+2015,january,Detroit Pistons,69,Philadelphia 76ers,89
+2015,january,Washington Wizards,98,Phoenix Suns,106
+2015,january,Charlotte Hornets,86,San Antonio Spurs,95
+2015,january,Sacramento Kings,102,Toronto Raptors,119
+2015,january,Los Angeles Clippers,94,Utah Jazz,89
+2015,january,New York Knicks,82,Indiana Pacers,103
+2015,january,Chicago Bulls,118,Los Angeles Lakers,123
+2015,january,Denver Nuggets,69,Memphis Grizzlies,99
+2015,january,Milwaukee Bucks,115,Orlando Magic,100
+2015,january,Portland Trail Blazers,99,Atlanta Hawks,105
+2015,january,Houston Rockets,93,Boston Celtics,87
+2015,january,Toronto Raptors,127,Brooklyn Nets,122
+2015,january,Sacramento Kings,90,Cleveland Cavaliers,101
+2015,january,Dallas Mavericks,93,Miami Heat,72
+2015,january,Los Angeles Clippers,103,New Orleans Pelicans,108
+2015,january,Minnesota Timberwolves,94,Philadelphia 76ers,103
+2015,january,Chicago Bulls,93,Phoenix Suns,99
+2015,january,Golden State Warriors,100,Utah Jazz,110
+2015,january,Philadelphia 76ers,85,Atlanta Hawks,91
+2015,january,Charlotte Hornets,104,Denver Nuggets,86
+2015,january,Houston Rockets,101,Detroit Pistons,114
+2015,january,Phoenix Suns,87,Golden State Warriors,106
+2015,january,Sacramento Kings,99,Indiana Pacers,94
+2015,january,Oklahoma City Thunder,74,Memphis Grizzlies,85
+2015,january,Portland Trail Blazers,88,Milwaukee Bucks,95
+2015,january,Cleveland Cavaliers,106,Minnesota Timberwolves,90
+2015,january,Dallas Mavericks,108,Orlando Magic,93
+2015,january,Los Angeles Clippers,105,San Antonio Spurs,85
+2015,january,Toronto Raptors,120,Washington Wizards,116
+2015,february,Miami Heat,83,Boston Celtics,75
+2015,february,Los Angeles Lakers,80,New York Knicks,92
+2015,february,Los Angeles Clippers,100,Brooklyn Nets,102
+2015,february,Philadelphia 76ers,84,Cleveland Cavaliers,97
+2015,february,Minnesota Timberwolves,94,Dallas Mavericks,100
+2015,february,Atlanta Hawks,100,New Orleans Pelicans,115
+2015,february,Orlando Magic,97,Oklahoma City Thunder,104
+2015,february,Memphis Grizzlies,102,Phoenix Suns,101
+2015,february,Milwaukee Bucks,82,Toronto Raptors,75
+2015,february,Charlotte Hornets,92,Washington Wizards,88
+2015,february,Miami Heat,91,Detroit Pistons,108
+2015,february,Boston Celtics,108,New York Knicks,97
+2015,february,Denver Nuggets,98,Philadelphia 76ers,105
+2015,february,Utah Jazz,102,Portland Trail Blazers,103
+2015,february,Golden State Warriors,121,Sacramento Kings,96
+2015,february,Washington Wizards,96,Atlanta Hawks,105
+2015,february,Denver Nuggets,100,Boston Celtics,104
+2015,february,Dallas Mavericks,114,Golden State Warriors,128
+2015,february,Chicago Bulls,90,Houston Rockets,101
+2015,february,Detroit Pistons,109,Indiana Pacers,114
+2015,february,Los Angeles Lakers,105,Milwaukee Bucks,113
+2015,february,Miami Heat,101,Minnesota Timberwolves,102
+2015,february,Oklahoma City Thunder,102,New Orleans Pelicans,91
+2015,february,Orlando Magic,103,San Antonio Spurs,110
+2015,february,Brooklyn Nets,109,Toronto Raptors,93
+2015,february,Memphis Grizzlies,100,Utah Jazz,90
+2015,february,Washington Wizards,87,Charlotte Hornets,94
+2015,february,Los Angeles Clippers,94,Cleveland Cavaliers,105
+2015,february,Phoenix Suns,87,Portland Trail Blazers,108
+2015,february,Dallas Mavericks,101,Sacramento Kings,78
+2015,february,Golden State Warriors,116,Atlanta Hawks,124
+2015,february,Philadelphia 76ers,96,Boston Celtics,107
+2015,february,New York Knicks,88,Brooklyn Nets,92
+2015,february,Denver Nuggets,88,Detroit Pistons,98
+2015,february,Milwaukee Bucks,111,Houston Rockets,117
+2015,february,Cleveland Cavaliers,99,Indiana Pacers,103
+2015,february,Memphis Grizzlies,89,Minnesota Timberwolves,90
+2015,february,New Orleans Pelicans,116,Oklahoma City Thunder,113
+2015,february,Los Angeles Lakers,97,Orlando Magic,103
+2015,february,Utah Jazz,93,Phoenix Suns,100
+2015,february,Miami Heat,85,San Antonio Spurs,98
+2015,february,Los Angeles Clippers,107,Toronto Raptors,123
+2015,february,Portland Trail Blazers,101,Dallas Mavericks,111
+2015,february,Boston Celtics,93,Milwaukee Bucks,96
+2015,february,Chicago Bulls,107,New Orleans Pelicans,72
+2015,february,Golden State Warriors,106,New York Knicks,92
+2015,february,Charlotte Hornets,81,Philadelphia 76ers,89
+2015,february,Sacramento Kings,90,Utah Jazz,102
+2015,february,Brooklyn Nets,77,Washington Wizards,114
+2015,february,Indiana Pacers,103,Charlotte Hornets,102
+2015,february,Los Angeles Lakers,105,Cleveland Cavaliers,120
+2015,february,Minnesota Timberwolves,112,Detroit Pistons,101
+2015,february,Portland Trail Blazers,109,Houston Rockets,98
+2015,february,Atlanta Hawks,88,Memphis Grizzlies,94
+2015,february,Los Angeles Clippers,108,Oklahoma City Thunder,131
+2015,february,Chicago Bulls,98,Orlando Magic,97
+2015,february,Phoenix Suns,83,Sacramento Kings,85
+2015,february,San Antonio Spurs,82,Toronto Raptors,87
+2015,february,Los Angeles Clippers,115,Dallas Mavericks,98
+2015,february,Oklahoma City Thunder,124,Denver Nuggets,114
+2015,february,San Antonio Spurs,95,Indiana Pacers,93
+2015,february,New York Knicks,95,Miami Heat,109
+2015,february,Brooklyn Nets,97,Milwaukee Bucks,103
+2015,february,Atlanta Hawks,117,Minnesota Timberwolves,105
+2015,february,Utah Jazz,100,New Orleans Pelicans,96
+2015,february,Golden State Warriors,89,Philadelphia 76ers,84
+2015,february,Orlando Magic,80,Washington Wizards,96
+2015,february,Sacramento Kings,86,Chicago Bulls,104
+2015,february,Detroit Pistons,106,Charlotte Hornets,78
+2015,february,Denver Nuggets,106,Los Angeles Lakers,96
+2015,february,Brooklyn Nets,86,Memphis Grizzlies,95
+2015,february,Houston Rockets,127,Phoenix Suns,118
+2015,february,Atlanta Hawks,88,Boston Celtics,89
+2015,february,Miami Heat,93,Cleveland Cavaliers,113
+2015,february,Utah Jazz,82,Dallas Mavericks,87
+2015,february,San Antonio Spurs,104,Detroit Pistons,87
+2015,february,Houston Rockets,95,Los Angeles Clippers,110
+2015,february,Sacramento Kings,103,Milwaukee Bucks,111
+2015,february,Golden State Warriors,94,Minnesota Timberwolves,91
+2015,february,Indiana Pacers,106,New Orleans Pelicans,93
+2015,february,Memphis Grizzlies,89,Oklahoma City Thunder,105
+2015,february,New York Knicks,83,Orlando Magic,89
+2015,february,Los Angeles Lakers,86,Portland Trail Blazers,102
+2015,february,Washington Wizards,93,Toronto Raptors,95
+2015,february,Cleveland Cavaliers,98,Chicago Bulls,113
+2015,february,San Antonio Spurs,115,Los Angeles Clippers,119
+2015,february,Dallas Mavericks,89,Oklahoma City Thunder,104
+2015,february,Toronto Raptors,105,Atlanta Hawks,80
+2015,february,Houston Rockets,100,Dallas Mavericks,111
+2015,february,Chicago Bulls,91,Detroit Pistons,100
+2015,february,San Antonio Spurs,99,Golden State Warriors,110
+2015,february,Brooklyn Nets,114,Los Angeles Lakers,105
+2015,february,Denver Nuggets,81,Milwaukee Bucks,89
+2015,february,Phoenix Suns,109,Minnesota Timberwolves,111
+2015,february,Miami Heat,111,New York Knicks,87
+2015,february,New Orleans Pelicans,84,Orlando Magic,95
+2015,february,Indiana Pacers,106,Philadelphia 76ers,95
+2015,february,Boston Celtics,101,Sacramento Kings,109
+2015,february,Portland Trail Blazers,76,Utah Jazz,92
+2015,february,Cleveland Cavaliers,127,Washington Wizards,89
+2015,february,Phoenix Suns,107,Chicago Bulls,112
+2015,february,Oklahoma City Thunder,110,Charlotte Hornets,103
+2015,february,Toronto Raptors,76,Houston Rockets,98
+2015,february,Sacramento Kings,99,Los Angeles Clippers,126
+2015,february,New Orleans Pelicans,105,Miami Heat,91
+2015,february,Charlotte Hornets,81,Dallas Mavericks,92
+2015,february,Washington Wizards,89,Detroit Pistons,106
+2015,february,Golden State Warriors,98,Indiana Pacers,104
+2015,february,Boston Celtics,111,Los Angeles Lakers,118
+2015,february,Atlanta Hawks,97,Milwaukee Bucks,86
+2015,february,Cleveland Cavaliers,101,New York Knicks,83
+2015,february,Denver Nuggets,94,Oklahoma City Thunder,119
+2015,february,Philadelphia 76ers,98,Orlando Magic,103
+2015,february,Memphis Grizzlies,98,Portland Trail Blazers,92
+2015,february,Milwaukee Bucks,71,Chicago Bulls,87
+2015,february,Brooklyn Nets,110,Denver Nuggets,82
+2015,february,Minnesota Timberwolves,102,Houston Rockets,113
+2015,february,Memphis Grizzlies,90,Los Angeles Clippers,87
+2015,february,Philadelphia 76ers,108,Miami Heat,119
+2015,february,Toronto Raptors,97,New Orleans Pelicans,100
+2015,february,Boston Celtics,115,Phoenix Suns,110
+2015,february,San Antonio Spurs,81,Utah Jazz,90
+2015,february,Toronto Raptors,92,Dallas Mavericks,99
+2015,february,Cleveland Cavaliers,102,Detroit Pistons,93
+2015,february,Indiana Pacers,92,Oklahoma City Thunder,105
+2015,february,Golden State Warriors,114,Washington Wizards,107
+2015,february,Dallas Mavericks,87,Atlanta Hawks,104
+2015,february,New York Knicks,94,Boston Celtics,115
+2015,february,Charlotte Hornets,98,Chicago Bulls,86
+2015,february,Phoenix Suns,110,Denver Nuggets,96
+2015,february,Los Angeles Clippers,105,Houston Rockets,110
+2015,february,Philadelphia 76ers,88,Milwaukee Bucks,104
+2015,february,Washington Wizards,77,Minnesota Timberwolves,97
+2015,february,Brooklyn Nets,96,New Orleans Pelicans,102
+2015,february,Miami Heat,93,Orlando Magic,90
+2015,february,San Antonio Spurs,95,Portland Trail Blazers,111
+2015,february,Memphis Grizzlies,90,Sacramento Kings,102
+2015,february,Los Angeles Lakers,100,Utah Jazz,97
+2015,february,Golden State Warriors,99,Cleveland Cavaliers,110
+2015,february,Oklahoma City Thunder,113,Phoenix Suns,117
+2015,february,Orlando Magic,88,Atlanta Hawks,95
+2015,february,Charlotte Hornets,98,Boston Celtics,106
+2015,february,Minnesota Timberwolves,89,Chicago Bulls,96
+2015,february,Utah Jazz,104,Denver Nuggets,82
+2015,february,New York Knicks,121,Detroit Pistons,115
+2015,february,Brooklyn Nets,98,Houston Rockets,102
+2015,february,Cleveland Cavaliers,86,Indiana Pacers,93
+2015,february,Milwaukee Bucks,93,Los Angeles Lakers,101
+2015,february,Los Angeles Clippers,97,Memphis Grizzlies,79
+2015,february,Miami Heat,102,New Orleans Pelicans,104
+2015,february,Washington Wizards,81,Philadelphia 76ers,89
+2015,february,Oklahoma City Thunder,112,Portland Trail Blazers,115
+2015,february,San Antonio Spurs,107,Sacramento Kings,96
+2015,february,Golden State Warriors,113,Toronto Raptors,89
+2015,february,Brooklyn Nets,104,Dallas Mavericks,94
+2015,february,Atlanta Hawks,93,Miami Heat,91
+2015,february,Memphis Grizzlies,101,Minnesota Timberwolves,97
+2015,february,Toronto Raptors,98,New York Knicks,103
+2015,february,San Antonio Spurs,101,Phoenix Suns,74
+2015,february,Milwaukee Bucks,75,Utah Jazz,82
+2015,february,Detroit Pistons,95,Washington Wizards,99
+2015,march,Golden State Warriors,106,Boston Celtics,101
+2015,march,Los Angeles Clippers,96,Chicago Bulls,86
+2015,march,New Orleans Pelicans,99,Denver Nuggets,92
+2015,march,Cleveland Cavaliers,103,Houston Rockets,105
+2015,march,Philadelphia 76ers,74,Indiana Pacers,94
+2015,march,Oklahoma City Thunder,108,Los Angeles Lakers,101
+2015,march,Charlotte Hornets,98,Orlando Magic,83
+2015,march,Portland Trail Blazers,110,Sacramento Kings,99
+2015,march,Golden State Warriors,108,Brooklyn Nets,110
+2015,march,New Orleans Pelicans,93,Dallas Mavericks,102
+2015,march,Phoenix Suns,98,Miami Heat,115
+2015,march,Los Angeles Clippers,110,Minnesota Timberwolves,105
+2015,march,Toronto Raptors,114,Philadelphia 76ers,103
+2015,march,Houston Rockets,96,Atlanta Hawks,104
+2015,march,Washington Wizards,92,Chicago Bulls,97
+2015,march,Los Angeles Lakers,103,Charlotte Hornets,104
+2015,march,Boston Celtics,79,Cleveland Cavaliers,110
+2015,march,Milwaukee Bucks,95,Denver Nuggets,106
+2015,march,Utah Jazz,93,Memphis Grizzlies,82
+2015,march,Sacramento Kings,124,New York Knicks,86
+2015,march,Utah Jazz,84,Boston Celtics,85
+2015,march,Charlotte Hornets,115,Brooklyn Nets,91
+2015,march,Milwaukee Bucks,93,Golden State Warriors,102
+2015,march,Memphis Grizzlies,102,Houston Rockets,100
+2015,march,New York Knicks,82,Indiana Pacers,105
+2015,march,Portland Trail Blazers,98,Los Angeles Clippers,93
+2015,march,Los Angeles Lakers,94,Miami Heat,100
+2015,march,Denver Nuggets,100,Minnesota Timberwolves,85
+2015,march,Detroit Pistons,85,New Orleans Pelicans,88
+2015,march,Philadelphia 76ers,118,Oklahoma City Thunder,123
+2015,march,Phoenix Suns,105,Orlando Magic,100
+2015,march,Sacramento Kings,85,San Antonio Spurs,112
+2015,march,Cleveland Cavaliers,120,Toronto Raptors,112
+2015,march,Oklahoma City Thunder,105,Chicago Bulls,108
+2015,march,Dallas Mavericks,75,Portland Trail Blazers,94
+2015,march,Cleveland Cavaliers,97,Atlanta Hawks,106
+2015,march,Phoenix Suns,108,Brooklyn Nets,100
+2015,march,Toronto Raptors,94,Charlotte Hornets,103
+2015,march,Dallas Mavericks,89,Golden State Warriors,104
+2015,march,Detroit Pistons,93,Houston Rockets,103
+2015,march,Chicago Bulls,84,Indiana Pacers,98
+2015,march,Los Angeles Lakers,90,Memphis Grizzlies,97
+2015,march,Boston Celtics,104,New Orleans Pelicans,98
+2015,march,Sacramento Kings,114,Orlando Magic,119
+2015,march,Utah Jazz,89,Philadelphia 76ers,83
+2015,march,Denver Nuggets,111,San Antonio Spurs,120
+2015,march,Miami Heat,97,Washington Wizards,99
+2015,march,Phoenix Suns,79,Cleveland Cavaliers,89
+2015,march,Houston Rockets,114,Denver Nuggets,100
+2015,march,Sacramento Kings,109,Miami Heat,114
+2015,march,Washington Wizards,85,Milwaukee Bucks,91
+2015,march,Portland Trail Blazers,113,Minnesota Timberwolves,121
+2015,march,Memphis Grizzlies,89,New Orleans Pelicans,95
+2015,march,Indiana Pacers,92,New York Knicks,86
+2015,march,Atlanta Hawks,84,Philadelphia 76ers,92
+2015,march,Utah Jazz,95,Brooklyn Nets,88
+2015,march,Charlotte Hornets,108,Detroit Pistons,101
+2015,march,Los Angeles Clippers,98,Golden State Warriors,106
+2015,march,Dallas Mavericks,100,Los Angeles Lakers,93
+2015,march,Toronto Raptors,104,Oklahoma City Thunder,108
+2015,march,Boston Celtics,98,Orlando Magic,103
+2015,march,Chicago Bulls,105,San Antonio Spurs,116
+2015,march,Sacramento Kings,105,Atlanta Hawks,130
+2015,march,Memphis Grizzlies,101,Chicago Bulls,91
+2015,march,Washington Wizards,95,Charlotte Hornets,69
+2015,march,New York Knicks,78,Denver Nuggets,106
+2015,march,Minnesota Timberwolves,76,Los Angeles Clippers,89
+2015,march,Boston Celtics,100,Miami Heat,90
+2015,march,New Orleans Pelicans,114,Milwaukee Bucks,103
+2015,march,Golden State Warriors,98,Phoenix Suns,80
+2015,march,New Orleans Pelicans,111,Brooklyn Nets,91
+2015,march,Cleveland Cavaliers,127,Dallas Mavericks,94
+2015,march,Orlando Magic,86,Indiana Pacers,118
+2015,march,Detroit Pistons,85,Los Angeles Lakers,93
+2015,march,Toronto Raptors,107,San Antonio Spurs,117
+2015,march,New York Knicks,82,Utah Jazz,87
+2015,march,Memphis Grizzlies,92,Boston Celtics,95
+2015,march,Sacramento Kings,113,Charlotte Hornets,106
+2015,march,Atlanta Hawks,102,Denver Nuggets,115
+2015,march,Detroit Pistons,98,Golden State Warriors,105
+2015,march,Brooklyn Nets,98,Miami Heat,104
+2015,march,Orlando Magic,91,Milwaukee Bucks,97
+2015,march,Los Angeles Clippers,120,Oklahoma City Thunder,108
+2015,march,Chicago Bulls,104,Philadelphia 76ers,95
+2015,march,Minnesota Timberwolves,97,Phoenix Suns,106
+2015,march,Houston Rockets,100,Portland Trail Blazers,105
+2015,march,Milwaukee Bucks,103,Indiana Pacers,109
+2015,march,New York Knicks,101,Los Angeles Lakers,94
+2015,march,Cleveland Cavaliers,128,San Antonio Spurs,125
+2015,march,Houston Rockets,91,Utah Jazz,109
+2015,march,Memphis Grizzlies,87,Washington Wizards,107
+2015,march,Orlando Magic,88,Boston Celtics,95
+2015,march,Chicago Bulls,91,Charlotte Hornets,101
+2015,march,Los Angeles Clippers,99,Dallas Mavericks,129
+2015,march,Golden State Warriors,103,Denver Nuggets,114
+2015,march,Minnesota Timberwolves,99,Oklahoma City Thunder,113
+2015,march,Sacramento Kings,107,Philadelphia 76ers,114
+2015,march,Atlanta Hawks,96,Phoenix Suns,87
+2015,march,Detroit Pistons,99,Portland Trail Blazers,118
+2015,march,Miami Heat,92,Toronto Raptors,102
+2015,march,New York Knicks,94,Golden State Warriors,125
+2015,march,Boston Celtics,93,Indiana Pacers,89
+2015,march,Milwaukee Bucks,83,Memphis Grizzlies,96
+2015,march,Brooklyn Nets,94,Philadelphia 76ers,87
+2015,march,Detroit Pistons,85,Utah Jazz,88
+2015,march,Sacramento Kings,97,Washington Wizards,113
+2015,march,Houston Rockets,100,Los Angeles Clippers,98
+2015,march,Atlanta Hawks,91,Los Angeles Lakers,86
+2015,march,Denver Nuggets,118,New Orleans Pelicans,111
+2015,march,Chicago Bulls,100,Oklahoma City Thunder,109
+2015,march,Cleveland Cavaliers,123,Orlando Magic,108
+2015,march,New York Knicks,89,Phoenix Suns,102
+2015,march,Minnesota Timberwolves,97,San Antonio Spurs,123
+2015,march,Portland Trail Blazers,113,Toronto Raptors,97
+2015,march,Philadelphia 76ers,89,Boston Celtics,108
+2015,march,Oklahoma City Thunder,115,Dallas Mavericks,119
+2015,march,Los Angeles Lakers,105,Golden State Warriors,108
+2015,march,Toronto Raptors,117,Indiana Pacers,98
+2015,march,Denver Nuggets,81,Memphis Grizzlies,92
+2015,march,Cleveland Cavaliers,92,Miami Heat,106
+2015,march,Brooklyn Nets,122,Minnesota Timberwolves,106
+2015,march,Atlanta Hawks,110,Sacramento Kings,103
+2015,march,Charlotte Hornets,66,Utah Jazz,94
+2015,march,Portland Trail Blazers,97,Washington Wizards,105
+2015,march,Memphis Grizzlies,95,Detroit Pistons,105
+2015,march,Orlando Magic,94,Houston Rockets,107
+2015,march,Charlotte Hornets,92,Los Angeles Clippers,99
+2015,march,Milwaukee Bucks,84,New Orleans Pelicans,85
+2015,march,San Antonio Spurs,100,New York Knicks,104
+2015,march,Indiana Pacers,86,Chicago Bulls,103
+2015,march,Brooklyn Nets,92,Cleveland Cavaliers,117
+2015,march,Orlando Magic,102,Dallas Mavericks,107
+2015,march,Atlanta Hawks,95,Golden State Warriors,114
+2015,march,Portland Trail Blazers,104,Miami Heat,108
+2015,march,San Antonio Spurs,114,Milwaukee Bucks,103
+2015,march,Boston Celtics,118,Oklahoma City Thunder,122
+2015,march,Detroit Pistons,83,Philadelphia 76ers,94
+2015,march,Los Angeles Clippers,116,Sacramento Kings,105
+2015,march,Minnesota Timberwolves,100,Toronto Raptors,105
+2015,march,Washington Wizards,88,Utah Jazz,84
+2015,march,Denver Nuggets,108,Houston Rockets,118
+2015,march,Utah Jazz,80,Los Angeles Lakers,73
+2015,march,Minnesota Timberwolves,95,New York Knicks,92
+2015,march,New Orleans Pelicans,72,Phoenix Suns,74
+2015,march,Milwaukee Bucks,127,Brooklyn Nets,129
+2015,march,Toronto Raptors,92,Chicago Bulls,108
+2015,march,Indiana Pacers,92,Cleveland Cavaliers,95
+2015,march,Memphis Grizzlies,112,Dallas Mavericks,101
+2015,march,New Orleans Pelicans,96,Golden State Warriors,112
+2015,march,Washington Wizards,99,Los Angeles Clippers,113
+2015,march,Denver Nuggets,91,Miami Heat,108
+2015,march,Atlanta Hawks,115,Oklahoma City Thunder,123
+2015,march,Portland Trail Blazers,104,Orlando Magic,111
+2015,march,New York Knicks,81,Philadelphia 76ers,97
+2015,march,Charlotte Hornets,91,Sacramento Kings,101
+2015,march,Boston Celtics,89,San Antonio Spurs,101
+2015,march,Chicago Bulls,91,Detroit Pistons,107
+2015,march,Utah Jazz,91,Golden State Warriors,106
+2015,march,Phoenix Suns,117,Houston Rockets,102
+2015,march,Brooklyn Nets,123,Indiana Pacers,111
+2015,march,Portland Trail Blazers,86,Memphis Grizzlies,97
+2015,march,San Antonio Spurs,114,Atlanta Hawks,95
+2015,march,Detroit Pistons,105,Boston Celtics,97
+2015,march,New Orleans Pelicans,100,Los Angeles Clippers,107
+2015,march,Philadelphia 76ers,87,Los Angeles Lakers,101
+2015,march,Cleveland Cavaliers,108,Milwaukee Bucks,90
+2015,march,Charlotte Hornets,109,Minnesota Timberwolves,98
+2015,march,Miami Heat,75,Oklahoma City Thunder,93
+2015,march,Denver Nuggets,119,Orlando Magic,100
+2015,march,Dallas Mavericks,92,Phoenix Suns,98
+2015,march,Washington Wizards,86,Sacramento Kings,109
+2015,march,New York Knicks,89,Toronto Raptors,106
+2015,march,Boston Celtics,110,Brooklyn Nets,91
+2015,march,Charlotte Hornets,86,Chicago Bulls,98
+2015,march,Washington Wizards,76,Golden State Warriors,107
+2015,march,Houston Rockets,110,Indiana Pacers,100
+2015,march,Memphis Grizzlies,103,New York Knicks,82
+2015,march,Minnesota Timberwolves,106,Utah Jazz,104
+2015,march,San Antonio Spurs,94,Dallas Mavericks,101
+2015,march,Toronto Raptors,104,Detroit Pistons,108
+2015,march,Miami Heat,88,Milwaukee Bucks,89
+2015,march,Los Angeles Lakers,117,Oklahoma City Thunder,127
+2015,march,Golden State Warriors,122,Portland Trail Blazers,108
+2015,march,Philadelphia 76ers,106,Sacramento Kings,107
+2015,march,Miami Heat,93,Boston Celtics,86
+2015,march,Brooklyn Nets,91,Charlotte Hornets,88
+2015,march,Philadelphia 76ers,99,Denver Nuggets,85
+2015,march,Cleveland Cavaliers,111,Memphis Grizzlies,89
+2015,march,Los Angeles Lakers,101,Minnesota Timberwolves,99
+2015,march,Houston Rockets,95,New Orleans Pelicans,93
+2015,march,Los Angeles Clippers,111,New York Knicks,80
+2015,march,Atlanta Hawks,95,Orlando Magic,83
+2015,march,Sacramento Kings,108,Phoenix Suns,99
+2015,march,Oklahoma City Thunder,91,San Antonio Spurs,130
+2015,march,Chicago Bulls,116,Toronto Raptors,103
+2015,march,Portland Trail Blazers,92,Utah Jazz,89
+2015,march,Indiana Pacers,103,Washington Wizards,101
+2015,march,Indiana Pacers,107,Milwaukee Bucks,111
+2015,march,Miami Heat,86,Atlanta Hawks,99
+2015,march,Cleveland Cavaliers,98,Brooklyn Nets,106
+2015,march,Utah Jazz,91,Denver Nuggets,107
+2015,march,Minnesota Timberwolves,110,Houston Rockets,120
+2015,march,Golden State Warriors,107,Memphis Grizzlies,84
+2015,march,Sacramento Kings,88,New Orleans Pelicans,102
+2015,march,Boston Celtics,96,New York Knicks,92
+2015,march,Detroit Pistons,111,Orlando Magic,97
+2015,march,Los Angeles Clippers,119,Philadelphia 76ers,98
+2015,march,Portland Trail Blazers,87,Phoenix Suns,81
+2015,march,Dallas Mavericks,76,San Antonio Spurs,94
+2015,march,Los Angeles Lakers,83,Toronto Raptors,94
+2015,march,Charlotte Hornets,107,Washington Wizards,110
+2015,march,New York Knicks,80,Chicago Bulls,111
+2015,march,Atlanta Hawks,100,Charlotte Hornets,115
+2015,march,Golden State Warriors,108,Milwaukee Bucks,95
+2015,march,Denver Nuggets,114,Portland Trail Blazers,120
+2015,march,Oklahoma City Thunder,89,Utah Jazz,94
+2015,march,Los Angeles Clippers,119,Boston Celtics,106
+2015,march,Los Angeles Lakers,99,Brooklyn Nets,107
+2015,march,Philadelphia 76ers,86,Cleveland Cavaliers,87
+2015,march,Dallas Mavericks,99,Indiana Pacers,104
+2015,march,Detroit Pistons,102,Miami Heat,109
+2015,march,Minnesota Timberwolves,88,New Orleans Pelicans,110
+2015,march,Oklahoma City Thunder,109,Phoenix Suns,97
+2015,march,Memphis Grizzlies,89,San Antonio Spurs,103
+2015,march,Houston Rockets,99,Washington Wizards,91
+2015,march,Milwaukee Bucks,88,Atlanta Hawks,101
+2015,march,Boston Celtics,116,Charlotte Hornets,104
+2015,march,Sacramento Kings,83,Memphis Grizzlies,97
+2015,march,Utah Jazz,104,Minnesota Timberwolves,84
+2015,march,Los Angeles Lakers,113,Philadelphia 76ers,111
+2015,march,Phoenix Suns,86,Portland Trail Blazers,109
+2015,march,Houston Rockets,96,Toronto Raptors,99
+2015,march,Indiana Pacers,106,Brooklyn Nets,111
+2015,march,Atlanta Hawks,95,Detroit Pistons,105
+2015,march,Golden State Warriors,110,Los Angeles Clippers,106
+2015,march,San Antonio Spurs,95,Miami Heat,81
+2015,april,Indiana Pacers,87,Boston Celtics,100
+2015,april,Detroit Pistons,78,Charlotte Hornets,102
+2015,april,Sacramento Kings,111,Houston Rockets,115
+2015,april,New Orleans Pelicans,113,Los Angeles Lakers,92
+2015,april,Chicago Bulls,91,Milwaukee Bucks,95
+2015,april,Toronto Raptors,113,Minnesota Timberwolves,99
+2015,april,Brooklyn Nets,100,New York Knicks,98
+2015,april,Dallas Mavericks,135,Oklahoma City Thunder,131
+2015,april,San Antonio Spurs,103,Orlando Magic,91
+2015,april,Los Angeles Clippers,126,Portland Trail Blazers,122
+2015,april,Denver Nuggets,84,Utah Jazz,98
+2015,april,Philadelphia 76ers,93,Washington Wizards,106
+2015,april,Miami Heat,88,Cleveland Cavaliers,114
+2015,april,Houston Rockets,108,Dallas Mavericks,101
+2015,april,Phoenix Suns,106,Golden State Warriors,107
+2015,april,Milwaukee Bucks,110,Boston Celtics,101
+2015,april,Toronto Raptors,109,Brooklyn Nets,114
+2015,april,Detroit Pistons,82,Chicago Bulls,88
+2015,april,Charlotte Hornets,74,Indiana Pacers,93
+2015,april,Portland Trail Blazers,107,Los Angeles Lakers,77
+2015,april,Oklahoma City Thunder,92,Memphis Grizzlies,100
+2015,april,Orlando Magic,97,Minnesota Timberwolves,84
+2015,april,New Orleans Pelicans,101,Sacramento Kings,95
+2015,april,Denver Nuggets,93,San Antonio Spurs,123
+2015,april,New York Knicks,87,Washington Wizards,101
+2015,april,Brooklyn Nets,99,Atlanta Hawks,131
+2015,april,Philadelphia 76ers,91,Charlotte Hornets,92
+2015,april,Golden State Warriors,123,Dallas Mavericks,110
+2015,april,Los Angeles Clippers,107,Denver Nuggets,92
+2015,april,Miami Heat,98,Detroit Pistons,99
+2015,april,Washington Wizards,92,Memphis Grizzlies,83
+2015,april,Orlando Magic,97,Milwaukee Bucks,90
+2015,april,Utah Jazz,85,Phoenix Suns,87
+2015,april,New Orleans Pelicans,90,Portland Trail Blazers,99
+2015,april,Boston Celtics,117,Toronto Raptors,116
+2015,april,Chicago Bulls,94,Cleveland Cavaliers,99
+2015,april,Miami Heat,89,Indiana Pacers,112
+2015,april,Los Angeles Clippers,106,Los Angeles Lakers,78
+2015,april,Philadelphia 76ers,91,New York Knicks,101
+2015,april,Houston Rockets,115,Oklahoma City Thunder,112
+2015,april,Utah Jazz,101,Sacramento Kings,95
+2015,april,Golden State Warriors,92,San Antonio Spurs,107
+2015,april,Portland Trail Blazers,96,Brooklyn Nets,106
+2015,april,Phoenix Suns,69,Atlanta Hawks,96
+2015,april,Los Angeles Lakers,100,Los Angeles Clippers,105
+2015,april,Charlotte Hornets,100,Miami Heat,105
+2015,april,Golden State Warriors,100,New Orleans Pelicans,103
+2015,april,San Antonio Spurs,113,Oklahoma City Thunder,88
+2015,april,Minnesota Timberwolves,111,Sacramento Kings,116
+2015,april,Atlanta Hawks,114,Brooklyn Nets,111
+2015,april,Toronto Raptors,92,Charlotte Hornets,74
+2015,april,Phoenix Suns,104,Dallas Mavericks,107
+2015,april,Los Angeles Lakers,101,Denver Nuggets,119
+2015,april,Boston Celtics,113,Detroit Pistons,103
+2015,april,New Orleans Pelicans,74,Memphis Grizzlies,110
+2015,april,Cleveland Cavaliers,104,Milwaukee Bucks,99
+2015,april,Indiana Pacers,102,New York Knicks,86
+2015,april,Chicago Bulls,103,Orlando Magic,105
+2015,april,Washington Wizards,119,Philadelphia 76ers,90
+2015,april,Minnesota Timberwolves,91,Portland Trail Blazers,116
+2015,april,Houston Rockets,98,San Antonio Spurs,110
+2015,april,Sacramento Kings,91,Utah Jazz,103
+2015,april,Portland Trail Blazers,105,Golden State Warriors,116
+2015,april,Chicago Bulls,89,Miami Heat,78
+2015,april,Charlotte Hornets,80,Atlanta Hawks,104
+2015,april,Washington Wizards,80,Brooklyn Nets,117
+2015,april,Boston Celtics,99,Cleveland Cavaliers,90
+2015,april,Dallas Mavericks,144,Denver Nuggets,143
+2015,april,Indiana Pacers,107,Detroit Pistons,103
+2015,april,San Antonio Spurs,104,Houston Rockets,103
+2015,april,Minnesota Timberwolves,98,Los Angeles Lakers,106
+2015,april,Phoenix Suns,75,New Orleans Pelicans,90
+2015,april,Milwaukee Bucks,99,New York Knicks,91
+2015,april,Sacramento Kings,103,Oklahoma City Thunder,116
+2015,april,Toronto Raptors,101,Orlando Magic,99
+2015,april,Memphis Grizzlies,89,Utah Jazz,88
+2015,april,Philadelphia 76ers,107,Chicago Bulls,114
+2015,april,Minnesota Timberwolves,101,Golden State Warriors,110
+2015,april,Memphis Grizzlies,86,Los Angeles Clippers,94
+2015,april,Toronto Raptors,107,Miami Heat,104
+2015,april,New York Knicks,80,Orlando Magic,79
+2015,april,Utah Jazz,111,Portland Trail Blazers,105
+2015,april,Cleveland Cavaliers,78,Boston Celtics,117
+2015,april,Sacramento Kings,111,Denver Nuggets,122
+2015,april,Charlotte Hornets,77,Detroit Pistons,116
+2015,april,New Orleans Pelicans,114,Houston Rockets,121
+2015,april,Oklahoma City Thunder,104,Indiana Pacers,116
+2015,april,Dallas Mavericks,120,Los Angeles Lakers,106
+2015,april,Brooklyn Nets,73,Milwaukee Bucks,96
+2015,april,Phoenix Suns,91,San Antonio Spurs,107
+2015,april,Atlanta Hawks,99,Washington Wizards,108
+2015,april,New York Knicks,112,Atlanta Hawks,108
+2015,april,Chicago Bulls,113,Brooklyn Nets,86
+2015,april,Houston Rockets,100,Charlotte Hornets,90
+2015,april,Detroit Pistons,97,Cleveland Cavaliers,109
+2015,april,Memphis Grizzlies,107,Golden State Warriors,111
+2015,april,Denver Nuggets,103,Los Angeles Clippers,110
+2015,april,Orlando Magic,93,Miami Heat,100
+2015,april,New Orleans Pelicans,100,Minnesota Timberwolves,88
+2015,april,Portland Trail Blazers,90,Oklahoma City Thunder,101
+2015,april,Milwaukee Bucks,107,Philadelphia 76ers,97
+2015,april,Los Angeles Lakers,92,Sacramento Kings,102
+2015,april,Dallas Mavericks,92,Utah Jazz,109
+2015,april,Toronto Raptors,93,Boston Celtics,95
+2015,april,Washington Wizards,95,Indiana Pacers,99
+2015,april,Los Angeles Clippers,112,Phoenix Suns,101
+2015,april,Orlando Magic,88,Brooklyn Nets,101
+2015,april,Atlanta Hawks,85,Chicago Bulls,91
+2015,april,Washington Wizards,108,Cleveland Cavaliers,113
+2015,april,Portland Trail Blazers,98,Dallas Mavericks,114
+2015,april,Denver Nuggets,126,Golden State Warriors,133
+2015,april,Utah Jazz,91,Houston Rockets,117
+2015,april,Sacramento Kings,122,Los Angeles Lakers,99
+2015,april,Indiana Pacers,83,Memphis Grizzlies,95
+2015,april,Boston Celtics,105,Milwaukee Bucks,100
+2015,april,Oklahoma City Thunder,138,Minnesota Timberwolves,113
+2015,april,San Antonio Spurs,103,New Orleans Pelicans,108
+2015,april,Detroit Pistons,112,New York Knicks,90
+2015,april,Miami Heat,105,Philadelphia 76ers,101
+2015,april,Charlotte Hornets,87,Toronto Raptors,92
+2015,april,Milwaukee Bucks,91,Chicago Bulls,103
+2015,april,New Orleans Pelicans,99,Golden State Warriors,106
+2015,april,Dallas Mavericks,108,Houston Rockets,118
+2015,april,Washington Wizards,93,Toronto Raptors,86
+2015,april,Brooklyn Nets,92,Atlanta Hawks,99
+2015,april,Boston Celtics,100,Cleveland Cavaliers,113
+2015,april,San Antonio Spurs,92,Los Angeles Clippers,107
+2015,april,Portland Trail Blazers,86,Memphis Grizzlies,100
+2015,april,Milwaukee Bucks,82,Chicago Bulls,91
+2015,april,New Orleans Pelicans,87,Golden State Warriors,97
+2015,april,Boston Celtics,91,Cleveland Cavaliers,99
+2015,april,Dallas Mavericks,99,Houston Rockets,111
+2015,april,Washington Wizards,117,Toronto Raptors,106
+2015,april,Brooklyn Nets,91,Atlanta Hawks,96
+2015,april,San Antonio Spurs,111,Los Angeles Clippers,107
+2015,april,Portland Trail Blazers,82,Memphis Grizzlies,97
+2015,april,Cleveland Cavaliers,103,Boston Celtics,95
+2015,april,Chicago Bulls,113,Milwaukee Bucks,106
+2015,april,Golden State Warriors,123,New Orleans Pelicans,119
+2015,april,Houston Rockets,130,Dallas Mavericks,128
+2015,april,Los Angeles Clippers,73,San Antonio Spurs,100
+2015,april,Toronto Raptors,99,Washington Wizards,106
+2015,april,Atlanta Hawks,83,Brooklyn Nets,91
+2015,april,Chicago Bulls,90,Milwaukee Bucks,92
+2015,april,Golden State Warriors,109,New Orleans Pelicans,98
+2015,april,Memphis Grizzlies,115,Portland Trail Blazers,109
+2015,april,Cleveland Cavaliers,101,Boston Celtics,93
+2015,april,Houston Rockets,109,Dallas Mavericks,121
+2015,april,Los Angeles Clippers,114,San Antonio Spurs,105
+2015,april,Toronto Raptors,94,Washington Wizards,125
+2015,april,Atlanta Hawks,115,Brooklyn Nets,120
+2015,april,Milwaukee Bucks,94,Chicago Bulls,88
+2015,april,Memphis Grizzlies,92,Portland Trail Blazers,99
+2015,april,Dallas Mavericks,94,Houston Rockets,103
+2015,april,San Antonio Spurs,111,Los Angeles Clippers,107
+2015,april,Brooklyn Nets,97,Atlanta Hawks,107
+2015,april,Portland Trail Blazers,93,Memphis Grizzlies,99
+2015,april,Chicago Bulls,120,Milwaukee Bucks,66
+2015,april,Los Angeles Clippers,102,San Antonio Spurs,96
+2015,may,Atlanta Hawks,111,Brooklyn Nets,87
+2015,may,San Antonio Spurs,109,Los Angeles Clippers,111
+2015,may,Washington Wizards,104,Atlanta Hawks,98
+2015,may,Memphis Grizzlies,86,Golden State Warriors,101
+2015,may,Chicago Bulls,99,Cleveland Cavaliers,92
+2015,may,Los Angeles Clippers,117,Houston Rockets,101
+2015,may,Washington Wizards,90,Atlanta Hawks,106
+2015,may,Memphis Grizzlies,97,Golden State Warriors,90
+2015,may,Chicago Bulls,91,Cleveland Cavaliers,106
+2015,may,Los Angeles Clippers,109,Houston Rockets,115
+2015,may,Cleveland Cavaliers,96,Chicago Bulls,99
+2015,may,Houston Rockets,99,Los Angeles Clippers,124
+2015,may,Golden State Warriors,89,Memphis Grizzlies,99
+2015,may,Atlanta Hawks,101,Washington Wizards,103
+2015,may,Cleveland Cavaliers,86,Chicago Bulls,84
+2015,may,Houston Rockets,95,Los Angeles Clippers,128
+2015,may,Golden State Warriors,101,Memphis Grizzlies,84
+2015,may,Atlanta Hawks,106,Washington Wizards,101
+2015,may,Chicago Bulls,101,Cleveland Cavaliers,106
+2015,may,Los Angeles Clippers,103,Houston Rockets,124
+2015,may,Washington Wizards,81,Atlanta Hawks,82
+2015,may,Memphis Grizzlies,78,Golden State Warriors,98
+2015,may,Cleveland Cavaliers,94,Chicago Bulls,73
+2015,may,Houston Rockets,119,Los Angeles Clippers,107
+2015,may,Golden State Warriors,108,Memphis Grizzlies,95
+2015,may,Atlanta Hawks,94,Washington Wizards,91
+2015,may,Los Angeles Clippers,100,Houston Rockets,113
+2015,may,Houston Rockets,106,Golden State Warriors,110
+2015,may,Cleveland Cavaliers,97,Atlanta Hawks,89
+2015,may,Houston Rockets,98,Golden State Warriors,99
+2015,may,Cleveland Cavaliers,94,Atlanta Hawks,82
+2015,may,Golden State Warriors,115,Houston Rockets,80
+2015,may,Atlanta Hawks,111,Cleveland Cavaliers,114
+2015,may,Golden State Warriors,115,Houston Rockets,128
+2015,may,Atlanta Hawks,88,Cleveland Cavaliers,118
+2015,may,Houston Rockets,90,Golden State Warriors,104
+2015,june,Cleveland Cavaliers,100,Golden State Warriors,108
+2015,june,Cleveland Cavaliers,95,Golden State Warriors,93
+2015,june,Golden State Warriors,91,Cleveland Cavaliers,96
+2015,june,Golden State Warriors,103,Cleveland Cavaliers,82
+2015,june,Cleveland Cavaliers,91,Golden State Warriors,104
+2015,june,Golden State Warriors,105,Cleveland Cavaliers,97
+2016,october,Detroit Pistons,106,Atlanta Hawks,94
+2016,october,Cleveland Cavaliers,95,Chicago Bulls,97
+2016,october,New Orleans Pelicans,95,Golden State Warriors,111
+2016,october,Philadelphia 76ers,95,Boston Celtics,112
+2016,october,Chicago Bulls,115,Brooklyn Nets,100
+2016,october,Utah Jazz,87,Detroit Pistons,92
+2016,october,Denver Nuggets,105,Houston Rockets,85
+2016,october,Minnesota Timberwolves,112,Los Angeles Lakers,111
+2016,october,Cleveland Cavaliers,106,Memphis Grizzlies,76
+2016,october,Charlotte Hornets,94,Miami Heat,104
+2016,october,New York Knicks,122,Milwaukee Bucks,97
+2016,october,San Antonio Spurs,106,Oklahoma City Thunder,112
+2016,october,Washington Wizards,88,Orlando Magic,87
+2016,october,Dallas Mavericks,111,Phoenix Suns,95
+2016,october,New Orleans Pelicans,94,Portland Trail Blazers,112
+2016,october,Los Angeles Clippers,111,Sacramento Kings,104
+2016,october,Indiana Pacers,99,Toronto Raptors,106
+2016,october,Memphis Grizzlies,112,Indiana Pacers,103
+2016,october,Dallas Mavericks,88,Los Angeles Clippers,104
+2016,october,Atlanta Hawks,112,New York Knicks,101
+2016,october,Charlotte Hornets,94,Atlanta Hawks,97
+2016,october,Toronto Raptors,113,Boston Celtics,103
+2016,october,Miami Heat,92,Cleveland Cavaliers,102
+2016,october,Minnesota Timberwolves,95,Denver Nuggets,78
+2016,october,Chicago Bulls,94,Detroit Pistons,98
+2016,october,Golden State Warriors,112,Houston Rockets,92
+2016,october,Washington Wizards,118,Milwaukee Bucks,113
+2016,october,Oklahoma City Thunder,139,Orlando Magic,136
+2016,october,Utah Jazz,99,Philadelphia 76ers,71
+2016,october,Portland Trail Blazers,92,Phoenix Suns,110
+2016,october,Los Angeles Lakers,114,Sacramento Kings,132
+2016,october,Brooklyn Nets,75,San Antonio Spurs,102
+2016,october,Utah Jazz,97,Indiana Pacers,76
+2016,october,Sacramento Kings,109,Los Angeles Clippers,114
+2016,october,Brooklyn Nets,91,Memphis Grizzlies,101
+2016,october,Golden State Warriors,134,New Orleans Pelicans,120
+2016,october,Phoenix Suns,101,Portland Trail Blazers,90
+2016,october,New York Knicks,117,Washington Wizards,110
+2016,november,San Antonio Spurs,95,Boston Celtics,87
+2016,november,Orlando Magic,87,Chicago Bulls,92
+2016,november,Atlanta Hawks,94,Charlotte Hornets,92
+2016,november,Dallas Mavericks,103,Los Angeles Lakers,93
+2016,november,Houston Rockets,89,Miami Heat,109
+2016,november,Denver Nuggets,93,Oklahoma City Thunder,117
+2016,november,Milwaukee Bucks,87,Toronto Raptors,106
+2016,november,Milwaukee Bucks,103,Brooklyn Nets,96
+2016,november,Memphis Grizzlies,69,Golden State Warriors,119
+2016,november,Oklahoma City Thunder,105,Houston Rockets,110
+2016,november,Phoenix Suns,96,Los Angeles Clippers,102
+2016,november,Portland Trail Blazers,106,Minnesota Timberwolves,101
+2016,november,San Antonio Spurs,94,New York Knicks,84
+2016,november,Cleveland Cavaliers,107,Philadelphia 76ers,100
+2016,november,Chicago Bulls,105,Charlotte Hornets,130
+2016,november,Toronto Raptors,102,Dallas Mavericks,91
+2016,november,Indiana Pacers,94,Detroit Pistons,82
+2016,november,Denver Nuggets,120,Los Angeles Lakers,109
+2016,november,Atlanta Hawks,98,Miami Heat,92
+2016,november,Orlando Magic,103,New Orleans Pelicans,94
+2016,november,Memphis Grizzlies,103,Sacramento Kings,89
+2016,november,Brooklyn Nets,87,Atlanta Hawks,101
+2016,november,New York Knicks,86,Cleveland Cavaliers,96
+2016,november,Los Angeles Clippers,108,Golden State Warriors,112
+2016,november,Orlando Magic,114,Houston Rockets,119
+2016,november,Boston Celtics,98,Indiana Pacers,100
+2016,november,Philadelphia 76ers,87,Milwaukee Bucks,91
+2016,november,Toronto Raptors,103,Oklahoma City Thunder,98
+2016,november,Sacramento Kings,97,Phoenix Suns,118
+2016,november,Portland Trail Blazers,108,Utah Jazz,92
+2016,november,San Antonio Spurs,99,Washington Wizards,102
+2016,november,Oklahoma City Thunder,98,Chicago Bulls,104
+2016,november,Charlotte Hornets,108,Dallas Mavericks,94
+2016,november,Utah Jazz,96,Denver Nuggets,84
+2016,november,Miami Heat,96,Minnesota Timberwolves,84
+2016,november,Memphis Grizzlies,96,Portland Trail Blazers,115
+2016,november,Washington Wizards,98,Boston Celtics,118
+2016,november,Los Angeles Lakers,104,Brooklyn Nets,98
+2016,november,Philadelphia 76ers,102,Cleveland Cavaliers,108
+2016,november,Denver Nuggets,104,Golden State Warriors,119
+2016,november,Miami Heat,87,Indiana Pacers,90
+2016,november,Atlanta Hawks,121,New Orleans Pelicans,115
+2016,november,Milwaukee Bucks,99,New York Knicks,92
+2016,november,Toronto Raptors,87,Orlando Magic,92
+2016,november,Detroit Pistons,100,Phoenix Suns,92
+2016,november,Houston Rockets,116,Sacramento Kings,110
+2016,november,Washington Wizards,99,Atlanta Hawks,114
+2016,november,Minnesota Timberwolves,102,Chicago Bulls,93
+2016,november,New Orleans Pelicans,98,Dallas Mavericks,107
+2016,november,Houston Rockets,109,Los Angeles Clippers,105
+2016,november,Brooklyn Nets,86,Milwaukee Bucks,94
+2016,november,Orlando Magic,105,Philadelphia 76ers,97
+2016,november,Golden State Warriors,103,Sacramento Kings,94
+2016,november,Charlotte Hornets,94,San Antonio Spurs,114
+2016,november,Memphis Grizzlies,79,Utah Jazz,89
+2016,november,Indiana Pacers,97,Cleveland Cavaliers,101
+2016,november,Toronto Raptors,76,Miami Heat,96
+2016,november,Los Angeles Lakers,95,New York Knicks,99
+2016,november,Phoenix Suns,103,Oklahoma City Thunder,124
+2016,november,Detroit Pistons,120,Portland Trail Blazers,103
+2016,november,Minnesota Timberwolves,117,Atlanta Hawks,107
+2016,november,Portland Trail Blazers,104,Denver Nuggets,108
+2016,november,Detroit Pistons,95,Golden State Warriors,109
+2016,november,Orlando Magic,84,Indiana Pacers,97
+2016,november,Memphis Grizzlies,92,Los Angeles Clippers,94
+2016,november,Chicago Bulls,111,Philadelphia 76ers,88
+2016,november,San Antonio Spurs,106,Sacramento Kings,88
+2016,november,Utah Jazz,114,Cleveland Cavaliers,118
+2016,november,Los Angeles Lakers,88,Miami Heat,101
+2016,november,Boston Celtics,99,Milwaukee Bucks,83
+2016,november,Charlotte Hornets,104,Minnesota Timberwolves,95
+2016,november,Dallas Mavericks,105,New Orleans Pelicans,120
+2016,november,New York Knicks,111,Toronto Raptors,109
+2016,november,Oklahoma City Thunder,125,Washington Wizards,101
+2016,november,New Orleans Pelicans,98,Atlanta Hawks,106
+2016,november,Indiana Pacers,102,Boston Celtics,91
+2016,november,New York Knicks,93,Charlotte Hornets,95
+2016,november,Los Angeles Clippers,108,Dallas Mavericks,118
+2016,november,Milwaukee Bucks,102,Denver Nuggets,103
+2016,november,Brooklyn Nets,106,Houston Rockets,98
+2016,november,Golden State Warriors,100,Memphis Grizzlies,84
+2016,november,Los Angeles Lakers,99,Orlando Magic,101
+2016,november,Toronto Raptors,119,Philadelphia 76ers,103
+2016,november,San Antonio Spurs,113,Portland Trail Blazers,101
+2016,november,Detroit Pistons,92,Sacramento Kings,101
+2016,november,Utah Jazz,91,Miami Heat,92
+2016,november,Golden State Warriors,129,Minnesota Timberwolves,116
+2016,november,Los Angeles Clippers,104,Phoenix Suns,118
+2016,november,Atlanta Hawks,93,Boston Celtics,106
+2016,november,Charlotte Hornets,97,Chicago Bulls,102
+2016,november,Los Angeles Lakers,82,Dallas Mavericks,90
+2016,november,Houston Rockets,98,Denver Nuggets,107
+2016,november,Minnesota Timberwolves,103,Indiana Pacers,107
+2016,november,Portland Trail Blazers,100,Memphis Grizzlies,101
+2016,november,Cleveland Cavaliers,90,New York Knicks,84
+2016,november,Philadelphia 76ers,85,Oklahoma City Thunder,102
+2016,november,Utah Jazz,93,Orlando Magic,102
+2016,november,Brooklyn Nets,109,Sacramento Kings,111
+2016,november,New Orleans Pelicans,81,Toronto Raptors,100
+2016,november,Brooklyn Nets,99,Golden State Warriors,107
+2016,november,Dallas Mavericks,110,Houston Rockets,98
+2016,november,Detroit Pistons,96,Los Angeles Clippers,101
+2016,november,Cleveland Cavaliers,105,Milwaukee Bucks,108
+2016,november,Denver Nuggets,81,Phoenix Suns,105
+2016,november,Philadelphia 76ers,83,San Antonio Spurs,92
+2016,november,Orlando Magic,99,Washington Wizards,108
+2016,november,Utah Jazz,97,Atlanta Hawks,96
+2016,november,Portland Trail Blazers,94,Charlotte Hornets,106
+2016,november,Detroit Pistons,85,Los Angeles Lakers,97
+2016,november,Memphis Grizzlies,114,Minnesota Timberwolves,106
+2016,november,New Orleans Pelicans,87,New York Knicks,95
+2016,november,Boston Celtics,100,Oklahoma City Thunder,85
+2016,november,Toronto Raptors,101,Sacramento Kings,107
+2016,november,Indiana Pacers,95,Chicago Bulls,96
+2016,november,Boston Celtics,111,Houston Rockets,95
+2016,november,Oklahoma City Thunder,114,Memphis Grizzlies,122
+2016,november,Dallas Mavericks,92,Philadelphia 76ers,86
+2016,november,Los Angeles Lakers,101,Phoenix Suns,120
+2016,november,Portland Trail Blazers,80,San Antonio Spurs,93
+2016,november,Atlanta Hawks,88,Brooklyn Nets,90
+2016,november,Cleveland Cavaliers,99,Detroit Pistons,104
+2016,november,Toronto Raptors,110,Golden State Warriors,115
+2016,november,Minnesota Timberwolves,103,Miami Heat,91
+2016,november,Denver Nuggets,115,New Orleans Pelicans,98
+2016,november,Charlotte Hornets,94,New York Knicks,102
+2016,november,Milwaukee Bucks,86,Washington Wizards,115
+2016,november,Sacramento Kings,97,Atlanta Hawks,103
+2016,november,Dallas Mavericks,106,Boston Celtics,102
+2016,november,Brooklyn Nets,111,Charlotte Hornets,116
+2016,november,Portland Trail Blazers,103,Houston Rockets,108
+2016,november,New Orleans Pelicans,103,Oklahoma City Thunder,110
+2016,november,Minnesota Timberwolves,101,Orlando Magic,104
+2016,november,Indiana Pacers,112,Philadelphia 76ers,85
+2016,november,Chicago Bulls,103,Phoenix Suns,97
+2016,november,Denver Nuggets,98,San Antonio Spurs,109
+2016,november,Toronto Raptors,89,Utah Jazz,93
+2016,november,Milwaukee Bucks,100,Cleveland Cavaliers,115
+2016,november,Golden State Warriors,124,Los Angeles Clippers,117
+2016,november,Sacramento Kings,109,Miami Heat,116
+2016,november,Brooklyn Nets,95,Boston Celtics,120
+2016,november,Philadelphia 76ers,88,Charlotte Hornets,113
+2016,november,Utah Jazz,93,Dallas Mavericks,102
+2016,november,Phoenix Suns,114,Denver Nuggets,107
+2016,november,Chicago Bulls,94,Golden State Warriors,106
+2016,november,Toronto Raptors,102,Los Angeles Lakers,91
+2016,november,Houston Rockets,84,Memphis Grizzlies,96
+2016,november,Detroit Pistons,96,Minnesota Timberwolves,86
+2016,november,San Antonio Spurs,90,New Orleans Pelicans,104
+2016,november,New York Knicks,93,Oklahoma City Thunder,90
+2016,november,Los Angeles Clippers,91,Portland Trail Blazers,102
+2016,november,Atlanta Hawks,97,Cleveland Cavaliers,109
+2016,november,Washington Wizards,97,Detroit Pistons,95
+2016,november,New York Knicks,107,Houston Rockets,102
+2016,november,Milwaukee Bucks,86,Indiana Pacers,123
+2016,november,Philadelphia 76ers,91,Miami Heat,96
+2016,november,Sacramento Kings,97,Orlando Magic,91
+2016,november,Memphis Grizzlies,82,San Antonio Spurs,92
+2016,november,Boston Celtics,101,Brooklyn Nets,111
+2016,november,Golden State Warriors,118,Denver Nuggets,105
+2016,november,Toronto Raptors,91,Los Angeles Clippers,80
+2016,november,Portland Trail Blazers,107,Los Angeles Lakers,93
+2016,november,Phoenix Suns,116,New Orleans Pelicans,122
+2016,november,Dallas Mavericks,114,Oklahoma City Thunder,117
+2016,november,Sacramento Kings,122,Charlotte Hornets,127
+2016,november,Orlando Magic,103,Cleveland Cavaliers,117
+2016,november,New York Knicks,78,Miami Heat,95
+2016,november,Detroit Pistons,88,Milwaukee Bucks,109
+2016,november,Philadelphia 76ers,95,Minnesota Timberwolves,100
+2016,november,Phoenix Suns,84,San Antonio Spurs,98
+2016,november,Oklahoma City Thunder,111,Utah Jazz,89
+2016,november,Boston Celtics,97,Atlanta Hawks,121
+2016,november,Los Angeles Clippers,111,Denver Nuggets,94
+2016,november,Los Angeles Lakers,77,Golden State Warriors,111
+2016,november,Dallas Mavericks,96,Memphis Grizzlies,110
+2016,november,Chicago Bulls,93,Portland Trail Blazers,88
+2016,november,Indiana Pacers,123,Washington Wizards,106
+2016,november,Philadelphia 76ers,80,Boston Celtics,84
+2016,november,Washington Wizards,87,Charlotte Hornets,101
+2016,november,Miami Heat,81,Detroit Pistons,104
+2016,november,Memphis Grizzlies,102,Houston Rockets,93
+2016,november,Utah Jazz,102,Los Angeles Clippers,91
+2016,november,Sacramento Kings,129,Milwaukee Bucks,118
+2016,november,Atlanta Hawks,95,Minnesota Timberwolves,99
+2016,november,Brooklyn Nets,99,Oklahoma City Thunder,110
+2016,november,New York Knicks,91,Orlando Magic,100
+2016,november,New Orleans Pelicans,120,Phoenix Suns,114
+2016,november,Dallas Mavericks,83,San Antonio Spurs,88
+2016,november,Cleveland Cavaliers,99,Toronto Raptors,103
+2016,november,Washington Wizards,78,Boston Celtics,111
+2016,november,Cleveland Cavaliers,95,Charlotte Hornets,90
+2016,november,San Antonio Spurs,91,Denver Nuggets,80
+2016,november,Philadelphia 76ers,114,Houston Rockets,116
+2016,november,Chicago Bulls,92,Indiana Pacers,104
+2016,november,New Orleans Pelicans,90,Los Angeles Clippers,111
+2016,november,Atlanta Hawks,116,Memphis Grizzlies,101
+2016,november,Miami Heat,97,New York Knicks,78
+2016,november,Detroit Pistons,87,Oklahoma City Thunder,103
+2016,november,Milwaukee Bucks,90,Orlando Magic,114
+2016,november,Golden State Warriors,135,Phoenix Suns,116
+2016,november,Minnesota Timberwolves,101,Sacramento Kings,91
+2016,november,Brooklyn Nets,88,Cleveland Cavaliers,90
+2016,november,Denver Nuggets,81,Dallas Mavericks,92
+2016,november,Sacramento Kings,101,Golden State Warriors,120
+2016,november,Los Angeles Lakers,96,Portland Trail Blazers,108
+2016,november,Atlanta Hawks,88,San Antonio Spurs,108
+2016,november,New Orleans Pelicans,87,Utah Jazz,101
+2016,november,Toronto Raptors,84,Washington Wizards,82
+2016,november,Detroit Pistons,83,Brooklyn Nets,87
+2016,november,Milwaukee Bucks,82,Charlotte Hornets,87
+2016,november,Minnesota Timberwolves,99,Los Angeles Clippers,107
+2016,november,Indiana Pacers,107,Los Angeles Lakers,103
+2016,november,Philadelphia 76ers,84,Memphis Grizzlies,92
+2016,november,Houston Rockets,116,New York Knicks,111
+2016,november,Boston Celtics,91,Orlando Magic,110
+2016,november,Phoenix Suns,107,Toronto Raptors,102
+2016,november,Oklahoma City Thunder,100,Atlanta Hawks,106
+2016,november,San Antonio Spurs,89,Chicago Bulls,92
+2016,november,Houston Rockets,105,Detroit Pistons,116
+2016,november,Portland Trail Blazers,87,Los Angeles Clippers,102
+2016,november,Boston Celtics,105,Miami Heat,95
+2016,november,Denver Nuggets,74,Milwaukee Bucks,92
+2016,november,Dallas Mavericks,98,Sacramento Kings,112
+2016,november,Golden State Warriors,106,Utah Jazz,103
+2016,december,Phoenix Suns,91,Brooklyn Nets,94
+2016,december,Washington Wizards,97,Cleveland Cavaliers,85
+2016,december,Orlando Magic,96,Minnesota Timberwolves,93
+2016,december,Memphis Grizzlies,113,New Orleans Pelicans,104
+2016,december,Los Angeles Lakers,91,Philadelphia 76ers,103
+2016,december,Dallas Mavericks,115,Portland Trail Blazers,112
+2016,december,Toronto Raptors,96,Atlanta Hawks,86
+2016,december,Denver Nuggets,90,Chicago Bulls,99
+2016,december,Golden State Warriors,116,Charlotte Hornets,99
+2016,december,Phoenix Suns,122,Detroit Pistons,127
+2016,december,New Orleans Pelicans,101,Houston Rockets,108
+2016,december,Indiana Pacers,103,Los Angeles Clippers,91
+2016,december,Philadelphia 76ers,87,New York Knicks,99
+2016,december,Milwaukee Bucks,70,San Antonio Spurs,95
+2016,december,Los Angeles Lakers,108,Washington Wizards,104
+2016,december,San Antonio Spurs,103,Memphis Grizzlies,83
+2016,december,Oklahoma City Thunder,95,Miami Heat,97
+2016,december,Indiana Pacers,111,Portland Trail Blazers,123
+2016,december,Boston Celtics,114,Sacramento Kings,97
+2016,december,Denver Nuggets,106,Toronto Raptors,105
+2016,december,Orlando Magic,103,Utah Jazz,94
+2016,december,Los Angeles Lakers,87,Atlanta Hawks,100
+2016,december,Houston Rockets,100,Dallas Mavericks,96
+2016,december,Milwaukee Bucks,95,Detroit Pistons,102
+2016,december,Cleveland Cavaliers,108,New Orleans Pelicans,114
+2016,december,Brooklyn Nets,91,New York Knicks,108
+2016,december,Phoenix Suns,106,Washington Wizards,109
+2016,december,Charlotte Hornets,102,Chicago Bulls,96
+2016,december,Sacramento Kings,113,Houston Rockets,120
+2016,december,Orlando Magic,101,Los Angeles Clippers,103
+2016,december,Cleveland Cavaliers,84,Miami Heat,99
+2016,december,New York Knicks,91,Milwaukee Bucks,106
+2016,december,Portland Trail Blazers,109,Minnesota Timberwolves,103
+2016,december,Denver Nuggets,108,Philadelphia 76ers,105
+2016,december,Boston Celtics,105,San Antonio Spurs,108
+2016,december,Golden State Warriors,112,Toronto Raptors,109
+2016,december,Indiana Pacers,119,Utah Jazz,122
+2016,december,Golden State Warriors,114,Brooklyn Nets,98
+2016,december,Los Angeles Lakers,91,Detroit Pistons,111
+2016,december,Phoenix Suns,93,Memphis Grizzlies,95
+2016,december,Sacramento Kings,95,Oklahoma City Thunder,98
+2016,december,Dallas Mavericks,116,Washington Wizards,104
+2016,december,Phoenix Suns,103,Chicago Bulls,101
+2016,december,Detroit Pistons,84,Charlotte Hornets,104
+2016,december,Washington Wizards,114,Miami Heat,103
+2016,december,Portland Trail Blazers,88,Milwaukee Bucks,90
+2016,december,Los Angeles Clippers,110,Minnesota Timberwolves,106
+2016,december,Boston Celtics,111,New Orleans Pelicans,93
+2016,december,Dallas Mavericks,104,New York Knicks,97
+2016,december,San Antonio Spurs,119,Philadelphia 76ers,68
+2016,december,Los Angeles Lakers,93,Toronto Raptors,102
+2016,december,Houston Rockets,105,Brooklyn Nets,110
+2016,december,Portland Trail Blazers,100,Cleveland Cavaliers,105
+2016,december,Orlando Magic,85,Denver Nuggets,74
+2016,december,Golden State Warriors,131,Indiana Pacers,123
+2016,december,Oklahoma City Thunder,125,Memphis Grizzlies,88
+2016,december,Utah Jazz,106,Sacramento Kings,114
+2016,december,Chicago Bulls,100,Boston Celtics,105
+2016,december,Miami Heat,81,Charlotte Hornets,99
+2016,december,Atlanta Hawks,98,Dallas Mavericks,95
+2016,december,Memphis Grizzlies,93,Detroit Pistons,92
+2016,december,Los Angeles Clippers,109,Milwaukee Bucks,95
+2016,december,Los Angeles Lakers,122,Minnesota Timberwolves,123
+2016,december,Orlando Magic,104,Phoenix Suns,107
+2016,december,San Antonio Spurs,94,Toronto Raptors,97
+2016,december,New York Knicks,85,Utah Jazz,106
+2016,december,Houston Rockets,109,Washington Wizards,103
+2016,december,Philadelphia 76ers,91,Brooklyn Nets,100
+2016,december,Los Angeles Clippers,80,Chicago Bulls,83
+2016,december,Atlanta Hawks,94,Oklahoma City Thunder,107
+2016,december,New York Knicks,97,Sacramento Kings,99
+2016,december,Golden State Warriors,124,Boston Celtics,119
+2016,december,Minnesota Timberwolves,108,Denver Nuggets,111
+2016,december,Miami Heat,83,Indiana Pacers,96
+2016,december,Charlotte Hornets,123,Memphis Grizzlies,99
+2016,december,Washington Wizards,105,New Orleans Pelicans,107
+2016,december,Cleveland Cavaliers,111,Orlando Magic,76
+2016,december,Detroit Pistons,107,Philadelphia 76ers,95
+2016,december,Portland Trail Blazers,106,Phoenix Suns,96
+2016,december,Los Angeles Lakers,87,San Antonio Spurs,109
+2016,december,Milwaukee Bucks,83,Toronto Raptors,90
+2016,december,Oklahoma City Thunder,94,Utah Jazz,90
+2016,december,San Antonio Spurs,103,Atlanta Hawks,78
+2016,december,Los Angeles Clippers,105,Brooklyn Nets,100
+2016,december,New Orleans Pelicans,94,Chicago Bulls,98
+2016,december,Boston Celtics,98,Charlotte Hornets,93
+2016,december,Washington Wizards,114,Dallas Mavericks,111
+2016,december,Indiana Pacers,96,Detroit Pistons,118
+2016,december,Los Angeles Lakers,97,Houston Rockets,126
+2016,december,Golden State Warriors,95,Milwaukee Bucks,108
+2016,december,New York Knicks,112,Portland Trail Blazers,110
+2016,december,Memphis Grizzlies,97,Miami Heat,100
+2016,december,Utah Jazz,98,Oklahoma City Thunder,104
+2016,december,Minnesota Timberwolves,101,Phoenix Suns,108
+2016,december,Philadelphia 76ers,76,Toronto Raptors,96
+2016,december,Miami Heat,100,Atlanta Hawks,88
+2016,december,Orlando Magic,105,Brooklyn Nets,82
+2016,december,Philadelphia 76ers,96,Chicago Bulls,115
+2016,december,Phoenix Suns,94,Dallas Mavericks,104
+2016,december,Houston Rockets,108,Denver Nuggets,114
+2016,december,Los Angeles Clippers,105,Detroit Pistons,103
+2016,december,Toronto Raptors,90,Indiana Pacers,106
+2016,december,Washington Wizards,95,Memphis Grizzlies,112
+2016,december,New Orleans Pelicans,101,Portland Trail Blazers,105
+2016,december,Utah Jazz,81,San Antonio Spurs,118
+2016,december,Cleveland Cavaliers,89,Boston Celtics,77
+2016,december,Milwaukee Bucks,95,Los Angeles Lakers,113
+2016,december,Denver Nuggets,112,Minnesota Timberwolves,100
+2016,december,Houston Rockets,97,Sacramento Kings,107
+2016,december,Philadelphia 76ers,106,Atlanta Hawks,127
+2016,december,Miami Heat,104,Brooklyn Nets,98
+2016,december,Memphis Grizzlies,85,Chicago Bulls,98
+2016,december,Boston Celtics,116,Detroit Pistons,119
+2016,december,Phoenix Suns,103,Golden State Warriors,128
+2016,december,Dallas Mavericks,81,Indiana Pacers,107
+2016,december,Milwaukee Bucks,90,Los Angeles Clippers,103
+2016,december,Minnesota Timberwolves,102,New York Knicks,107
+2016,december,Portland Trail Blazers,90,Oklahoma City Thunder,106
+2016,december,Charlotte Hornets,98,Orlando Magic,113
+2016,december,Washington Wizards,95,San Antonio Spurs,114
+2016,december,New Orleans Pelicans,104,Utah Jazz,94
+2016,december,Toronto Raptors,99,Charlotte Hornets,109
+2016,december,Oklahoma City Thunder,100,Cleveland Cavaliers,104
+2016,december,Houston Rockets,107,Los Angeles Lakers,87
+2016,december,Atlanta Hawks,109,Boston Celtics,101
+2016,december,Detroit Pistons,147,Chicago Bulls,144
+2016,december,Memphis Grizzlies,88,Dallas Mavericks,97
+2016,december,Milwaukee Bucks,112,Golden State Warriors,121
+2016,december,Brooklyn Nets,97,Indiana Pacers,104
+2016,december,Toronto Raptors,108,Miami Heat,94
+2016,december,Sacramento Kings,95,Minnesota Timberwolves,99
+2016,december,Portland Trail Blazers,94,Orlando Magic,102
+2016,december,New York Knicks,107,Philadelphia 76ers,97
+2016,december,New Orleans Pelicans,88,Phoenix Suns,104
+2016,december,Los Angeles Clippers,107,San Antonio Spurs,115
+2016,december,Denver Nuggets,88,Utah Jazz,97
+2016,december,Los Angeles Clippers,97,Houston Rockets,107
+2016,december,Indiana Pacers,84,Memphis Grizzlies,96
+2016,december,Chicago Bulls,91,New York Knicks,107
+2016,december,Los Angeles Lakers,78,Oklahoma City Thunder,118
+2016,december,Charlotte Hornets,101,Washington Wizards,109
+2016,december,Minnesota Timberwolves,100,Brooklyn Nets,85
+2016,december,Philadelphia 76ers,86,Cleveland Cavaliers,108
+2016,december,New Orleans Pelicans,130,Denver Nuggets,125
+2016,december,Portland Trail Blazers,109,Miami Heat,116
+2016,december,Atlanta Hawks,103,Orlando Magic,100
+2016,december,Milwaukee Bucks,101,Phoenix Suns,95
+2016,december,Sacramento Kings,104,Toronto Raptors,94
+2016,december,Portland Trail Blazers,97,Atlanta Hawks,106
+2016,december,Minnesota Timberwolves,99,Boston Celtics,113
+2016,december,Brooklyn Nets,105,Chicago Bulls,102
+2016,december,Charlotte Hornets,95,Houston Rockets,102
+2016,december,Oklahoma City Thunder,100,Los Angeles Clippers,99
+2016,december,Orlando Magic,107,New York Knicks,99
+2016,december,Indiana Pacers,92,San Antonio Spurs,106
+2016,december,Phoenix Suns,89,Utah Jazz,110
+2016,december,Sacramento Kings,99,Washington Wizards,113
+2016,december,Los Angeles Lakers,111,Denver Nuggets,107
+2016,december,Detroit Pistons,93,Miami Heat,92
+2016,december,Memphis Grizzlies,104,Philadelphia 76ers,90
+2016,december,Dallas Mavericks,99,Toronto Raptors,103
+2016,december,Detroit Pistons,100,Atlanta Hawks,107
+2016,december,Dallas Mavericks,119,Brooklyn Nets,118
+2016,december,Boston Celtics,102,Charlotte Hornets,89
+2016,december,New York Knicks,84,Cleveland Cavaliers,91
+2016,december,Utah Jazz,85,Golden State Warriors,103
+2016,december,Sacramento Kings,108,Indiana Pacers,106
+2016,december,Oklahoma City Thunder,120,Los Angeles Lakers,85
+2016,december,Philadelphia 76ers,100,Milwaukee Bucks,113
+2016,december,San Antonio Spurs,108,Minnesota Timberwolves,83
+2016,december,Portland Trail Blazers,89,New Orleans Pelicans,115
+2016,december,Houston Rockets,101,Orlando Magic,104
+2016,december,Denver Nuggets,104,Phoenix Suns,96
+2016,december,Memphis Grizzlies,91,Washington Wizards,100
+2016,december,Cleveland Cavaliers,83,Golden State Warriors,89
+2016,december,San Antonio Spurs,84,Houston Rockets,88
+2016,december,Los Angeles Clippers,94,Los Angeles Lakers,84
+2016,december,New Orleans Pelicans,88,Miami Heat,94
+2016,december,Chicago Bulls,105,Oklahoma City Thunder,96
+2016,december,New York Knicks,98,Atlanta Hawks,117
+2016,december,Washington Wizards,111,Brooklyn Nets,96
+2016,december,Memphis Grizzlies,92,Charlotte Hornets,98
+2016,december,Chicago Bulls,111,Dallas Mavericks,118
+2016,december,Boston Celtics,99,Detroit Pistons,93
+2016,december,Toronto Raptors,111,Milwaukee Bucks,90
+2016,december,Indiana Pacers,102,Minnesota Timberwolves,88
+2016,december,Houston Rockets,108,New Orleans Pelicans,110
+2016,december,Miami Heat,108,Orlando Magic,101
+2016,december,Philadelphia 76ers,111,Phoenix Suns,104
+2016,december,Cleveland Cavaliers,76,Portland Trail Blazers,105
+2016,december,Denver Nuggets,86,San Antonio Spurs,101
+2016,december,Los Angeles Clippers,109,Utah Jazz,104
+2016,december,New York Knicks,91,Boston Celtics,100
+2016,december,Los Angeles Lakers,96,Memphis Grizzlies,112
+2016,december,Denver Nuggets,112,Oklahoma City Thunder,122
+2016,december,Portland Trail Blazers,98,Sacramento Kings,94
+2016,december,Toronto Raptors,97,Chicago Bulls,104
+2016,december,Los Angeles Lakers,98,Charlotte Hornets,108
+2016,december,Milwaukee Bucks,93,Dallas Mavericks,103
+2016,december,Sacramento Kings,103,Golden State Warriors,122
+2016,december,Atlanta Hawks,87,Indiana Pacers,93
+2016,december,Brooklyn Nets,111,Miami Heat,105
+2016,december,New Orleans Pelicans,89,Orlando Magic,104
+2016,december,Cleveland Cavaliers,101,Phoenix Suns,97
+2016,december,Minnesota Timberwolves,95,San Antonio Spurs,101
+2016,december,Philadelphia 76ers,91,Utah Jazz,95
+2016,december,Los Angeles Clippers,108,Washington Wizards,91
+2016,december,Cleveland Cavaliers,93,Denver Nuggets,87
+2016,december,Atlanta Hawks,121,Houston Rockets,115
+2016,december,Miami Heat,90,Memphis Grizzlies,99
+2016,december,Detroit Pistons,96,New York Knicks,108
+2016,december,Milwaukee Bucks,123,Oklahoma City Thunder,131
+2016,december,Los Angeles Lakers,112,Boston Celtics,104
+2016,december,Indiana Pacers,100,Chicago Bulls,102
+2016,december,Los Angeles Clippers,122,Charlotte Hornets,117
+2016,december,Golden State Warriors,91,Dallas Mavericks,114
+2016,december,Utah Jazz,80,Minnesota Timberwolves,94
+2016,december,Brooklyn Nets,93,Orlando Magic,100
+2016,december,Denver Nuggets,103,Portland Trail Blazers,110
+2016,december,Philadelphia 76ers,110,Sacramento Kings,105
+2016,december,Phoenix Suns,79,San Antonio Spurs,112
+2016,december,Washington Wizards,91,Toronto Raptors,94
+2016,december,Minnesota Timberwolves,90,Detroit Pistons,115
+2016,december,Golden State Warriors,114,Houston Rockets,110
+2016,december,Milwaukee Bucks,120,Indiana Pacers,116
+2016,december,Los Angeles Clippers,95,New Orleans Pelicans,89
+2016,december,Phoenix Suns,106,Oklahoma City Thunder,110
+2016,december,Portland Trail Blazers,96,Utah Jazz,109
+2016,january,New York Knicks,81,Chicago Bulls,108
+2016,january,Philadelphia 76ers,84,Los Angeles Lakers,93
+2016,january,Dallas Mavericks,82,Miami Heat,106
+2016,january,Charlotte Hornets,94,Toronto Raptors,104
+2016,january,Orlando Magic,91,Washington Wizards,103
+2016,january,Brooklyn Nets,100,Boston Celtics,97
+2016,january,Oklahoma City Thunder,109,Charlotte Hornets,90
+2016,january,Orlando Magic,79,Cleveland Cavaliers,104
+2016,january,New Orleans Pelicans,105,Dallas Mavericks,98
+2016,january,Denver Nuggets,108,Golden State Warriors,111
+2016,january,Detroit Pistons,82,Indiana Pacers,94
+2016,january,Philadelphia 76ers,99,Los Angeles Clippers,130
+2016,january,Milwaukee Bucks,95,Minnesota Timberwolves,85
+2016,january,Phoenix Suns,119,Sacramento Kings,142
+2016,january,Houston Rockets,103,San Antonio Spurs,121
+2016,january,Memphis Grizzlies,87,Utah Jazz,92
+2016,january,Portland Trail Blazers,112,Denver Nuggets,106
+2016,january,Phoenix Suns,77,Los Angeles Lakers,97
+2016,january,Atlanta Hawks,97,New York Knicks,111
+2016,january,Chicago Bulls,115,Toronto Raptors,113
+2016,january,Miami Heat,97,Washington Wizards,75
+2016,january,Boston Celtics,103,Brooklyn Nets,94
+2016,january,Toronto Raptors,100,Cleveland Cavaliers,122
+2016,january,Orlando Magic,89,Detroit Pistons,115
+2016,january,Charlotte Hornets,101,Golden State Warriors,111
+2016,january,Indiana Pacers,100,Miami Heat,103
+2016,january,San Antonio Spurs,123,Milwaukee Bucks,98
+2016,january,Sacramento Kings,116,Oklahoma City Thunder,104
+2016,january,Minnesota Timberwolves,99,Philadelphia 76ers,109
+2016,january,Memphis Grizzlies,91,Portland Trail Blazers,78
+2016,january,Houston Rockets,93,Utah Jazz,91
+2016,january,New York Knicks,107,Atlanta Hawks,101
+2016,january,Milwaukee Bucks,106,Chicago Bulls,117
+2016,january,Sacramento Kings,116,Dallas Mavericks,117
+2016,january,Golden State Warriors,109,Los Angeles Lakers,88
+2016,january,Detroit Pistons,99,Boston Celtics,94
+2016,january,Toronto Raptors,91,Brooklyn Nets,74
+2016,january,New York Knicks,98,Miami Heat,90
+2016,january,Denver Nuggets,78,Minnesota Timberwolves,74
+2016,january,Dallas Mavericks,100,New Orleans Pelicans,91
+2016,january,Memphis Grizzlies,94,Oklahoma City Thunder,112
+2016,january,Indiana Pacers,95,Orlando Magic,86
+2016,january,Charlotte Hornets,102,Phoenix Suns,111
+2016,january,Los Angeles Clippers,109,Portland Trail Blazers,98
+2016,january,Utah Jazz,98,San Antonio Spurs,123
+2016,january,Cleveland Cavaliers,121,Washington Wizards,115
+2016,january,Boston Celtics,92,Chicago Bulls,101
+2016,january,Utah Jazz,94,Houston Rockets,103
+2016,january,Atlanta Hawks,126,Philadelphia 76ers,98
+2016,january,Los Angeles Lakers,115,Sacramento Kings,118
+2016,january,Orlando Magic,83,Brooklyn Nets,77
+2016,january,Oklahoma City Thunder,117,Los Angeles Lakers,113
+2016,january,Denver Nuggets,84,Memphis Grizzlies,91
+2016,january,Dallas Mavericks,95,Milwaukee Bucks,96
+2016,january,Cleveland Cavaliers,125,Minnesota Timberwolves,99
+2016,january,Indiana Pacers,91,New Orleans Pelicans,86
+2016,january,Miami Heat,103,Phoenix Suns,95
+2016,january,Golden State Warriors,128,Portland Trail Blazers,108
+2016,january,New York Knicks,99,San Antonio Spurs,100
+2016,january,Toronto Raptors,97,Washington Wizards,88
+2016,january,Chicago Bulls,105,Atlanta Hawks,120
+2016,january,Brooklyn Nets,89,Detroit Pistons,103
+2016,january,Charlotte Hornets,83,Los Angeles Clippers,97
+2016,january,Washington Wizards,105,Orlando Magic,99
+2016,january,Toronto Raptors,108,Philadelphia 76ers,95
+2016,january,Golden State Warriors,128,Sacramento Kings,116
+2016,january,Miami Heat,83,Utah Jazz,98
+2016,january,Charlotte Hornets,92,Denver Nuggets,95
+2016,january,Indiana Pacers,103,Houston Rockets,107
+2016,january,New Orleans Pelicans,111,Los Angeles Clippers,114
+2016,january,Utah Jazz,86,Los Angeles Lakers,74
+2016,january,Boston Celtics,98,Memphis Grizzlies,101
+2016,january,Dallas Mavericks,93,Minnesota Timberwolves,87
+2016,january,Milwaukee Bucks,88,New York Knicks,100
+2016,january,Cleveland Cavaliers,95,Philadelphia 76ers,85
+2016,january,Oklahoma City Thunder,110,Portland Trail Blazers,115
+2016,january,San Antonio Spurs,106,Brooklyn Nets,79
+2016,january,Washington Wizards,114,Chicago Bulls,100
+2016,january,Miami Heat,103,Golden State Warriors,111
+2016,january,Cleveland Cavaliers,110,Dallas Mavericks,107
+2016,january,San Antonio Spurs,109,Detroit Pistons,99
+2016,january,Phoenix Suns,97,Indiana Pacers,116
+2016,january,New Orleans Pelicans,91,Los Angeles Lakers,95
+2016,january,Houston Rockets,107,Memphis Grizzlies,91
+2016,january,Chicago Bulls,101,Milwaukee Bucks,106
+2016,january,Oklahoma City Thunder,101,Minnesota Timberwolves,96
+2016,january,Boston Celtics,114,New York Knicks,120
+2016,january,Indiana Pacers,94,Boston Celtics,103
+2016,january,New York Knicks,104,Brooklyn Nets,110
+2016,january,Atlanta Hawks,84,Charlotte Hornets,107
+2016,january,Golden State Warriors,110,Denver Nuggets,112
+2016,january,Minnesota Timberwolves,104,Houston Rockets,107
+2016,january,Miami Heat,90,Los Angeles Clippers,104
+2016,january,Dallas Mavericks,89,Oklahoma City Thunder,108
+2016,january,Utah Jazz,85,Portland Trail Blazers,99
+2016,january,New Orleans Pelicans,109,Sacramento Kings,97
+2016,january,Milwaukee Bucks,101,Washington Wizards,106
+2016,january,Los Angeles Lakers,98,Golden State Warriors,116
+2016,january,Detroit Pistons,101,Memphis Grizzlies,103
+2016,january,Toronto Raptors,106,Orlando Magic,103
+2016,january,Chicago Bulls,115,Philadelphia 76ers,111
+2016,january,Cleveland Cavaliers,95,San Antonio Spurs,99
+2016,january,Sacramento Kings,103,Utah Jazz,101
+2016,january,Phoenix Suns,103,Boston Celtics,117
+2016,january,Portland Trail Blazers,116,Brooklyn Nets,104
+2016,january,Dallas Mavericks,83,Chicago Bulls,77
+2016,january,Miami Heat,98,Denver Nuggets,95
+2016,january,Cleveland Cavaliers,91,Houston Rockets,77
+2016,january,Washington Wizards,118,Indiana Pacers,104
+2016,january,Atlanta Hawks,101,Milwaukee Bucks,108
+2016,january,Charlotte Hornets,107,New Orleans Pelicans,109
+2016,january,Minnesota Timberwolves,93,Oklahoma City Thunder,113
+2016,january,Brooklyn Nets,86,Atlanta Hawks,114
+2016,january,Milwaukee Bucks,105,Charlotte Hornets,92
+2016,january,Golden State Warriors,95,Detroit Pistons,113
+2016,january,Sacramento Kings,110,Los Angeles Clippers,103
+2016,january,New York Knicks,95,Memphis Grizzlies,103
+2016,january,Portland Trail Blazers,89,Philadelphia 76ers,114
+2016,january,Los Angeles Lakers,82,Utah Jazz,109
+2016,january,Boston Celtics,119,Washington Wizards,117
+2016,january,Indiana Pacers,126,Denver Nuggets,129
+2016,january,Houston Rockets,112,Los Angeles Lakers,95
+2016,january,Phoenix Suns,87,Minnesota Timberwolves,117
+2016,january,Miami Heat,74,Oklahoma City Thunder,99
+2016,january,Dallas Mavericks,83,San Antonio Spurs,112
+2016,january,Orlando Magic,81,Atlanta Hawks,98
+2016,january,Utah Jazz,119,Charlotte Hornets,124
+2016,january,Golden State Warriors,132,Cleveland Cavaliers,98
+2016,january,Boston Celtics,113,Dallas Mavericks,118
+2016,january,Chicago Bulls,111,Detroit Pistons,101
+2016,january,Houston Rockets,132,Los Angeles Clippers,140
+2016,january,New Orleans Pelicans,99,Memphis Grizzlies,101
+2016,january,Philadelphia 76ers,113,New York Knicks,119
+2016,january,Brooklyn Nets,100,Toronto Raptors,112
+2016,january,Portland Trail Blazers,108,Washington Wizards,98
+2016,january,Oklahoma City Thunder,110,Denver Nuggets,104
+2016,january,Milwaukee Bucks,91,Miami Heat,79
+2016,january,Minnesota Timberwolves,99,New Orleans Pelicans,114
+2016,january,Indiana Pacers,97,Phoenix Suns,94
+2016,january,Cleveland Cavaliers,91,Brooklyn Nets,78
+2016,january,Golden State Warriors,125,Chicago Bulls,94
+2016,january,Minnesota Timberwolves,94,Dallas Mavericks,106
+2016,january,Detroit Pistons,123,Houston Rockets,114
+2016,january,Sacramento Kings,112,Los Angeles Lakers,93
+2016,january,Utah Jazz,111,New York Knicks,118
+2016,january,Charlotte Hornets,95,Oklahoma City Thunder,109
+2016,january,Philadelphia 76ers,96,Orlando Magic,87
+2016,january,Atlanta Hawks,104,Portland Trail Blazers,98
+2016,january,Boston Celtics,109,Toronto Raptors,115
+2016,january,Miami Heat,87,Washington Wizards,106
+2016,january,Los Angeles Clippers,102,Cleveland Cavaliers,115
+2016,january,Memphis Grizzlies,102,Denver Nuggets,101
+2016,january,Detroit Pistons,99,New Orleans Pelicans,115
+2016,january,San Antonio Spurs,117,Phoenix Suns,89
+2016,january,Atlanta Hawks,88,Sacramento Kings,91
+2016,january,Chicago Bulls,101,Boston Celtics,110
+2016,january,Utah Jazz,108,Brooklyn Nets,86
+2016,january,Oklahoma City Thunder,109,Dallas Mavericks,106
+2016,january,Indiana Pacers,110,Golden State Warriors,122
+2016,january,Milwaukee Bucks,98,Houston Rockets,102
+2016,january,San Antonio Spurs,108,Los Angeles Lakers,95
+2016,january,Los Angeles Clippers,116,New York Knicks,88
+2016,january,Charlotte Hornets,120,Orlando Magic,116
+2016,january,Miami Heat,81,Toronto Raptors,101
+2016,january,New York Knicks,84,Charlotte Hornets,97
+2016,january,Chicago Bulls,96,Cleveland Cavaliers,83
+2016,january,Detroit Pistons,101,Denver Nuggets,104
+2016,january,Memphis Grizzlies,101,Minnesota Timberwolves,106
+2016,january,Milwaukee Bucks,99,New Orleans Pelicans,116
+2016,january,Atlanta Hawks,95,Phoenix Suns,98
+2016,january,Los Angeles Lakers,103,Portland Trail Blazers,121
+2016,january,Indiana Pacers,97,Sacramento Kings,108
+2016,january,Oklahoma City Thunder,106,Brooklyn Nets,116
+2016,january,Dallas Mavericks,104,Houston Rockets,115
+2016,january,Boston Celtics,112,Philadelphia 76ers,92
+2016,january,Los Angeles Clippers,94,Toronto Raptors,112
+2016,january,Miami Heat,89,Chicago Bulls,84
+2016,january,Minnesota Timberwolves,107,Cleveland Cavaliers,114
+2016,january,Atlanta Hawks,119,Denver Nuggets,105
+2016,january,San Antonio Spurs,90,Golden State Warriors,120
+2016,january,Orlando Magic,102,Memphis Grizzlies,108
+2016,january,Houston Rockets,112,New Orleans Pelicans,111
+2016,january,Charlotte Hornets,129,Sacramento Kings,128
+2016,january,Detroit Pistons,95,Utah Jazz,92
+2016,january,Boston Celtics,116,Washington Wizards,91
+2016,january,Miami Heat,102,Brooklyn Nets,98
+2016,january,Los Angeles Clippers,91,Indiana Pacers,89
+2016,january,Dallas Mavericks,92,Los Angeles Lakers,90
+2016,january,Orlando Magic,100,Milwaukee Bucks,107
+2016,january,Oklahoma City Thunder,128,New York Knicks,122
+2016,january,Phoenix Suns,103,Philadelphia 76ers,113
+2016,january,Sacramento Kings,97,Portland Trail Blazers,112
+2016,january,Washington Wizards,89,Toronto Raptors,106
+2016,january,Los Angeles Clippers,85,Atlanta Hawks,83
+2016,january,Denver Nuggets,103,Boston Celtics,111
+2016,january,Phoenix Suns,93,Cleveland Cavaliers,115
+2016,january,Philadelphia 76ers,97,Detroit Pistons,110
+2016,january,Dallas Mavericks,107,Golden State Warriors,127
+2016,january,Oklahoma City Thunder,126,Minnesota Timberwolves,123
+2016,january,Houston Rockets,99,San Antonio Spurs,130
+2016,january,Charlotte Hornets,73,Utah Jazz,102
+2016,january,Atlanta Hawks,92,Indiana Pacers,111
+2016,january,Chicago Bulls,114,Los Angeles Lakers,91
+2016,january,Milwaukee Bucks,83,Memphis Grizzlies,103
+2016,january,Sacramento Kings,105,New Orleans Pelicans,114
+2016,january,New York Knicks,93,Toronto Raptors,103
+2016,january,Denver Nuggets,117,Washington Wizards,113
+2016,january,Orlando Magic,94,Boston Celtics,113
+2016,january,Brooklyn Nets,79,Dallas Mavericks,91
+2016,january,Cleveland Cavaliers,114,Detroit Pistons,106
+2016,january,Los Angeles Lakers,93,Los Angeles Clippers,105
+2016,january,Miami Heat,107,Milwaukee Bucks,103
+2016,january,Phoenix Suns,84,New York Knicks,102
+2016,january,Houston Rockets,108,Oklahoma City Thunder,116
+2016,january,Charlotte Hornets,91,Portland Trail Blazers,109
+2016,january,Minnesota Timberwolves,90,Utah Jazz,103
+2016,january,San Antonio Spurs,103,Cleveland Cavaliers,117
+2016,january,Washington Wizards,123,Houston Rockets,122
+2016,january,Denver Nuggets,105,Indiana Pacers,109
+2016,january,Sacramento Kings,117,Memphis Grizzlies,121
+2016,january,Brooklyn Nets,103,New Orleans Pelicans,105
+2016,january,Golden State Warriors,108,Philadelphia 76ers,105
+2016,january,Detroit Pistons,107,Toronto Raptors,111
+2016,january,Phoenix Suns,78,Dallas Mavericks,91
+2016,january,Chicago Bulls,93,Los Angeles Clippers,120
+2016,january,Charlotte Hornets,101,Los Angeles Lakers,82
+2016,january,Atlanta Hawks,87,Miami Heat,105
+2016,january,Golden State Warriors,116,New York Knicks,95
+2016,january,Boston Celtics,114,Orlando Magic,119
+2016,january,Minnesota Timberwolves,93,Portland Trail Blazers,96
+2016,february,Dallas Mavericks,97,Atlanta Hawks,112
+2016,february,Detroit Pistons,105,Brooklyn Nets,100
+2016,february,Toronto Raptors,93,Denver Nuggets,112
+2016,february,Cleveland Cavaliers,111,Indiana Pacers,106
+2016,february,Memphis Grizzlies,110,New Orleans Pelicans,95
+2016,february,Washington Wizards,98,Oklahoma City Thunder,114
+2016,february,Milwaukee Bucks,104,Sacramento Kings,111
+2016,february,Orlando Magic,92,San Antonio Spurs,107
+2016,february,Chicago Bulls,96,Utah Jazz,105
+2016,february,Miami Heat,102,Houston Rockets,115
+2016,february,Minnesota Timberwolves,115,Los Angeles Lakers,119
+2016,february,Boston Celtics,97,New York Knicks,89
+2016,february,Toronto Raptors,104,Phoenix Suns,97
+2016,february,Milwaukee Bucks,95,Portland Trail Blazers,107
+2016,february,Detroit Pistons,95,Boston Celtics,102
+2016,february,Indiana Pacers,114,Brooklyn Nets,100
+2016,february,Cleveland Cavaliers,97,Charlotte Hornets,106
+2016,february,Miami Heat,93,Dallas Mavericks,90
+2016,february,Minnesota Timberwolves,108,Los Angeles Clippers,102
+2016,february,Orlando Magic,114,Oklahoma City Thunder,117
+2016,february,Atlanta Hawks,124,Philadelphia 76ers,86
+2016,february,Chicago Bulls,107,Sacramento Kings,102
+2016,february,New Orleans Pelicans,97,San Antonio Spurs,110
+2016,february,Denver Nuggets,81,Utah Jazz,85
+2016,february,Golden State Warriors,134,Washington Wizards,121
+2016,february,New York Knicks,105,Detroit Pistons,111
+2016,february,Los Angeles Lakers,99,New Orleans Pelicans,96
+2016,february,Houston Rockets,111,Phoenix Suns,105
+2016,february,Toronto Raptors,110,Portland Trail Blazers,103
+2016,february,Indiana Pacers,96,Atlanta Hawks,102
+2016,february,Sacramento Kings,119,Brooklyn Nets,128
+2016,february,Miami Heat,98,Charlotte Hornets,95
+2016,february,Boston Celtics,104,Cleveland Cavaliers,103
+2016,february,San Antonio Spurs,116,Dallas Mavericks,90
+2016,february,Chicago Bulls,110,Denver Nuggets,115
+2016,february,Memphis Grizzlies,91,New York Knicks,85
+2016,february,Los Angeles Clippers,107,Orlando Magic,93
+2016,february,Milwaukee Bucks,81,Utah Jazz,84
+2016,february,Philadelphia 76ers,94,Washington Wizards,106
+2016,february,Washington Wizards,104,Charlotte Hornets,108
+2016,february,New Orleans Pelicans,84,Cleveland Cavaliers,99
+2016,february,Oklahoma City Thunder,108,Golden State Warriors,116
+2016,february,Portland Trail Blazers,96,Houston Rockets,79
+2016,february,Detroit Pistons,104,Indiana Pacers,112
+2016,february,Dallas Mavericks,114,Memphis Grizzlies,110
+2016,february,Chicago Bulls,105,Minnesota Timberwolves,112
+2016,february,Brooklyn Nets,98,Philadelphia 76ers,103
+2016,february,Utah Jazz,98,Phoenix Suns,89
+2016,february,Los Angeles Lakers,102,San Antonio Spurs,106
+2016,february,Sacramento Kings,119,Boston Celtics,128
+2016,february,Los Angeles Clippers,100,Miami Heat,93
+2016,february,Denver Nuggets,101,New York Knicks,96
+2016,february,Atlanta Hawks,94,Orlando Magic,96
+2016,february,Orlando Magic,117,Atlanta Hawks,110
+2016,february,Denver Nuggets,104,Brooklyn Nets,105
+2016,february,Chicago Bulls,91,Charlotte Hornets,108
+2016,february,Sacramento Kings,100,Cleveland Cavaliers,120
+2016,february,Toronto Raptors,103,Detroit Pistons,89
+2016,february,Los Angeles Lakers,87,Indiana Pacers,89
+2016,february,Portland Trail Blazers,112,Memphis Grizzlies,106
+2016,february,New Orleans Pelicans,116,Minnesota Timberwolves,102
+2016,february,Los Angeles Clippers,98,Philadelphia 76ers,92
+2016,february,Oklahoma City Thunder,122,Phoenix Suns,106
+2016,february,Utah Jazz,121,Dallas Mavericks,119
+2016,february,Houston Rockets,110,Golden State Warriors,123
+2016,february,San Antonio Spurs,119,Miami Heat,101
+2016,february,Boston Celtics,111,Milwaukee Bucks,112
+2016,february,Washington Wizards,111,New York Knicks,108
+2016,february,Los Angeles Clippers,134,Boston Celtics,139
+2016,february,Memphis Grizzlies,109,Brooklyn Nets,90
+2016,february,Atlanta Hawks,113,Chicago Bulls,90
+2016,february,Los Angeles Lakers,111,Cleveland Cavaliers,120
+2016,february,Denver Nuggets,103,Detroit Pistons,92
+2016,february,Charlotte Hornets,117,Indiana Pacers,95
+2016,february,Toronto Raptors,112,Minnesota Timberwolves,117
+2016,february,Utah Jazz,96,New Orleans Pelicans,100
+2016,february,San Antonio Spurs,98,Orlando Magic,96
+2016,february,Sacramento Kings,114,Philadelphia 76ers,110
+2016,february,Golden State Warriors,112,Phoenix Suns,104
+2016,february,Houston Rockets,103,Portland Trail Blazers,116
+2016,february,Washington Wizards,92,Milwaukee Bucks,99
+2016,february,New Orleans Pelicans,95,Oklahoma City Thunder,121
+2016,february,Chicago Bulls,95,Cleveland Cavaliers,106
+2016,february,San Antonio Spurs,86,Los Angeles Clippers,105
+2016,february,Utah Jazz,89,Washington Wizards,103
+2016,february,Miami Heat,115,Atlanta Hawks,111
+2016,february,New York Knicks,98,Brooklyn Nets,109
+2016,february,Toronto Raptors,106,Chicago Bulls,116
+2016,february,San Antonio Spurs,119,Los Angeles Lakers,113
+2016,february,Minnesota Timberwolves,104,Memphis Grizzlies,109
+2016,february,Charlotte Hornets,98,Milwaukee Bucks,95
+2016,february,Philadelphia 76ers,114,New Orleans Pelicans,121
+2016,february,Indiana Pacers,101,Oklahoma City Thunder,98
+2016,february,Dallas Mavericks,104,Orlando Magic,110
+2016,february,Houston Rockets,116,Phoenix Suns,100
+2016,february,Golden State Warriors,105,Portland Trail Blazers,137
+2016,february,Denver Nuggets,110,Sacramento Kings,116
+2016,february,Boston Celtics,93,Utah Jazz,111
+2016,february,Detroit Pistons,86,Washington Wizards,98
+2016,february,Milwaukee Bucks,117,Atlanta Hawks,109
+2016,february,Golden State Warriors,115,Los Angeles Clippers,112
+2016,february,Washington Wizards,94,Miami Heat,114
+2016,february,New York Knicks,103,Minnesota Timberwolves,95
+2016,february,Charlotte Hornets,104,Brooklyn Nets,96
+2016,february,Los Angeles Lakers,115,Chicago Bulls,126
+2016,february,Philadelphia 76ers,103,Dallas Mavericks,129
+2016,february,Boston Celtics,121,Denver Nuggets,101
+2016,february,New Orleans Pelicans,111,Detroit Pistons,106
+2016,february,Cleveland Cavaliers,115,Oklahoma City Thunder,92
+2016,february,Indiana Pacers,105,Orlando Magic,102
+2016,february,San Antonio Spurs,118,Phoenix Suns,111
+2016,february,Utah Jazz,111,Portland Trail Blazers,115
+2016,february,Memphis Grizzlies,85,Toronto Raptors,98
+2016,february,Golden State Warriors,102,Atlanta Hawks,92
+2016,february,Detroit Pistons,96,Cleveland Cavaliers,88
+2016,february,Phoenix Suns,84,Los Angeles Clippers,124
+2016,february,Indiana Pacers,93,Miami Heat,101
+2016,february,Los Angeles Lakers,101,Milwaukee Bucks,108
+2016,february,Boston Celtics,122,Minnesota Timberwolves,124
+2016,february,Toronto Raptors,122,New York Knicks,95
+2016,february,Sacramento Kings,114,Denver Nuggets,110
+2016,february,Orlando Magic,124,Philadelphia 76ers,115
+2016,february,Brooklyn Nets,104,Portland Trail Blazers,112
+2016,february,Houston Rockets,114,Utah Jazz,117
+2016,february,New Orleans Pelicans,89,Washington Wizards,109
+2016,february,Washington Wizards,104,Chicago Bulls,109
+2016,february,Charlotte Hornets,103,Cleveland Cavaliers,114
+2016,february,Oklahoma City Thunder,116,Dallas Mavericks,103
+2016,february,Philadelphia 76ers,91,Detroit Pistons,111
+2016,february,New York Knicks,105,Indiana Pacers,108
+2016,february,Denver Nuggets,87,Los Angeles Clippers,81
+2016,february,Los Angeles Lakers,119,Memphis Grizzlies,128
+2016,february,Golden State Warriors,118,Miami Heat,112
+2016,february,San Antonio Spurs,108,Sacramento Kings,92
+2016,february,Minnesota Timberwolves,105,Toronto Raptors,114
+2016,february,Milwaukee Bucks,107,Boston Celtics,112
+2016,february,Oklahoma City Thunder,119,New Orleans Pelicans,123
+2016,february,Golden State Warriors,130,Orlando Magic,114
+2016,february,Brooklyn Nets,116,Phoenix Suns,106
+2016,february,Houston Rockets,119,Portland Trail Blazers,105
+2016,february,San Antonio Spurs,96,Utah Jazz,78
+2016,february,Chicago Bulls,88,Atlanta Hawks,103
+2016,february,Denver Nuggets,116,Dallas Mavericks,122
+2016,february,Charlotte Hornets,96,Indiana Pacers,95
+2016,february,Memphis Grizzlies,112,Los Angeles Lakers,95
+2016,february,Orlando Magic,95,New York Knicks,108
+2016,february,Washington Wizards,103,Philadelphia 76ers,94
+2016,february,Los Angeles Clippers,117,Sacramento Kings,107
+2016,february,Cleveland Cavaliers,97,Toronto Raptors,99
+2016,february,Miami Heat,89,Boston Celtics,101
+2016,february,Portland Trail Blazers,103,Chicago Bulls,95
+2016,february,San Antonio Spurs,104,Houston Rockets,94
+2016,february,Detroit Pistons,102,Milwaukee Bucks,91
+2016,february,Minnesota Timberwolves,112,New Orleans Pelicans,110
+2016,february,Golden State Warriors,121,Oklahoma City Thunder,118
+2016,february,Memphis Grizzlies,106,Phoenix Suns,111
+2016,february,Brooklyn Nets,98,Utah Jazz,96
+2016,february,Charlotte Hornets,76,Atlanta Hawks,87
+2016,february,Minnesota Timberwolves,101,Dallas Mavericks,128
+2016,february,Toronto Raptors,101,Detroit Pistons,114
+2016,february,Portland Trail Blazers,111,Indiana Pacers,102
+2016,february,Miami Heat,98,New York Knicks,81
+2016,february,Philadelphia 76ers,116,Orlando Magic,130
+2016,february,Cleveland Cavaliers,99,Washington Wizards,113
+2016,february,Utah Jazz,95,Boston Celtics,100
+2016,february,Indiana Pacers,96,Cleveland Cavaliers,100
+2016,february,Memphis Grizzlies,103,Denver Nuggets,96
+2016,february,Brooklyn Nets,95,Los Angeles Clippers,105
+2016,february,Houston Rockets,121,Milwaukee Bucks,128
+2016,february,Oklahoma City Thunder,131,Sacramento Kings,116
+2016,february,Philadelphia 76ers,108,Washington Wizards,116
+2016,march,Phoenix Suns,92,Charlotte Hornets,126
+2016,march,Orlando Magic,108,Dallas Mavericks,121
+2016,march,Atlanta Hawks,105,Golden State Warriors,109
+2016,march,Brooklyn Nets,101,Los Angeles Lakers,107
+2016,march,Chicago Bulls,111,Miami Heat,129
+2016,march,Portland Trail Blazers,104,New York Knicks,85
+2016,march,Portland Trail Blazers,93,Boston Celtics,116
+2016,march,Los Angeles Lakers,107,Denver Nuggets,117
+2016,march,New Orleans Pelicans,95,Houston Rockets,100
+2016,march,Oklahoma City Thunder,98,Los Angeles Clippers,103
+2016,march,Sacramento Kings,98,Memphis Grizzlies,104
+2016,march,Indiana Pacers,104,Milwaukee Bucks,99
+2016,march,Washington Wizards,104,Minnesota Timberwolves,98
+2016,march,Chicago Bulls,89,Orlando Magic,102
+2016,march,Charlotte Hornets,119,Philadelphia 76ers,99
+2016,march,Detroit Pistons,81,San Antonio Spurs,97
+2016,march,Utah Jazz,94,Toronto Raptors,104
+2016,march,Sacramento Kings,104,Dallas Mavericks,101
+2016,march,Oklahoma City Thunder,106,Golden State Warriors,121
+2016,march,Phoenix Suns,92,Miami Heat,108
+2016,march,San Antonio Spurs,94,New Orleans Pelicans,86
+2016,march,New York Knicks,104,Boston Celtics,105
+2016,march,Indiana Pacers,101,Charlotte Hornets,108
+2016,march,Washington Wizards,83,Cleveland Cavaliers,108
+2016,march,Brooklyn Nets,121,Denver Nuggets,120
+2016,march,Atlanta Hawks,106,Los Angeles Lakers,77
+2016,march,Utah Jazz,88,Memphis Grizzlies,94
+2016,march,Minnesota Timberwolves,101,Milwaukee Bucks,116
+2016,march,Phoenix Suns,102,Orlando Magic,84
+2016,march,Miami Heat,112,Philadelphia 76ers,102
+2016,march,Portland Trail Blazers,115,Toronto Raptors,117
+2016,march,Houston Rockets,100,Chicago Bulls,108
+2016,march,Boston Celtics,103,Cleveland Cavaliers,120
+2016,march,Atlanta Hawks,107,Los Angeles Clippers,97
+2016,march,Brooklyn Nets,118,Minnesota Timberwolves,132
+2016,march,Utah Jazz,106,New Orleans Pelicans,94
+2016,march,Detroit Pistons,89,New York Knicks,102
+2016,march,Sacramento Kings,94,San Antonio Spurs,104
+2016,march,Indiana Pacers,100,Washington Wizards,99
+2016,march,Dallas Mavericks,114,Denver Nuggets,116
+2016,march,Portland Trail Blazers,103,Detroit Pistons,123
+2016,march,Golden State Warriors,95,Los Angeles Lakers,112
+2016,march,Phoenix Suns,109,Memphis Grizzlies,100
+2016,march,Philadelphia 76ers,98,Miami Heat,103
+2016,march,Oklahoma City Thunder,104,Milwaukee Bucks,96
+2016,march,Houston Rockets,113,Toronto Raptors,107
+2016,march,Milwaukee Bucks,90,Chicago Bulls,100
+2016,march,Minnesota Timberwolves,103,Charlotte Hornets,108
+2016,march,Memphis Grizzlies,106,Cleveland Cavaliers,103
+2016,march,Los Angeles Clippers,109,Dallas Mavericks,90
+2016,march,Orlando Magic,113,Golden State Warriors,119
+2016,march,San Antonio Spurs,91,Indiana Pacers,99
+2016,march,Sacramento Kings,112,New Orleans Pelicans,115
+2016,march,New York Knicks,94,Denver Nuggets,110
+2016,march,Orlando Magic,98,Los Angeles Lakers,107
+2016,march,San Antonio Spurs,116,Minnesota Timberwolves,91
+2016,march,Washington Wizards,109,Portland Trail Blazers,116
+2016,march,Brooklyn Nets,99,Toronto Raptors,104
+2016,march,Atlanta Hawks,91,Utah Jazz,84
+2016,march,Memphis Grizzlies,96,Boston Celtics,116
+2016,march,New Orleans Pelicans,113,Charlotte Hornets,122
+2016,march,Detroit Pistons,102,Dallas Mavericks,96
+2016,march,Utah Jazz,94,Golden State Warriors,115
+2016,march,Miami Heat,108,Milwaukee Bucks,114
+2016,march,Los Angeles Clippers,108,Oklahoma City Thunder,120
+2016,march,Houston Rockets,118,Philadelphia 76ers,104
+2016,march,New York Knicks,128,Phoenix Suns,97
+2016,march,Cleveland Cavaliers,120,Sacramento Kings,111
+2016,march,Phoenix Suns,98,Denver Nuggets,116
+2016,march,Cleveland Cavaliers,120,Los Angeles Lakers,108
+2016,march,Chicago Bulls,101,San Antonio Spurs,109
+2016,march,Atlanta Hawks,96,Toronto Raptors,104
+2016,march,Houston Rockets,102,Boston Celtics,98
+2016,march,Miami Heat,118,Chicago Bulls,96
+2016,march,Detroit Pistons,103,Charlotte Hornets,118
+2016,march,Portland Trail Blazers,112,Golden State Warriors,128
+2016,march,New York Knicks,94,Los Angeles Clippers,101
+2016,march,New Orleans Pelicans,114,Memphis Grizzlies,121
+2016,march,Minnesota Timberwolves,99,Oklahoma City Thunder,96
+2016,march,Brooklyn Nets,89,Philadelphia 76ers,95
+2016,march,Orlando Magic,107,Sacramento Kings,100
+2016,march,Washington Wizards,93,Utah Jazz,114
+2016,march,Memphis Grizzlies,83,Atlanta Hawks,95
+2016,march,Houston Rockets,109,Charlotte Hornets,125
+2016,march,Indiana Pacers,112,Dallas Mavericks,105
+2016,march,Washington Wizards,100,Denver Nuggets,116
+2016,march,Phoenix Suns,116,Golden State Warriors,123
+2016,march,New Orleans Pelicans,92,Milwaukee Bucks,103
+2016,march,Detroit Pistons,125,Philadelphia 76ers,111
+2016,march,Orlando Magic,84,Portland Trail Blazers,121
+2016,march,Oklahoma City Thunder,85,San Antonio Spurs,93
+2016,march,Miami Heat,104,Toronto Raptors,112
+2016,march,Indiana Pacers,75,Atlanta Hawks,104
+2016,march,Milwaukee Bucks,109,Brooklyn Nets,100
+2016,march,Cleveland Cavaliers,114,Los Angeles Clippers,90
+2016,march,New York Knicks,90,Los Angeles Lakers,87
+2016,march,Utah Jazz,108,Sacramento Kings,99
+2016,march,Dallas Mavericks,107,Charlotte Hornets,96
+2016,march,New Orleans Pelicans,107,Golden State Warriors,125
+2016,march,Memphis Grizzlies,81,Houston Rockets,130
+2016,march,Denver Nuggets,119,Miami Heat,124
+2016,march,Portland Trail Blazers,94,Oklahoma City Thunder,128
+2016,march,Minnesota Timberwolves,104,Phoenix Suns,107
+2016,march,Chicago Bulls,109,Toronto Raptors,107
+2016,march,Cleveland Cavaliers,85,Utah Jazz,94
+2016,march,Detroit Pistons,81,Washington Wizards,124
+2016,march,Philadelphia 76ers,114,Brooklyn Nets,131
+2016,march,Boston Celtics,98,Indiana Pacers,103
+2016,march,Sacramento Kings,106,Los Angeles Lakers,98
+2016,march,Toronto Raptors,107,Milwaukee Bucks,89
+2016,march,Denver Nuggets,110,Orlando Magic,116
+2016,march,Los Angeles Clippers,87,San Antonio Spurs,108
+2016,march,Oklahoma City Thunder,130,Boston Celtics,109
+2016,march,Orlando Magic,99,Charlotte Hornets,107
+2016,march,Dallas Mavericks,98,Cleveland Cavaliers,99
+2016,march,Atlanta Hawks,118,Detroit Pistons,114
+2016,march,New York Knicks,85,Golden State Warriors,121
+2016,march,Los Angeles Clippers,122,Houston Rockets,106
+2016,march,Minnesota Timberwolves,114,Memphis Grizzlies,108
+2016,march,New Orleans Pelicans,123,Sacramento Kings,108
+2016,march,Chicago Bulls,96,Washington Wizards,117
+2016,march,Denver Nuggets,98,Atlanta Hawks,116
+2016,march,Brooklyn Nets,102,Chicago Bulls,118
+2016,march,Toronto Raptors,101,Indiana Pacers,94
+2016,march,Charlotte Hornets,109,Miami Heat,106
+2016,march,Memphis Grizzlies,86,Milwaukee Bucks,96
+2016,march,Washington Wizards,99,Philadelphia 76ers,94
+2016,march,Portland Trail Blazers,110,San Antonio Spurs,118
+2016,march,Phoenix Suns,69,Utah Jazz,103
+2016,march,Golden State Warriors,130,Dallas Mavericks,112
+2016,march,Sacramento Kings,108,Detroit Pistons,115
+2016,march,Minnesota Timberwolves,111,Houston Rockets,116
+2016,march,Phoenix Suns,95,Los Angeles Lakers,90
+2016,march,Portland Trail Blazers,117,New Orleans Pelicans,112
+2016,march,Cleveland Cavaliers,109,Orlando Magic,103
+2016,march,Oklahoma City Thunder,111,Philadelphia 76ers,97
+2016,march,Boston Celtics,91,Toronto Raptors,105
+2016,march,Houston Rockets,97,Atlanta Hawks,109
+2016,march,Utah Jazz,85,Chicago Bulls,92
+2016,march,Denver Nuggets,101,Charlotte Hornets,93
+2016,march,Brooklyn Nets,103,Detroit Pistons,115
+2016,march,Oklahoma City Thunder,115,Indiana Pacers,111
+2016,march,Los Angeles Clippers,102,Memphis Grizzlies,113
+2016,march,Cleveland Cavaliers,101,Miami Heat,122
+2016,march,Golden State Warriors,79,San Antonio Spurs,87
+2016,march,New York Knicks,89,Washington Wizards,99
+2016,march,Portland Trail Blazers,120,Dallas Mavericks,132
+2016,march,Utah Jazz,94,Milwaukee Bucks,85
+2016,march,Los Angeles Clippers,105,New Orleans Pelicans,109
+2016,march,Sacramento Kings,88,New York Knicks,80
+2016,march,Boston Celtics,120,Philadelphia 76ers,105
+2016,march,Orlando Magic,100,Toronto Raptors,105
+2016,march,Washington Wizards,117,Atlanta Hawks,102
+2016,march,Orlando Magic,96,Boston Celtics,107
+2016,march,Sacramento Kings,102,Chicago Bulls,109
+2016,march,San Antonio Spurs,88,Charlotte Hornets,91
+2016,march,Denver Nuggets,91,Cleveland Cavaliers,124
+2016,march,Milwaukee Bucks,91,Detroit Pistons,92
+2016,march,Philadelphia 76ers,75,Indiana Pacers,91
+2016,march,Golden State Warriors,109,Minnesota Timberwolves,104
+2016,march,Memphis Grizzlies,103,Phoenix Suns,97
+2016,march,Charlotte Hornets,105,Brooklyn Nets,100
+2016,march,Memphis Grizzlies,100,Los Angeles Lakers,107
+2016,march,Miami Heat,113,New Orleans Pelicans,99
+2016,march,Houston Rockets,107,Oklahoma City Thunder,111
+2016,march,Toronto Raptors,79,Boston Celtics,91
+2016,march,New York Knicks,115,Chicago Bulls,107
+2016,march,Milwaukee Bucks,104,Cleveland Cavaliers,113
+2016,march,Philadelphia 76ers,103,Denver Nuggets,104
+2016,march,Orlando Magic,102,Detroit Pistons,118
+2016,march,Los Angeles Clippers,98,Golden State Warriors,114
+2016,march,Utah Jazz,89,Houston Rockets,87
+2016,march,Sacramento Kings,104,Minnesota Timberwolves,113
+2016,march,Los Angeles Lakers,107,Phoenix Suns,119
+2016,march,Dallas Mavericks,103,Portland Trail Blazers,109
+2016,march,Miami Heat,88,San Antonio Spurs,112
+2016,march,Atlanta Hawks,122,Washington Wizards,101
+2016,march,Cleveland Cavaliers,95,Brooklyn Nets,104
+2016,march,New Orleans Pelicans,84,Indiana Pacers,92
+2016,march,Portland Trail Blazers,94,Los Angeles Clippers,96
+2016,march,Chicago Bulls,94,New York Knicks,106
+2016,march,Utah Jazz,91,Oklahoma City Thunder,113
+2016,march,Milwaukee Bucks,90,Atlanta Hawks,101
+2016,march,Charlotte Hornets,105,Detroit Pistons,112
+2016,march,Dallas Mavericks,120,Golden State Warriors,128
+2016,march,Toronto Raptors,109,Houston Rockets,112
+2016,march,Denver Nuggets,116,Los Angeles Lakers,105
+2016,march,Orlando Magic,97,Miami Heat,108
+2016,march,Phoenix Suns,94,Sacramento Kings,116
+2016,march,Memphis Grizzlies,104,San Antonio Spurs,110
+2016,march,Minnesota Timberwolves,132,Washington Wizards,129
+2016,march,Indiana Pacers,110,Brooklyn Nets,120
+2016,march,Atlanta Hawks,112,Detroit Pistons,95
+2016,march,Charlotte Hornets,115,Milwaukee Bucks,91
+2016,march,Utah Jazz,93,Minnesota Timberwolves,84
+2016,march,Toronto Raptors,115,New Orleans Pelicans,91
+2016,march,Cleveland Cavaliers,107,New York Knicks,93
+2016,march,San Antonio Spurs,92,Oklahoma City Thunder,111
+2016,march,Chicago Bulls,89,Orlando Magic,111
+2016,march,Boston Celtics,102,Phoenix Suns,99
+2016,march,Philadelphia 76ers,105,Portland Trail Blazers,108
+2016,march,Philadelphia 76ers,105,Golden State Warriors,117
+2016,march,Houston Rockets,101,Indiana Pacers,104
+2016,march,Denver Nuggets,90,Los Angeles Clippers,105
+2016,march,Washington Wizards,101,Los Angeles Lakers,88
+2016,march,Dallas Mavericks,111,Sacramento Kings,133
+2016,march,Atlanta Hawks,102,Chicago Bulls,100
+2016,march,Dallas Mavericks,97,Denver Nuggets,88
+2016,march,Boston Celtics,90,Los Angeles Clippers,114
+2016,march,San Antonio Spurs,101,Memphis Grizzlies,87
+2016,march,Brooklyn Nets,99,Miami Heat,110
+2016,march,Phoenix Suns,116,Minnesota Timberwolves,121
+2016,march,New York Knicks,91,New Orleans Pelicans,99
+2016,march,Sacramento Kings,93,Portland Trail Blazers,105
+2016,march,Oklahoma City Thunder,119,Toronto Raptors,100
+2016,march,Los Angeles Lakers,75,Utah Jazz,123
+2016,march,Houston Rockets,106,Cleveland Cavaliers,100
+2016,march,Oklahoma City Thunder,82,Detroit Pistons,88
+2016,march,Washington Wizards,94,Golden State Warriors,102
+2016,march,Chicago Bulls,98,Indiana Pacers,96
+2016,march,Brooklyn Nets,105,Orlando Magic,139
+2016,march,Charlotte Hornets,100,Philadelphia 76ers,85
+2016,march,New York Knicks,89,Dallas Mavericks,91
+2016,march,Miami Heat,100,Los Angeles Lakers,102
+2016,march,Denver Nuggets,109,Memphis Grizzlies,105
+2016,march,Phoenix Suns,94,Milwaukee Bucks,105
+2016,march,Los Angeles Clippers,99,Minnesota Timberwolves,79
+2016,march,Washington Wizards,111,Sacramento Kings,120
+2016,march,New Orleans Pelicans,92,San Antonio Spurs,100
+2016,march,Atlanta Hawks,97,Toronto Raptors,105
+2016,march,Golden State Warriors,103,Utah Jazz,96
+2016,march,Brooklyn Nets,87,Cleveland Cavaliers,107
+2016,march,Chicago Bulls,103,Houston Rockets,100
+2016,march,Orlando Magic,114,Indiana Pacers,94
+2016,march,Denver Nuggets,95,New Orleans Pelicans,101
+2016,march,Los Angeles Clippers,117,Oklahoma City Thunder,119
+2016,march,Boston Celtics,109,Portland Trail Blazers,116
+2016,april,Cleveland Cavaliers,110,Atlanta Hawks,108
+2016,april,Philadelphia 76ers,91,Charlotte Hornets,100
+2016,april,Dallas Mavericks,98,Detroit Pistons,89
+2016,april,Boston Celtics,109,Golden State Warriors,106
+2016,april,Toronto Raptors,99,Memphis Grizzlies,95
+2016,april,Orlando Magic,110,Milwaukee Bucks,113
+2016,april,Brooklyn Nets,91,New York Knicks,105
+2016,april,Washington Wizards,106,Phoenix Suns,99
+2016,april,Miami Heat,112,Sacramento Kings,106
+2016,april,Minnesota Timberwolves,85,Utah Jazz,98
+2016,april,Detroit Pistons,94,Chicago Bulls,90
+2016,april,Sacramento Kings,115,Denver Nuggets,106
+2016,april,Indiana Pacers,115,Philadelphia 76ers,102
+2016,april,Miami Heat,93,Portland Trail Blazers,110
+2016,april,Toronto Raptors,95,San Antonio Spurs,102
+2016,april,New Orleans Pelicans,106,Brooklyn Nets,87
+2016,april,Charlotte Hornets,103,Cleveland Cavaliers,112
+2016,april,Portland Trail Blazers,111,Golden State Warriors,136
+2016,april,Oklahoma City Thunder,110,Houston Rockets,118
+2016,april,Washington Wizards,109,Los Angeles Clippers,114
+2016,april,Boston Celtics,107,Los Angeles Lakers,100
+2016,april,Chicago Bulls,102,Milwaukee Bucks,98
+2016,april,Dallas Mavericks,88,Minnesota Timberwolves,78
+2016,april,Indiana Pacers,92,New York Knicks,87
+2016,april,Memphis Grizzlies,107,Orlando Magic,119
+2016,april,Utah Jazz,101,Phoenix Suns,86
+2016,april,Phoenix Suns,90,Atlanta Hawks,103
+2016,april,Oklahoma City Thunder,124,Denver Nuggets,102
+2016,april,Minnesota Timberwolves,124,Golden State Warriors,117
+2016,april,Los Angeles Lakers,81,Los Angeles Clippers,103
+2016,april,Chicago Bulls,92,Memphis Grizzlies,108
+2016,april,Detroit Pistons,89,Miami Heat,107
+2016,april,Cleveland Cavaliers,109,Milwaukee Bucks,80
+2016,april,New Orleans Pelicans,93,Philadelphia 76ers,107
+2016,april,Portland Trail Blazers,115,Sacramento Kings,107
+2016,april,Charlotte Hornets,90,Toronto Raptors,96
+2016,april,San Antonio Spurs,88,Utah Jazz,86
+2016,april,New Orleans Pelicans,97,Boston Celtics,104
+2016,april,Houston Rockets,86,Dallas Mavericks,88
+2016,april,Cleveland Cavaliers,109,Indiana Pacers,123
+2016,april,Los Angeles Clippers,91,Los Angeles Lakers,81
+2016,april,Charlotte Hornets,111,New York Knicks,97
+2016,april,Detroit Pistons,108,Orlando Magic,104
+2016,april,Oklahoma City Thunder,115,Portland Trail Blazers,120
+2016,april,Brooklyn Nets,103,Washington Wizards,121
+2016,april,Toronto Raptors,87,Atlanta Hawks,95
+2016,april,San Antonio Spurs,101,Golden State Warriors,112
+2016,april,Phoenix Suns,124,Houston Rockets,115
+2016,april,Chicago Bulls,98,Miami Heat,106
+2016,april,Minnesota Timberwolves,105,Sacramento Kings,97
+2016,april,Milwaukee Bucks,109,Boston Celtics,124
+2016,april,Brooklyn Nets,99,Charlotte Hornets,113
+2016,april,Memphis Grizzlies,93,Dallas Mavericks,103
+2016,april,San Antonio Spurs,98,Denver Nuggets,102
+2016,april,Washington Wizards,99,Detroit Pistons,112
+2016,april,Los Angeles Lakers,102,New Orleans Pelicans,110
+2016,april,Miami Heat,109,Orlando Magic,112
+2016,april,New York Knicks,109,Philadelphia 76ers,102
+2016,april,Indiana Pacers,98,Toronto Raptors,111
+2016,april,Los Angeles Clippers,102,Utah Jazz,99
+2016,april,Boston Celtics,107,Atlanta Hawks,118
+2016,april,Cleveland Cavaliers,102,Chicago Bulls,105
+2016,april,Golden State Warriors,100,Memphis Grizzlies,99
+2016,april,Phoenix Suns,121,New Orleans Pelicans,100
+2016,april,Minnesota Timberwolves,106,Portland Trail Blazers,105
+2016,april,Oklahoma City Thunder,112,Sacramento Kings,114
+2016,april,Utah Jazz,100,Denver Nuggets,84
+2016,april,Los Angeles Lakers,110,Houston Rockets,130
+2016,april,Brooklyn Nets,105,Indiana Pacers,129
+2016,april,Dallas Mavericks,91,Los Angeles Clippers,98
+2016,april,Orlando Magic,96,Miami Heat,118
+2016,april,Toronto Raptors,93,New York Knicks,89
+2016,april,Milwaukee Bucks,109,Philadelphia 76ers,108
+2016,april,Golden State Warriors,92,San Antonio Spurs,86
+2016,april,Charlotte Hornets,98,Washington Wizards,113
+2016,april,Charlotte Hornets,114,Boston Celtics,100
+2016,april,Washington Wizards,120,Brooklyn Nets,111
+2016,april,Atlanta Hawks,94,Cleveland Cavaliers,109
+2016,april,Houston Rockets,129,Minnesota Timberwolves,105
+2016,april,Chicago Bulls,121,New Orleans Pelicans,116
+2016,april,Los Angeles Lakers,79,Oklahoma City Thunder,112
+2016,april,Milwaukee Bucks,98,Orlando Magic,107
+2016,april,Sacramento Kings,105,Phoenix Suns,101
+2016,april,Dallas Mavericks,101,Utah Jazz,92
+2016,april,Miami Heat,99,Detroit Pistons,93
+2016,april,New York Knicks,90,Indiana Pacers,102
+2016,april,Memphis Grizzlies,84,Los Angeles Clippers,110
+2016,april,Oklahoma City Thunder,98,San Antonio Spurs,102
+2016,april,Philadelphia 76ers,98,Toronto Raptors,122
+2016,april,Miami Heat,88,Boston Celtics,98
+2016,april,Toronto Raptors,103,Brooklyn Nets,96
+2016,april,Philadelphia 76ers,105,Chicago Bulls,115
+2016,april,Orlando Magic,103,Charlotte Hornets,117
+2016,april,Detroit Pistons,112,Cleveland Cavaliers,110
+2016,april,San Antonio Spurs,96,Dallas Mavericks,91
+2016,april,Memphis Grizzlies,104,Golden State Warriors,125
+2016,april,Sacramento Kings,81,Houston Rockets,116
+2016,april,Utah Jazz,96,Los Angeles Lakers,101
+2016,april,Indiana Pacers,97,Milwaukee Bucks,92
+2016,april,New Orleans Pelicans,109,Minnesota Timberwolves,144
+2016,april,Los Angeles Clippers,105,Phoenix Suns,114
+2016,april,Denver Nuggets,99,Portland Trail Blazers,107
+2016,april,Atlanta Hawks,98,Washington Wizards,109
+2016,april,Boston Celtics,101,Atlanta Hawks,102
+2016,april,Houston Rockets,78,Golden State Warriors,104
+2016,april,Dallas Mavericks,70,Oklahoma City Thunder,108
+2016,april,Indiana Pacers,100,Toronto Raptors,90
+2016,april,Detroit Pistons,101,Cleveland Cavaliers,106
+2016,april,Portland Trail Blazers,95,Los Angeles Clippers,115
+2016,april,Charlotte Hornets,91,Miami Heat,123
+2016,april,Memphis Grizzlies,74,San Antonio Spurs,106
+2016,april,Houston Rockets,106,Golden State Warriors,115
+2016,april,Dallas Mavericks,85,Oklahoma City Thunder,84
+2016,april,Indiana Pacers,87,Toronto Raptors,98
+2016,april,Boston Celtics,72,Atlanta Hawks,89
+2016,april,Memphis Grizzlies,68,San Antonio Spurs,94
+2016,april,Detroit Pistons,90,Cleveland Cavaliers,107
+2016,april,Portland Trail Blazers,81,Los Angeles Clippers,102
+2016,april,Charlotte Hornets,103,Miami Heat,115
+2016,april,Oklahoma City Thunder,131,Dallas Mavericks,102
+2016,april,Golden State Warriors,96,Houston Rockets,97
+2016,april,Toronto Raptors,101,Indiana Pacers,85
+2016,april,Atlanta Hawks,103,Boston Celtics,111
+2016,april,Cleveland Cavaliers,101,Detroit Pistons,91
+2016,april,San Antonio Spurs,96,Memphis Grizzlies,87
+2016,april,Miami Heat,80,Charlotte Hornets,96
+2016,april,Oklahoma City Thunder,119,Dallas Mavericks,108
+2016,april,Toronto Raptors,83,Indiana Pacers,100
+2016,april,Los Angeles Clippers,88,Portland Trail Blazers,96
+2016,april,Atlanta Hawks,95,Boston Celtics,104
+2016,april,Cleveland Cavaliers,100,Detroit Pistons,98
+2016,april,Golden State Warriors,121,Houston Rockets,94
+2016,april,San Antonio Spurs,116,Memphis Grizzlies,95
+2016,april,Miami Heat,85,Charlotte Hornets,89
+2016,april,Dallas Mavericks,104,Oklahoma City Thunder,118
+2016,april,Los Angeles Clippers,84,Portland Trail Blazers,98
+2016,april,Boston Celtics,83,Atlanta Hawks,110
+2016,april,Indiana Pacers,99,Toronto Raptors,102
+2016,april,Houston Rockets,81,Golden State Warriors,114
+2016,april,Portland Trail Blazers,108,Los Angeles Clippers,98
+2016,april,Charlotte Hornets,90,Miami Heat,88
+2016,april,Atlanta Hawks,104,Boston Celtics,92
+2016,april,Miami Heat,97,Charlotte Hornets,90
+2016,april,Toronto Raptors,83,Indiana Pacers,101
+2016,april,Los Angeles Clippers,103,Portland Trail Blazers,106
+2016,april,Oklahoma City Thunder,92,San Antonio Spurs,124
+2016,may,Portland Trail Blazers,106,Golden State Warriors,118
+2016,may,Charlotte Hornets,73,Miami Heat,106
+2016,may,Indiana Pacers,84,Toronto Raptors,89
+2016,may,Atlanta Hawks,93,Cleveland Cavaliers,104
+2016,may,Oklahoma City Thunder,98,San Antonio Spurs,97
+2016,may,Portland Trail Blazers,99,Golden State Warriors,110
+2016,may,Miami Heat,102,Toronto Raptors,96
+2016,may,Atlanta Hawks,98,Cleveland Cavaliers,123
+2016,may,Miami Heat,92,Toronto Raptors,96
+2016,may,Cleveland Cavaliers,121,Atlanta Hawks,108
+2016,may,San Antonio Spurs,100,Oklahoma City Thunder,96
+2016,may,Toronto Raptors,95,Miami Heat,91
+2016,may,Golden State Warriors,108,Portland Trail Blazers,120
+2016,may,Cleveland Cavaliers,100,Atlanta Hawks,99
+2016,may,San Antonio Spurs,97,Oklahoma City Thunder,111
+2016,may,Toronto Raptors,87,Miami Heat,94
+2016,may,Golden State Warriors,132,Portland Trail Blazers,125
+2016,may,Oklahoma City Thunder,95,San Antonio Spurs,91
+2016,may,Portland Trail Blazers,121,Golden State Warriors,125
+2016,may,Miami Heat,91,Toronto Raptors,99
+2016,may,San Antonio Spurs,99,Oklahoma City Thunder,113
+2016,may,Toronto Raptors,91,Miami Heat,103
+2016,may,Miami Heat,89,Toronto Raptors,116
+2016,may,Oklahoma City Thunder,108,Golden State Warriors,102
+2016,may,Toronto Raptors,84,Cleveland Cavaliers,115
+2016,may,Oklahoma City Thunder,91,Golden State Warriors,118
+2016,may,Toronto Raptors,89,Cleveland Cavaliers,108
+2016,may,Cleveland Cavaliers,84,Toronto Raptors,99
+2016,may,Golden State Warriors,105,Oklahoma City Thunder,133
+2016,may,Cleveland Cavaliers,99,Toronto Raptors,105
+2016,may,Golden State Warriors,94,Oklahoma City Thunder,118
+2016,may,Toronto Raptors,78,Cleveland Cavaliers,116
+2016,may,Oklahoma City Thunder,111,Golden State Warriors,120
+2016,may,Cleveland Cavaliers,113,Toronto Raptors,87
+2016,may,Golden State Warriors,108,Oklahoma City Thunder,101
+2016,may,Oklahoma City Thunder,88,Golden State Warriors,96
+2016,june,Cleveland Cavaliers,89,Golden State Warriors,104
+2016,june,Cleveland Cavaliers,77,Golden State Warriors,110
+2016,june,Golden State Warriors,90,Cleveland Cavaliers,120
+2016,june,Golden State Warriors,108,Cleveland Cavaliers,97
+2016,june,Cleveland Cavaliers,112,Golden State Warriors,97
+2016,june,Golden State Warriors,101,Cleveland Cavaliers,115
+2016,june,Cleveland Cavaliers,93,Golden State Warriors,89
+2017,october,New York Knicks,88,Cleveland Cavaliers,117
+2017,october,San Antonio Spurs,129,Golden State Warriors,100
+2017,october,Utah Jazz,104,Portland Trail Blazers,113
+2017,october,Brooklyn Nets,117,Boston Celtics,122
+2017,october,Dallas Mavericks,121,Indiana Pacers,130
+2017,october,Houston Rockets,114,Los Angeles Lakers,120
+2017,october,Minnesota Timberwolves,98,Memphis Grizzlies,102
+2017,october,Charlotte Hornets,107,Milwaukee Bucks,96
+2017,october,Denver Nuggets,107,New Orleans Pelicans,102
+2017,october,Miami Heat,108,Orlando Magic,96
+2017,october,Oklahoma City Thunder,103,Philadelphia 76ers,97
+2017,october,Sacramento Kings,113,Phoenix Suns,94
+2017,october,Detroit Pistons,91,Toronto Raptors,109
+2017,october,Washington Wizards,99,Atlanta Hawks,114
+2017,october,Boston Celtics,99,Chicago Bulls,105
+2017,october,Los Angeles Clippers,114,Portland Trail Blazers,106
+2017,october,San Antonio Spurs,102,Sacramento Kings,94
+2017,october,Indiana Pacers,94,Brooklyn Nets,103
+2017,october,Houston Rockets,106,Dallas Mavericks,98
+2017,october,Orlando Magic,82,Detroit Pistons,108
+2017,october,Charlotte Hornets,97,Miami Heat,91
+2017,october,Golden State Warriors,122,New Orleans Pelicans,114
+2017,october,Phoenix Suns,110,Oklahoma City Thunder,113
+2017,october,Cleveland Cavaliers,94,Toronto Raptors,91
+2017,october,Los Angeles Lakers,89,Utah Jazz,96
+2017,october,Indiana Pacers,101,Chicago Bulls,118
+2017,october,Boston Celtics,104,Charlotte Hornets,98
+2017,october,Orlando Magic,99,Cleveland Cavaliers,105
+2017,october,Portland Trail Blazers,115,Denver Nuggets,113
+2017,october,Brooklyn Nets,108,Milwaukee Bucks,110
+2017,october,Memphis Grizzlies,104,New York Knicks,111
+2017,october,Atlanta Hawks,104,Philadelphia 76ers,72
+2017,october,Minnesota Timberwolves,103,Sacramento Kings,106
+2017,october,New Orleans Pelicans,79,San Antonio Spurs,98
+2017,october,Milwaukee Bucks,83,Detroit Pistons,98
+2017,october,Dallas Mavericks,92,Houston Rockets,93
+2017,october,Utah Jazz,75,Los Angeles Clippers,88
+2017,october,Washington Wizards,103,Memphis Grizzlies,112
+2017,october,San Antonio Spurs,106,Miami Heat,99
+2017,october,Los Angeles Lakers,96,Oklahoma City Thunder,113
+2017,october,Golden State Warriors,106,Phoenix Suns,100
+2017,october,Sacramento Kings,95,Atlanta Hawks,106
+2017,october,Chicago Bulls,118,Brooklyn Nets,88
+2017,october,Phoenix Suns,98,Los Angeles Clippers,116
+2017,october,Denver Nuggets,102,Toronto Raptors,105
+2017,november,Houston Rockets,120,Cleveland Cavaliers,128
+2017,november,New York Knicks,89,Detroit Pistons,102
+2017,november,Los Angeles Lakers,108,Indiana Pacers,115
+2017,november,Sacramento Kings,96,Miami Heat,108
+2017,november,Memphis Grizzlies,80,Minnesota Timberwolves,116
+2017,november,Milwaukee Bucks,117,New Orleans Pelicans,113
+2017,november,Orlando Magic,103,Philadelphia 76ers,101
+2017,november,Golden State Warriors,127,Portland Trail Blazers,104
+2017,november,Utah Jazz,106,San Antonio Spurs,91
+2017,november,Los Angeles Lakers,123,Atlanta Hawks,116
+2017,november,Chicago Bulls,100,Boston Celtics,107
+2017,november,Detroit Pistons,101,Brooklyn Nets,109
+2017,november,Philadelphia 76ers,93,Charlotte Hornets,109
+2017,november,Oklahoma City Thunder,85,Los Angeles Clippers,83
+2017,november,New Orleans Pelicans,83,Memphis Grizzlies,89
+2017,november,Houston Rockets,118,New York Knicks,99
+2017,november,Portland Trail Blazers,115,Phoenix Suns,118
+2017,november,Dallas Mavericks,81,Utah Jazz,97
+2017,november,Toronto Raptors,113,Washington Wizards,103
+2017,november,Boston Celtics,122,Cleveland Cavaliers,128
+2017,november,Oklahoma City Thunder,96,Golden State Warriors,122
+2017,november,Indiana Pacers,107,Milwaukee Bucks,125
+2017,november,Denver Nuggets,102,Minnesota Timberwolves,99
+2017,november,Sacramento Kings,94,Orlando Magic,102
+2017,november,Charlotte Hornets,99,Brooklyn Nets,95
+2017,november,New York Knicks,117,Chicago Bulls,104
+2017,november,Portland Trail Blazers,105,Dallas Mavericks,95
+2017,november,Golden State Warriors,97,Los Angeles Lakers,117
+2017,november,Los Angeles Clippers,99,Memphis Grizzlies,88
+2017,november,Phoenix Suns,112,New Orleans Pelicans,111
+2017,november,Miami Heat,87,Toronto Raptors,96
+2017,november,San Antonio Spurs,100,Utah Jazz,86
+2017,november,Atlanta Hawks,92,Washington Wizards,95
+2017,november,Houston Rockets,97,Atlanta Hawks,112
+2017,november,Denver Nuggets,86,Detroit Pistons,103
+2017,november,Chicago Bulls,94,Indiana Pacers,111
+2017,november,Sacramento Kings,91,Milwaukee Bucks,117
+2017,november,Minnesota Timberwolves,92,Oklahoma City Thunder,112
+2017,november,Washington Wizards,86,Orlando Magic,88
+2017,november,Cleveland Cavaliers,102,Philadelphia 76ers,101
+2017,november,Los Angeles Clippers,116,San Antonio Spurs,92
+2017,november,Denver Nuggets,123,Boston Celtics,107
+2017,november,Milwaukee Bucks,75,Dallas Mavericks,86
+2017,november,Phoenix Suns,108,Los Angeles Lakers,119
+2017,november,Portland Trail Blazers,100,Memphis Grizzlies,94
+2017,november,Utah Jazz,114,New York Knicks,109
+2017,november,Sacramento Kings,96,Toronto Raptors,91
+2017,november,Orlando Magic,80,Chicago Bulls,112
+2017,november,Indiana Pacers,100,Charlotte Hornets,122
+2017,november,New Orleans Pelicans,106,Golden State Warriors,116
+2017,november,Detroit Pistons,82,Los Angeles Clippers,114
+2017,november,Miami Heat,85,Oklahoma City Thunder,97
+2017,november,Utah Jazz,109,Philadelphia 76ers,84
+2017,november,Houston Rockets,114,Washington Wizards,106
+2017,november,Minnesota Timberwolves,110,Brooklyn Nets,119
+2017,november,Atlanta Hawks,110,Cleveland Cavaliers,106
+2017,november,Dallas Mavericks,109,Los Angeles Lakers,97
+2017,november,Denver Nuggets,107,Memphis Grizzlies,108
+2017,november,Phoenix Suns,121,Portland Trail Blazers,124
+2017,november,New Orleans Pelicans,94,Sacramento Kings,102
+2017,november,Chicago Bulls,107,Atlanta Hawks,115
+2017,november,Utah Jazz,98,Charlotte Hornets,104
+2017,november,Dallas Mavericks,95,Golden State Warriors,116
+2017,november,Philadelphia 76ers,115,Indiana Pacers,122
+2017,november,Portland Trail Blazers,80,Los Angeles Clippers,111
+2017,november,Brooklyn Nets,96,New York Knicks,110
+2017,november,Toronto Raptors,112,Oklahoma City Thunder,102
+2017,november,Minnesota Timberwolves,123,Orlando Magic,107
+2017,november,Detroit Pistons,100,Phoenix Suns,107
+2017,november,Houston Rockets,101,San Antonio Spurs,99
+2017,november,Boston Celtics,93,Washington Wizards,118
+2017,november,Golden State Warriors,125,Denver Nuggets,101
+2017,november,Chicago Bulls,98,Miami Heat,95
+2017,november,New Orleans Pelicans,112,Milwaukee Bucks,106
+2017,november,Los Angeles Lakers,101,Sacramento Kings,91
+2017,november,New York Knicks,87,Boston Celtics,115
+2017,november,Toronto Raptors,113,Charlotte Hornets,111
+2017,november,Los Angeles Clippers,110,Oklahoma City Thunder,108
+2017,november,Utah Jazz,87,Orlando Magic,74
+2017,november,Indiana Pacers,105,Philadelphia 76ers,109
+2017,november,Sacramento Kings,120,Portland Trail Blazers,122
+2017,november,Detroit Pistons,86,San Antonio Spurs,96
+2017,november,Cleveland Cavaliers,105,Washington Wizards,94
+2017,november,Philadelphia 76ers,96,Atlanta Hawks,117
+2017,november,Washington Wizards,95,Chicago Bulls,106
+2017,november,Detroit Pistons,106,Denver Nuggets,95
+2017,november,San Antonio Spurs,106,Houston Rockets,100
+2017,november,Boston Celtics,105,Indiana Pacers,99
+2017,november,Utah Jazz,102,Miami Heat,91
+2017,november,Memphis Grizzlies,96,Milwaukee Bucks,106
+2017,november,Los Angeles Clippers,119,Minnesota Timberwolves,105
+2017,november,Los Angeles Lakers,126,New Orleans Pelicans,99
+2017,november,Brooklyn Nets,122,Phoenix Suns,104
+2017,november,New York Knicks,107,Toronto Raptors,118
+2017,november,Charlotte Hornets,93,Cleveland Cavaliers,100
+2017,november,Phoenix Suns,120,Golden State Warriors,133
+2017,november,Los Angeles Lakers,99,Minnesota Timberwolves,125
+2017,november,Orlando Magic,119,Oklahoma City Thunder,117
+2017,november,Denver Nuggets,105,Portland Trail Blazers,112
+2017,november,Oklahoma City Thunder,88,Detroit Pistons,104
+2017,november,Philadelphia 76ers,88,Houston Rockets,115
+2017,november,Orlando Magic,69,Indiana Pacers,88
+2017,november,Brooklyn Nets,95,Los Angeles Clippers,127
+2017,november,Boston Celtics,105,New Orleans Pelicans,106
+2017,november,Dallas Mavericks,77,New York Knicks,93
+2017,november,Miami Heat,90,San Antonio Spurs,94
+2017,november,Memphis Grizzlies,102,Utah Jazz,96
+2017,november,Toronto Raptors,117,Cleveland Cavaliers,121
+2017,november,Brooklyn Nets,118,Los Angeles Lakers,125
+2017,november,Atlanta Hawks,93,Miami Heat,90
+2017,november,Charlotte Hornets,115,Minnesota Timberwolves,108
+2017,november,Chicago Bulls,113,Portland Trail Blazers,88
+2017,november,Milwaukee Bucks,100,Atlanta Hawks,107
+2017,november,Dallas Mavericks,83,Boston Celtics,90
+2017,november,Phoenix Suns,104,Denver Nuggets,120
+2017,november,Cleveland Cavaliers,93,Indiana Pacers,103
+2017,november,Memphis Grizzlies,111,Los Angeles Clippers,107
+2017,november,Detroit Pistons,102,New York Knicks,105
+2017,november,Houston Rockets,103,Oklahoma City Thunder,105
+2017,november,New Orleans Pelicans,82,Orlando Magic,89
+2017,november,Washington Wizards,102,Philadelphia 76ers,109
+2017,november,San Antonio Spurs,110,Sacramento Kings,105
+2017,november,Golden State Warriors,127,Toronto Raptors,121
+2017,november,Portland Trail Blazers,109,Houston Rockets,126
+2017,november,Milwaukee Bucks,73,Miami Heat,96
+2017,november,Philadelphia 76ers,86,Minnesota Timberwolves,110
+2017,november,Chicago Bulls,85,Utah Jazz,77
+2017,november,New York Knicks,112,Washington Wizards,119
+2017,november,Golden State Warriors,104,Boston Celtics,88
+2017,november,Atlanta Hawks,96,Charlotte Hornets,100
+2017,november,Detroit Pistons,81,Cleveland Cavaliers,104
+2017,november,Memphis Grizzlies,80,Dallas Mavericks,64
+2017,november,Toronto Raptors,113,Denver Nuggets,111
+2017,november,Phoenix Suns,116,Indiana Pacers,96
+2017,november,San Antonio Spurs,116,Los Angeles Lakers,107
+2017,november,Portland Trail Blazers,101,New Orleans Pelicans,113
+2017,november,Brooklyn Nets,105,Oklahoma City Thunder,124
+2017,november,Los Angeles Clippers,121,Sacramento Kings,115
+2017,november,Boston Celtics,94,Detroit Pistons,92
+2017,november,Utah Jazz,102,Houston Rockets,111
+2017,november,Chicago Bulls,95,Los Angeles Clippers,102
+2017,november,Minnesota Timberwolves,71,Memphis Grizzlies,93
+2017,november,Golden State Warriors,124,Milwaukee Bucks,121
+2017,november,Charlotte Hornets,116,New Orleans Pelicans,121
+2017,november,Dallas Mavericks,87,Orlando Magic,95
+2017,november,Phoenix Suns,105,Philadelphia 76ers,120
+2017,november,Miami Heat,114,Washington Wizards,111
+2017,november,Portland Trail Blazers,129,Brooklyn Nets,109
+2017,november,Utah Jazz,91,Denver Nuggets,105
+2017,november,Chicago Bulls,118,Los Angeles Lakers,110
+2017,november,Atlanta Hawks,94,New York Knicks,104
+2017,november,Indiana Pacers,115,Oklahoma City Thunder,111
+2017,november,Toronto Raptors,99,Sacramento Kings,102
+2017,november,Memphis Grizzlies,105,Charlotte Hornets,90
+2017,november,Houston Rockets,99,Detroit Pistons,96
+2017,november,Golden State Warriors,120,Indiana Pacers,83
+2017,november,Toronto Raptors,115,Los Angeles Clippers,123
+2017,november,Orlando Magic,89,Milwaukee Bucks,93
+2017,november,Boston Celtics,99,Minnesota Timberwolves,93
+2017,november,Miami Heat,94,Philadelphia 76ers,101
+2017,november,Dallas Mavericks,91,San Antonio Spurs,96
+2017,november,Phoenix Suns,101,Washington Wizards,106
+2017,november,New Orleans Pelicans,112,Atlanta Hawks,94
+2017,november,Chicago Bulls,107,Denver Nuggets,110
+2017,november,Oklahoma City Thunder,109,Los Angeles Lakers,111
+2017,november,Portland Trail Blazers,103,New York Knicks,107
+2017,november,Boston Celtics,111,Brooklyn Nets,92
+2017,november,San Antonio Spurs,119,Charlotte Hornets,114
+2017,november,Portland Trail Blazers,125,Cleveland Cavaliers,137
+2017,november,Los Angeles Clippers,124,Dallas Mavericks,104
+2017,november,Miami Heat,84,Detroit Pistons,107
+2017,november,Los Angeles Lakers,106,Golden State Warriors,149
+2017,november,Toronto Raptors,115,Houston Rockets,102
+2017,november,Atlanta Hawks,96,Indiana Pacers,85
+2017,november,Minnesota Timberwolves,96,New Orleans Pelicans,117
+2017,november,Phoenix Suns,92,Orlando Magic,87
+2017,november,Memphis Grizzlies,104,Philadelphia 76ers,99
+2017,november,Oklahoma City Thunder,101,Sacramento Kings,116
+2017,november,Denver Nuggets,83,Utah Jazz,108
+2017,november,San Antonio Spurs,109,Boston Celtics,103
+2017,november,Dallas Mavericks,90,Cleveland Cavaliers,128
+2017,november,Oklahoma City Thunder,132,Denver Nuggets,129
+2017,november,Los Angeles Clippers,97,Detroit Pistons,108
+2017,november,Brooklyn Nets,97,Indiana Pacers,118
+2017,november,Golden State Warriors,109,Los Angeles Lakers,85
+2017,november,Miami Heat,90,Memphis Grizzlies,81
+2017,november,Toronto Raptors,105,Milwaukee Bucks,99
+2017,november,Charlotte Hornets,111,New York Knicks,113
+2017,november,Washington Wizards,94,Orlando Magic,91
+2017,november,Chicago Bulls,105,Philadelphia 76ers,89
+2017,november,Minnesota Timberwolves,98,Phoenix Suns,85
+2017,november,New Orleans Pelicans,104,Portland Trail Blazers,119
+2017,november,Houston Rockets,117,Sacramento Kings,104
+2017,november,Atlanta Hawks,68,Utah Jazz,95
+2017,november,New York Knicks,102,Charlotte Hornets,107
+2017,november,Minnesota Timberwolves,102,Golden State Warriors,115
+2017,november,Memphis Grizzlies,110,Miami Heat,107
+2017,november,Detroit Pistons,88,Oklahoma City Thunder,106
+2017,november,San Antonio Spurs,112,Washington Wizards,100
+2017,november,Sacramento Kings,122,Brooklyn Nets,105
+2017,november,New Orleans Pelicans,81,Dallas Mavericks,91
+2017,november,Los Angeles Clippers,70,Indiana Pacers,91
+2017,november,Atlanta Hawks,94,Los Angeles Lakers,109
+2017,november,Milwaukee Bucks,104,Orlando Magic,96
+2017,november,Cleveland Cavaliers,112,Philadelphia 76ers,108
+2017,november,Denver Nuggets,120,Phoenix Suns,114
+2017,november,Houston Rockets,130,Portland Trail Blazers,114
+2017,november,Atlanta Hawks,100,Golden State Warriors,105
+2017,november,Charlotte Hornets,104,Memphis Grizzlies,85
+2017,november,Boston Celtics,112,Miami Heat,104
+2017,november,Utah Jazz,112,Minnesota Timberwolves,103
+2017,november,Oklahoma City Thunder,112,New York Knicks,103
+2017,november,Philadelphia 76ers,95,Toronto Raptors,122
+2017,november,Sacramento Kings,95,Washington Wizards,101
+2017,november,Los Angeles Clippers,122,Brooklyn Nets,127
+2017,november,Detroit Pistons,112,Charlotte Hornets,89
+2017,november,Cleveland Cavaliers,101,Milwaukee Bucks,118
+2017,november,Los Angeles Lakers,88,New Orleans Pelicans,105
+2017,november,Orlando Magic,95,San Antonio Spurs,83
+2017,november,Houston Rockets,101,Utah Jazz,120
+2017,november,Detroit Pistons,121,Boston Celtics,114
+2017,november,Los Angeles Lakers,96,Chicago Bulls,90
+2017,november,San Antonio Spurs,94,Dallas Mavericks,87
+2017,november,Miami Heat,106,Denver Nuggets,98
+2017,november,New York Knicks,106,Minnesota Timberwolves,104
+2017,november,Washington Wizards,115,Oklahoma City Thunder,126
+2017,november,Atlanta Hawks,107,Phoenix Suns,109
+2017,november,Indiana Pacers,109,Portland Trail Blazers,131
+2017,november,Memphis Grizzlies,105,Toronto Raptors,120
+2017,december,Milwaukee Bucks,111,Brooklyn Nets,93
+2017,december,Dallas Mavericks,87,Charlotte Hornets,97
+2017,december,Los Angeles Clippers,113,Cleveland Cavaliers,94
+2017,december,Houston Rockets,132,Golden State Warriors,127
+2017,december,Orlando Magic,94,Memphis Grizzlies,95
+2017,december,Miami Heat,111,Utah Jazz,110
+2017,december,Detroit Pistons,121,Atlanta Hawks,85
+2017,december,Sacramento Kings,92,Boston Celtics,97
+2017,december,Cleveland Cavaliers,105,Chicago Bulls,111
+2017,december,Houston Rockets,128,Denver Nuggets,110
+2017,december,Los Angeles Clippers,114,New Orleans Pelicans,96
+2017,december,Minnesota Timberwolves,114,New York Knicks,118
+2017,december,Orlando Magic,105,Philadelphia 76ers,88
+2017,december,Washington Wizards,105,San Antonio Spurs,107
+2017,december,Los Angeles Lakers,80,Toronto Raptors,113
+2017,december,Minnesota Timberwolves,125,Charlotte Hornets,120
+2017,december,Chicago Bulls,82,Dallas Mavericks,107
+2017,december,Phoenix Suns,109,Golden State Warriors,138
+2017,december,Los Angeles Lakers,100,Memphis Grizzlies,103
+2017,december,Brooklyn Nets,103,Milwaukee Bucks,112
+2017,december,Boston Celtics,107,Philadelphia 76ers,106
+2017,december,Miami Heat,92,Portland Trail Blazers,99
+2017,december,Atlanta Hawks,84,Toronto Raptors,128
+2017,december,Denver Nuggets,98,Utah Jazz,105
+2017,december,Orlando Magic,98,Detroit Pistons,92
+2017,december,Indiana Pacers,111,Los Angeles Clippers,102
+2017,december,Sacramento Kings,98,New York Knicks,106
+2017,december,New Orleans Pelicans,92,Oklahoma City Thunder,101
+2017,december,Oklahoma City Thunder,102,Atlanta Hawks,99
+2017,december,Washington Wizards,118,Brooklyn Nets,113
+2017,december,Portland Trail Blazers,112,Chicago Bulls,110
+2017,december,Charlotte Hornets,109,Dallas Mavericks,101
+2017,december,Indiana Pacers,106,Golden State Warriors,142
+2017,december,Boston Celtics,106,Houston Rockets,107
+2017,december,Utah Jazz,107,Los Angeles Lakers,101
+2017,december,San Antonio Spurs,97,Milwaukee Bucks,96
+2017,december,Memphis Grizzlies,110,New Orleans Pelicans,108
+2017,december,Denver Nuggets,106,Philadelphia 76ers,98
+2017,december,Cleveland Cavaliers,116,Toronto Raptors,112
+2017,december,Chicago Bulls,91,Detroit Pistons,102
+2017,december,Philadelphia 76ers,91,Memphis Grizzlies,96
+2017,december,New York Knicks,114,Miami Heat,103
+2017,december,San Antonio Spurs,105,Minnesota Timberwolves,91
+2017,december,Phoenix Suns,105,Utah Jazz,112
+2017,december,Orlando Magic,124,Washington Wizards,116
+2017,december,Miami Heat,95,Atlanta Hawks,103
+2017,december,Denver Nuggets,111,Brooklyn Nets,116
+2017,december,Detroit Pistons,77,Charlotte Hornets,87
+2017,december,Sacramento Kings,120,Dallas Mavericks,89
+2017,december,Los Angeles Lakers,95,Houston Rockets,134
+2017,december,Golden State Warriors,115,Los Angeles Clippers,98
+2017,december,Portland Trail Blazers,107,Milwaukee Bucks,115
+2017,december,Cleveland Cavaliers,126,New York Knicks,94
+2017,december,Boston Celtics,117,Orlando Magic,87
+2017,december,Indiana Pacers,109,Phoenix Suns,94
+2017,december,San Antonio Spurs,91,Chicago Bulls,95
+2017,december,Portland Trail Blazers,86,Memphis Grizzlies,88
+2017,december,Philadelphia 76ers,99,New Orleans Pelicans,88
+2017,december,Minnesota Timberwolves,110,Toronto Raptors,124
+2017,december,Golden State Warriors,106,Utah Jazz,99
+2017,december,Denver Nuggets,85,Washington Wizards,92
+2017,december,Toronto Raptors,101,Boston Celtics,94
+2017,december,Orlando Magic,88,Charlotte Hornets,109
+2017,december,Miami Heat,84,Cleveland Cavaliers,114
+2017,december,Indiana Pacers,103,Dallas Mavericks,111
+2017,december,Phoenix Suns,119,Los Angeles Lakers,115
+2017,december,Atlanta Hawks,114,Milwaukee Bucks,110
+2017,december,Detroit Pistons,117,Minnesota Timberwolves,90
+2017,december,Houston Rockets,102,Oklahoma City Thunder,99
+2017,december,New York Knicks,103,Sacramento Kings,100
+2017,december,Miami Heat,100,Chicago Bulls,105
+2017,december,Charlotte Hornets,105,Cleveland Cavaliers,116
+2017,december,Dallas Mavericks,87,Houston Rockets,109
+2017,december,Portland Trail Blazers,111,Indiana Pacers,118
+2017,december,New Orleans Pelicans,105,Los Angeles Clippers,133
+2017,december,Golden State Warriors,89,Memphis Grizzlies,110
+2017,december,Denver Nuggets,121,Orlando Magic,113
+2017,december,Brooklyn Nets,101,San Antonio Spurs,130
+2017,december,Sacramento Kings,84,Utah Jazz,104
+2017,december,Milwaukee Bucks,105,Washington Wizards,110
+2017,december,Philadelphia 76ers,97,Detroit Pistons,79
+2017,december,New York Knicks,118,Los Angeles Lakers,112
+2017,december,Golden State Warriors,116,Minnesota Timberwolves,108
+2017,december,Boston Celtics,96,Oklahoma City Thunder,99
+2017,december,New Orleans Pelicans,120,Phoenix Suns,119
+2017,december,Denver Nuggets,92,Dallas Mavericks,112
+2017,december,Brooklyn Nets,118,Houston Rockets,122
+2017,december,Charlotte Hornets,94,Indiana Pacers,110
+2017,december,Portland Trail Blazers,120,Los Angeles Clippers,121
+2017,december,Washington Wizards,101,Miami Heat,112
+2017,december,Los Angeles Lakers,92,Sacramento Kings,116
+2017,december,Milwaukee Bucks,100,Toronto Raptors,122
+2017,december,Orlando Magic,131,Atlanta Hawks,120
+2017,december,Minnesota Timberwolves,99,Chicago Bulls,94
+2017,december,Memphis Grizzlies,86,Cleveland Cavaliers,103
+2017,december,Golden State Warriors,113,New Orleans Pelicans,109
+2017,december,New York Knicks,111,Phoenix Suns,113
+2017,december,Oklahoma City Thunder,95,Portland Trail Blazers,114
+2017,december,Los Angeles Lakers,97,Brooklyn Nets,107
+2017,december,Detroit Pistons,95,Dallas Mavericks,85
+2017,december,Sacramento Kings,98,Houston Rockets,132
+2017,december,Cleveland Cavaliers,85,Memphis Grizzlies,93
+2017,december,Indiana Pacers,89,Miami Heat,95
+2017,december,Los Angeles Clippers,113,Orlando Magic,108
+2017,december,Toronto Raptors,123,Philadelphia 76ers,114
+2017,december,Boston Celtics,101,San Antonio Spurs,108
+2017,december,Oklahoma City Thunder,89,Utah Jazz,109
+2017,december,Charlotte Hornets,106,Washington Wizards,109
+2017,december,Portland Trail Blazers,120,Denver Nuggets,132
+2017,december,New York Knicks,90,Golden State Warriors,103
+2017,december,Chicago Bulls,97,Milwaukee Bucks,108
+2017,december,Indiana Pacers,95,New Orleans Pelicans,102
+2017,december,San Antonio Spurs,107,Phoenix Suns,92
+2017,december,Charlotte Hornets,88,Boston Celtics,96
+2017,december,Milwaukee Bucks,95,Chicago Bulls,69
+2017,december,New Orleans Pelicans,100,Houston Rockets,122
+2017,december,Sacramento Kings,96,Memphis Grizzlies,92
+2017,december,Los Angeles Clippers,102,Miami Heat,98
+2017,december,Brooklyn Nets,111,Orlando Magic,118
+2017,december,Los Angeles Lakers,100,Philadelphia 76ers,89
+2017,december,Atlanta Hawks,125,Toronto Raptors,121
+2017,december,Dallas Mavericks,100,Utah Jazz,103
+2017,december,Detroit Pistons,108,Washington Wizards,122
+2017,december,Charlotte Hornets,107,Atlanta Hawks,99
+2017,december,Los Angeles Lakers,108,Cleveland Cavaliers,119
+2017,december,New York Knicks,114,Denver Nuggets,127
+2017,december,Indiana Pacers,105,Detroit Pistons,90
+2017,december,Portland Trail Blazers,90,Golden State Warriors,135
+2017,december,Houston Rockets,111,Minnesota Timberwolves,109
+2017,december,Phoenix Suns,101,Oklahoma City Thunder,114
+2017,december,Sacramento Kings,79,Dallas Mavericks,99
+2017,december,Utah Jazz,82,Memphis Grizzlies,73
+2017,december,Boston Celtics,105,Miami Heat,95
+2017,december,Toronto Raptors,109,Orlando Magic,79
+2017,december,Brooklyn Nets,107,Philadelphia 76ers,108
+2017,december,New Orleans Pelicans,100,San Antonio Spurs,113
+2017,december,Los Angeles Clippers,110,Washington Wizards,117
+2017,december,Detroit Pistons,82,Chicago Bulls,113
+2017,december,Dallas Mavericks,107,Denver Nuggets,117
+2017,december,Washington Wizards,105,Indiana Pacers,107
+2017,december,Phoenix Suns,108,Minnesota Timberwolves,115
+2017,december,Atlanta Hawks,110,Oklahoma City Thunder,108
+2017,december,Los Angeles Lakers,113,Charlotte Hornets,117
+2017,december,Utah Jazz,74,Golden State Warriors,104
+2017,december,San Antonio Spurs,102,Houston Rockets,100
+2017,december,Denver Nuggets,102,Los Angeles Clippers,119
+2017,december,Boston Celtics,112,Memphis Grizzlies,109
+2017,december,Orlando Magic,136,Miami Heat,130
+2017,december,Cleveland Cavaliers,114,Milwaukee Bucks,108
+2017,december,Indiana Pacers,111,New York Knicks,118
+2017,december,New Orleans Pelicans,108,Philadelphia 76ers,93
+2017,december,Portland Trail Blazers,121,Sacramento Kings,126
+2017,december,Brooklyn Nets,104,Toronto Raptors,116
+2017,december,Minnesota Timberwolves,92,Atlanta Hawks,84
+2017,december,Washington Wizards,107,Chicago Bulls,97
+2017,december,Milwaukee Bucks,102,Cleveland Cavaliers,113
+2017,december,Memphis Grizzlies,98,Detroit Pistons,86
+2017,december,Oklahoma City Thunder,121,New Orleans Pelicans,110
+2017,december,Houston Rockets,125,Phoenix Suns,111
+2017,december,Dallas Mavericks,96,Portland Trail Blazers,95
+2017,december,Sacramento Kings,94,Utah Jazz,93
+2017,december,Golden State Warriors,117,Brooklyn Nets,101
+2017,december,Boston Celtics,109,Indiana Pacers,102
+2017,december,San Antonio Spurs,101,Los Angeles Clippers,106
+2017,december,Los Angeles Lakers,107,Miami Heat,115
+2017,december,Orlando Magic,95,New York Knicks,106
+2017,december,Oklahoma City Thunder,117,Boston Celtics,112
+2017,december,Chicago Bulls,91,Charlotte Hornets,103
+2017,december,Brooklyn Nets,99,Cleveland Cavaliers,119
+2017,december,Atlanta Hawks,109,Denver Nuggets,108
+2017,december,Golden State Warriors,119,Detroit Pistons,113
+2017,december,Dallas Mavericks,90,Los Angeles Clippers,88
+2017,december,Houston Rockets,109,Memphis Grizzlies,115
+2017,december,Washington Wizards,96,Milwaukee Bucks,123
+2017,december,Sacramento Kings,109,Minnesota Timberwolves,105
+2017,december,Miami Heat,87,New Orleans Pelicans,91
+2017,december,Los Angeles Lakers,90,Orlando Magic,109
+2017,december,Philadelphia 76ers,116,Phoenix Suns,123
+2017,december,San Antonio Spurs,110,Portland Trail Blazers,90
+2017,december,Toronto Raptors,104,Utah Jazz,98
+2017,december,Golden State Warriors,108,Cleveland Cavaliers,109
+2017,december,Los Angeles Clippers,102,Los Angeles Lakers,111
+2017,december,Boston Celtics,119,New York Knicks,114
+2017,december,Minnesota Timberwolves,100,Oklahoma City Thunder,112
+2017,december,Chicago Bulls,100,San Antonio Spurs,119
+2017,december,Charlotte Hornets,118,Brooklyn Nets,120
+2017,december,Indiana Pacers,85,Chicago Bulls,90
+2017,december,Cleveland Cavaliers,90,Detroit Pistons,106
+2017,december,Phoenix Suns,115,Houston Rockets,131
+2017,december,Denver Nuggets,106,Los Angeles Clippers,102
+2017,december,Atlanta Hawks,90,Minnesota Timberwolves,104
+2017,december,Dallas Mavericks,104,New Orleans Pelicans,111
+2017,december,Memphis Grizzlies,102,Orlando Magic,112
+2017,december,Toronto Raptors,95,Portland Trail Blazers,91
+2017,december,Philadelphia 76ers,100,Sacramento Kings,102
+2017,december,Milwaukee Bucks,102,Washington Wizards,107
+2017,december,Memphis Grizzlies,103,Boston Celtics,113
+2017,december,Houston Rockets,123,Dallas Mavericks,107
+2017,december,Utah Jazz,102,Los Angeles Lakers,100
+2017,december,Oklahoma City Thunder,106,Miami Heat,94
+2017,december,New York Knicks,98,Atlanta Hawks,102
+2017,december,Brooklyn Nets,99,Chicago Bulls,101
+2017,december,Minnesota Timberwolves,103,Denver Nuggets,105
+2017,december,Milwaukee Bucks,119,Detroit Pistons,94
+2017,december,Toronto Raptors,111,Golden State Warriors,121
+2017,december,Los Angeles Clippers,98,New Orleans Pelicans,102
+2017,december,Charlotte Hornets,120,Orlando Magic,101
+2017,december,Sacramento Kings,89,Portland Trail Blazers,102
+2017,december,Phoenix Suns,98,San Antonio Spurs,119
+2017,december,Indiana Pacers,105,Washington Wizards,111
+2017,december,Miami Heat,82,Charlotte Hornets,91
+2017,december,Boston Celtics,118,Cleveland Cavaliers,124
+2017,december,Dallas Mavericks,101,Los Angeles Lakers,89
+2017,december,Oklahoma City Thunder,80,Memphis Grizzlies,114
+2017,december,Toronto Raptors,91,Phoenix Suns,99
+2017,december,Philadelphia 76ers,83,Utah Jazz,100
+2017,december,Detroit Pistons,98,Atlanta Hawks,105
+2017,december,Miami Heat,114,Boston Celtics,117
+2017,december,Philadelphia 76ers,124,Denver Nuggets,122
+2017,december,Dallas Mavericks,99,Golden State Warriors,108
+2017,december,Los Angeles Clippers,116,Houston Rockets,140
+2017,december,Chicago Bulls,101,Indiana Pacers,111
+2017,december,Milwaukee Bucks,99,Minnesota Timberwolves,116
+2017,december,New York Knicks,92,New Orleans Pelicans,104
+2017,december,Portland Trail Blazers,94,San Antonio Spurs,110
+2017,december,Brooklyn Nets,95,Washington Wizards,118
+2017,december,Milwaukee Bucks,116,Chicago Bulls,96
+2017,december,Cleveland Cavaliers,121,Charlotte Hornets,109
+2017,december,New York Knicks,122,Houston Rockets,129
+2017,december,Los Angeles Clippers,88,Oklahoma City Thunder,114
+2017,december,Memphis Grizzlies,112,Sacramento Kings,98
+2017,december,Phoenix Suns,86,Utah Jazz,91
+2017,january,San Antonio Spurs,112,Atlanta Hawks,114
+2017,january,Orlando Magic,104,Indiana Pacers,117
+2017,january,Toronto Raptors,123,Los Angeles Lakers,114
+2017,january,Detroit Pistons,107,Miami Heat,98
+2017,january,Portland Trail Blazers,95,Minnesota Timberwolves,89
+2017,january,Utah Jazz,101,Brooklyn Nets,89
+2017,january,Charlotte Hornets,111,Chicago Bulls,118
+2017,january,New Orleans Pelicans,82,Cleveland Cavaliers,90
+2017,january,Denver Nuggets,119,Golden State Warriors,127
+2017,january,Washington Wizards,91,Houston Rockets,101
+2017,january,Phoenix Suns,98,Los Angeles Clippers,109
+2017,january,Oklahoma City Thunder,94,Milwaukee Bucks,98
+2017,january,Orlando Magic,115,New York Knicks,103
+2017,january,Utah Jazz,104,Boston Celtics,115
+2017,january,Washington Wizards,105,Dallas Mavericks,113
+2017,january,Sacramento Kings,120,Denver Nuggets,113
+2017,january,Indiana Pacers,121,Detroit Pistons,116
+2017,january,Memphis Grizzlies,102,Los Angeles Lakers,116
+2017,january,Minnesota Timberwolves,91,Philadelphia 76ers,93
+2017,january,Miami Heat,90,Phoenix Suns,99
+2017,january,Toronto Raptors,82,San Antonio Spurs,110
+2017,january,Oklahoma City Thunder,112,Charlotte Hornets,123
+2017,january,Chicago Bulls,106,Cleveland Cavaliers,94
+2017,january,Portland Trail Blazers,117,Golden State Warriors,125
+2017,january,Memphis Grizzlies,106,Los Angeles Clippers,115
+2017,january,Milwaukee Bucks,105,New York Knicks,104
+2017,january,Atlanta Hawks,111,Orlando Magic,92
+2017,january,Miami Heat,107,Sacramento Kings,102
+2017,january,Phoenix Suns,102,Dallas Mavericks,95
+2017,january,San Antonio Spurs,127,Denver Nuggets,99
+2017,january,Charlotte Hornets,114,Detroit Pistons,115
+2017,january,Oklahoma City Thunder,116,Houston Rockets,118
+2017,january,Brooklyn Nets,109,Indiana Pacers,121
+2017,january,Atlanta Hawks,99,New Orleans Pelicans,94
+2017,january,Los Angeles Lakers,109,Portland Trail Blazers,118
+2017,january,Utah Jazz,93,Toronto Raptors,101
+2017,january,Philadelphia 76ers,106,Boston Celtics,110
+2017,january,Cleveland Cavaliers,116,Brooklyn Nets,108
+2017,january,Memphis Grizzlies,128,Golden State Warriors,119
+2017,january,Miami Heat,100,Los Angeles Lakers,127
+2017,january,New York Knicks,116,Milwaukee Bucks,111
+2017,january,Houston Rockets,100,Orlando Magic,93
+2017,january,Los Angeles Clippers,106,Sacramento Kings,98
+2017,january,Minnesota Timberwolves,105,Washington Wizards,112
+2017,january,New Orleans Pelicans,108,Boston Celtics,117
+2017,january,Toronto Raptors,118,Chicago Bulls,123
+2017,january,Atlanta Hawks,97,Dallas Mavericks,82
+2017,january,New York Knicks,109,Indiana Pacers,123
+2017,january,Utah Jazz,94,Minnesota Timberwolves,92
+2017,january,Denver Nuggets,106,Oklahoma City Thunder,121
+2017,january,Charlotte Hornets,85,San Antonio Spurs,102
+2017,january,Philadelphia 76ers,105,Brooklyn Nets,95
+2017,january,Miami Heat,86,Los Angeles Clippers,98
+2017,january,Orlando Magic,95,Los Angeles Lakers,111
+2017,january,Utah Jazz,79,Memphis Grizzlies,88
+2017,january,Washington Wizards,107,Milwaukee Bucks,101
+2017,january,Cleveland Cavaliers,120,Phoenix Suns,116
+2017,january,Detroit Pistons,125,Portland Trail Blazers,124
+2017,january,Golden State Warriors,117,Sacramento Kings,106
+2017,january,Houston Rockets,129,Toronto Raptors,122
+2017,january,Oklahoma City Thunder,109,Chicago Bulls,94
+2017,january,Dallas Mavericks,92,Minnesota Timberwolves,101
+2017,january,New Orleans Pelicans,110,New York Knicks,96
+2017,january,Atlanta Hawks,117,Brooklyn Nets,97
+2017,january,Miami Heat,95,Golden State Warriors,107
+2017,january,Charlotte Hornets,114,Houston Rockets,121
+2017,january,Portland Trail Blazers,108,Los Angeles Lakers,87
+2017,january,Detroit Pistons,94,Sacramento Kings,100
+2017,january,Milwaukee Bucks,109,San Antonio Spurs,107
+2017,january,Boston Celtics,106,Toronto Raptors,114
+2017,january,Cleveland Cavaliers,92,Utah Jazz,100
+2017,january,Chicago Bulls,99,Washington Wizards,101
+2017,january,Washington Wizards,108,Boston Celtics,117
+2017,january,Orlando Magic,96,Los Angeles Clippers,105
+2017,january,Houston Rockets,105,Minnesota Timberwolves,119
+2017,january,Memphis Grizzlies,95,Oklahoma City Thunder,103
+2017,january,New York Knicks,97,Philadelphia 76ers,98
+2017,january,Cleveland Cavaliers,86,Portland Trail Blazers,102
+2017,january,New Orleans Pelicans,104,Brooklyn Nets,95
+2017,january,Indiana Pacers,112,Denver Nuggets,140
+2017,january,Detroit Pistons,107,Golden State Warriors,127
+2017,january,Chicago Bulls,89,New York Knicks,104
+2017,january,Dallas Mavericks,113,Phoenix Suns,108
+2017,january,Los Angeles Lakers,94,San Antonio Spurs,134
+2017,january,Boston Celtics,103,Atlanta Hawks,101
+2017,january,Memphis Grizzlies,110,Houston Rockets,105
+2017,january,Miami Heat,108,Milwaukee Bucks,116
+2017,january,Oklahoma City Thunder,86,Minnesota Timberwolves,96
+2017,january,Charlotte Hornets,93,Philadelphia 76ers,102
+2017,january,Orlando Magic,115,Portland Trail Blazers,109
+2017,january,Cleveland Cavaliers,120,Sacramento Kings,108
+2017,january,Brooklyn Nets,113,Toronto Raptors,132
+2017,january,Detroit Pistons,77,Utah Jazz,110
+2017,january,New Orleans Pelicans,99,Chicago Bulls,107
+2017,january,Los Angeles Lakers,97,Los Angeles Clippers,113
+2017,january,San Antonio Spurs,105,Phoenix Suns,108
+2017,january,Orlando Magic,107,Utah Jazz,114
+2017,january,Philadelphia 76ers,93,Washington Wizards,109
+2017,january,Milwaukee Bucks,98,Atlanta Hawks,111
+2017,january,Houston Rockets,137,Brooklyn Nets,112
+2017,january,Minnesota Timberwolves,87,Dallas Mavericks,98
+2017,january,Detroit Pistons,102,Los Angeles Lakers,97
+2017,january,Chicago Bulls,108,Memphis Grizzlies,104
+2017,january,Oklahoma City Thunder,122,Sacramento Kings,118
+2017,january,New York Knicks,101,Toronto Raptors,116
+2017,january,Charlotte Hornets,98,Boston Celtics,108
+2017,january,Orlando Magic,112,Denver Nuggets,125
+2017,january,Cleveland Cavaliers,91,Golden State Warriors,126
+2017,january,New Orleans Pelicans,95,Indiana Pacers,98
+2017,january,Oklahoma City Thunder,98,Los Angeles Clippers,120
+2017,january,Philadelphia 76ers,113,Milwaukee Bucks,104
+2017,january,Atlanta Hawks,108,New York Knicks,107
+2017,january,Utah Jazz,106,Phoenix Suns,101
+2017,january,Portland Trail Blazers,101,Washington Wizards,120
+2017,january,Toronto Raptors,119,Brooklyn Nets,109
+2017,january,Dallas Mavericks,99,Chicago Bulls,98
+2017,january,Denver Nuggets,127,Los Angeles Lakers,121
+2017,january,Houston Rockets,103,Miami Heat,109
+2017,january,Minnesota Timberwolves,114,San Antonio Spurs,122
+2017,january,New York Knicks,117,Boston Celtics,106
+2017,january,Portland Trail Blazers,85,Charlotte Hornets,107
+2017,january,Atlanta Hawks,95,Detroit Pistons,118
+2017,january,Oklahoma City Thunder,100,Golden State Warriors,121
+2017,january,Milwaukee Bucks,92,Houston Rockets,111
+2017,january,Orlando Magic,98,New Orleans Pelicans,118
+2017,january,Toronto Raptors,89,Philadelphia 76ers,94
+2017,january,Indiana Pacers,106,Sacramento Kings,100
+2017,january,Memphis Grizzlies,101,Washington Wizards,104
+2017,january,Phoenix Suns,103,Cleveland Cavaliers,118
+2017,january,Minnesota Timberwolves,104,Los Angeles Clippers,101
+2017,january,Dallas Mavericks,95,Miami Heat,99
+2017,january,Washington Wizards,113,New York Knicks,110
+2017,january,Denver Nuggets,104,San Antonio Spurs,118
+2017,january,Chicago Bulls,93,Atlanta Hawks,102
+2017,january,Toronto Raptors,78,Charlotte Hornets,113
+2017,january,Utah Jazz,112,Dallas Mavericks,107
+2017,january,Golden State Warriors,125,Houston Rockets,108
+2017,january,Indiana Pacers,95,Los Angeles Lakers,108
+2017,january,Sacramento Kings,91,Memphis Grizzlies,107
+2017,january,Brooklyn Nets,143,New Orleans Pelicans,114
+2017,january,Milwaukee Bucks,96,Orlando Magic,112
+2017,january,Portland Trail Blazers,92,Philadelphia 76ers,93
+2017,january,Philadelphia 76ers,93,Atlanta Hawks,110
+2017,january,Portland Trail Blazers,127,Boston Celtics,123
+2017,january,Sacramento Kings,99,Chicago Bulls,102
+2017,january,Brooklyn Nets,105,Charlotte Hornets,112
+2017,january,San Antonio Spurs,118,Cleveland Cavaliers,115
+2017,january,Los Angeles Clippers,98,Denver Nuggets,123
+2017,january,Washington Wizards,112,Detroit Pistons,113
+2017,january,Houston Rockets,119,Memphis Grizzlies,95
+2017,january,Milwaukee Bucks,97,Miami Heat,109
+2017,january,Phoenix Suns,107,New York Knicks,105
+2017,january,Indiana Pacers,100,Utah Jazz,109
+2017,january,Los Angeles Lakers,73,Dallas Mavericks,122
+2017,january,Denver Nuggets,108,Minnesota Timberwolves,111
+2017,january,Golden State Warriors,118,Orlando Magic,98
+2017,january,Phoenix Suns,115,Toronto Raptors,103
+2017,january,Los Angeles Clippers,115,Atlanta Hawks,105
+2017,january,San Antonio Spurs,112,Brooklyn Nets,86
+2017,january,Washington Wizards,109,Charlotte Hornets,99
+2017,january,Sacramento Kings,109,Detroit Pistons,104
+2017,january,New York Knicks,109,Indiana Pacers,103
+2017,january,Golden State Warriors,102,Miami Heat,105
+2017,january,Houston Rockets,114,Milwaukee Bucks,127
+2017,january,Cleveland Cavaliers,122,New Orleans Pelicans,124
+2017,january,Oklahoma City Thunder,97,Utah Jazz,95
+2017,january,Utah Jazz,93,Denver Nuggets,103
+2017,january,Chicago Bulls,100,Orlando Magic,92
+2017,january,Los Angeles Clippers,110,Philadelphia 76ers,121
+2017,january,Minnesota Timberwolves,112,Phoenix Suns,111
+2017,january,San Antonio Spurs,108,Toronto Raptors,106
+2017,january,Boston Celtics,108,Washington Wizards,123
+2017,january,Houston Rockets,109,Boston Celtics,120
+2017,january,Miami Heat,109,Brooklyn Nets,106
+2017,january,Atlanta Hawks,119,Chicago Bulls,114
+2017,january,Golden State Warriors,113,Charlotte Hornets,103
+2017,january,Sacramento Kings,116,Cleveland Cavaliers,112
+2017,january,New York Knicks,95,Dallas Mavericks,103
+2017,january,Toronto Raptors,99,Memphis Grizzlies,101
+2017,january,Philadelphia 76ers,114,Milwaukee Bucks,109
+2017,january,Oklahoma City Thunder,114,New Orleans Pelicans,105
+2017,january,Los Angeles Lakers,98,Portland Trail Blazers,105
+2017,january,Phoenix Suns,120,Denver Nuggets,127
+2017,january,Indiana Pacers,109,Minnesota Timberwolves,103
+2017,january,Dallas Mavericks,98,Oklahoma City Thunder,109
+2017,january,Los Angeles Lakers,88,Utah Jazz,96
+2017,january,Washington Wizards,112,Atlanta Hawks,86
+2017,january,Orlando Magic,98,Boston Celtics,128
+2017,january,Miami Heat,100,Chicago Bulls,88
+2017,january,Brooklyn Nets,116,Cleveland Cavaliers,124
+2017,january,Sacramento Kings,111,Indiana Pacers,115
+2017,january,San Antonio Spurs,103,New Orleans Pelicans,119
+2017,january,Charlotte Hornets,107,New York Knicks,110
+2017,january,Houston Rockets,123,Philadelphia 76ers,118
+2017,january,Memphis Grizzlies,109,Portland Trail Blazers,112
+2017,january,Milwaukee Bucks,86,Toronto Raptors,102
+2017,january,Sacramento Kings,109,Charlotte Hornets,106
+2017,january,Los Angeles Clippers,98,Golden State Warriors,144
+2017,january,Detroit Pistons,103,Miami Heat,116
+2017,january,Boston Celtics,112,Milwaukee Bucks,108
+2017,january,Brooklyn Nets,109,Minnesota Timberwolves,129
+2017,january,Denver Nuggets,123,Phoenix Suns,112
+2017,january,Memphis Grizzlies,102,Utah Jazz,95
+2017,january,New York Knicks,139,Atlanta Hawks,142
+2017,january,Philadelphia 76ers,108,Chicago Bulls,121
+2017,january,Oklahoma City Thunder,91,Cleveland Cavaliers,107
+2017,january,Houston Rockets,101,Indiana Pacers,120
+2017,january,Washington Wizards,107,New Orleans Pelicans,94
+2017,january,Golden State Warriors,113,Portland Trail Blazers,111
+2017,january,Dallas Mavericks,105,San Antonio Spurs,101
+2017,january,Orlando Magic,114,Toronto Raptors,113
+2017,january,Detroit Pistons,109,Boston Celtics,113
+2017,january,Cleveland Cavaliers,97,Dallas Mavericks,104
+2017,january,Brooklyn Nets,96,Miami Heat,104
+2017,january,Orlando Magic,105,Minnesota Timberwolves,111
+2017,january,Sacramento Kings,119,Philadelphia 76ers,122
+2017,january,Memphis Grizzlies,115,Phoenix Suns,96
+2017,january,Sacramento Kings,83,Houston Rockets,105
+2017,january,Denver Nuggets,116,Los Angeles Lakers,120
+2017,january,Charlotte Hornets,98,Portland Trail Blazers,115
+2017,january,Oklahoma City Thunder,94,San Antonio Spurs,108
+2017,january,New Orleans Pelicans,106,Toronto Raptors,108
+2017,january,New York Knicks,101,Washington Wizards,117
+2017,february,Toronto Raptors,104,Boston Celtics,109
+2017,february,New York Knicks,95,Brooklyn Nets,90
+2017,february,Minnesota Timberwolves,97,Cleveland Cavaliers,125
+2017,february,Philadelphia 76ers,95,Dallas Mavericks,113
+2017,february,Memphis Grizzlies,119,Denver Nuggets,99
+2017,february,New Orleans Pelicans,98,Detroit Pistons,118
+2017,february,Charlotte Hornets,111,Golden State Warriors,126
+2017,february,Atlanta Hawks,93,Miami Heat,116
+2017,february,Chicago Bulls,128,Oklahoma City Thunder,100
+2017,february,Indiana Pacers,98,Orlando Magic,88
+2017,february,Los Angeles Clippers,124,Phoenix Suns,114
+2017,february,Milwaukee Bucks,88,Utah Jazz,104
+2017,february,Atlanta Hawks,113,Houston Rockets,108
+2017,february,Golden State Warriors,133,Los Angeles Clippers,120
+2017,february,Philadelphia 76ers,86,San Antonio Spurs,102
+2017,february,Los Angeles Lakers,108,Washington Wizards,116
+2017,february,Los Angeles Lakers,107,Boston Celtics,113
+2017,february,Indiana Pacers,106,Brooklyn Nets,97
+2017,february,Milwaukee Bucks,117,Denver Nuggets,121
+2017,february,Minnesota Timberwolves,108,Detroit Pistons,116
+2017,february,Chicago Bulls,117,Houston Rockets,121
+2017,february,Memphis Grizzlies,102,Oklahoma City Thunder,114
+2017,february,Toronto Raptors,94,Orlando Magic,102
+2017,february,Dallas Mavericks,108,Portland Trail Blazers,104
+2017,february,Phoenix Suns,105,Sacramento Kings,103
+2017,february,Orlando Magic,86,Atlanta Hawks,113
+2017,february,Detroit Pistons,84,Indiana Pacers,105
+2017,february,Philadelphia 76ers,102,Miami Heat,125
+2017,february,Memphis Grizzlies,107,Minnesota Timberwolves,99
+2017,february,Cleveland Cavaliers,111,New York Knicks,104
+2017,february,Milwaukee Bucks,137,Phoenix Suns,112
+2017,february,Golden State Warriors,106,Sacramento Kings,109
+2017,february,Denver Nuggets,97,San Antonio Spurs,121
+2017,february,Charlotte Hornets,98,Utah Jazz,105
+2017,february,New Orleans Pelicans,91,Washington Wizards,105
+2017,february,Los Angeles Clippers,102,Boston Celtics,107
+2017,february,Toronto Raptors,103,Brooklyn Nets,95
+2017,february,Portland Trail Blazers,99,Oklahoma City Thunder,105
+2017,february,Utah Jazz,120,Atlanta Hawks,95
+2017,february,Dallas Mavericks,87,Denver Nuggets,110
+2017,february,Philadelphia 76ers,96,Detroit Pistons,113
+2017,february,Oklahoma City Thunder,90,Indiana Pacers,93
+2017,february,San Antonio Spurs,74,Memphis Grizzlies,89
+2017,february,Miami Heat,115,Minnesota Timberwolves,113
+2017,february,Phoenix Suns,106,New Orleans Pelicans,111
+2017,february,Los Angeles Lakers,121,New York Knicks,107
+2017,february,Chicago Bulls,112,Sacramento Kings,107
+2017,february,Los Angeles Clippers,109,Toronto Raptors,118
+2017,february,Cleveland Cavaliers,140,Washington Wizards,135
+2017,february,Brooklyn Nets,107,Charlotte Hornets,111
+2017,february,Portland Trail Blazers,114,Dallas Mavericks,113
+2017,february,Orlando Magic,104,Houston Rockets,128
+2017,february,Denver Nuggets,106,Atlanta Hawks,117
+2017,february,Washington Wizards,114,Brooklyn Nets,110
+2017,february,Los Angeles Lakers,102,Detroit Pistons,121
+2017,february,Chicago Bulls,92,Golden State Warriors,123
+2017,february,Cleveland Cavaliers,132,Indiana Pacers,117
+2017,february,Phoenix Suns,91,Memphis Grizzlies,110
+2017,february,Miami Heat,106,Milwaukee Bucks,88
+2017,february,Toronto Raptors,109,Minnesota Timberwolves,112
+2017,february,Utah Jazz,127,New Orleans Pelicans,94
+2017,february,Los Angeles Clippers,119,New York Knicks,115
+2017,february,San Antonio Spurs,111,Philadelphia 76ers,103
+2017,february,Boston Celtics,92,Sacramento Kings,108
+2017,february,Houston Rockets,107,Charlotte Hornets,95
+2017,february,Utah Jazz,105,Dallas Mavericks,112
+2017,february,Cleveland Cavaliers,109,Oklahoma City Thunder,118
+2017,february,Philadelphia 76ers,112,Orlando Magic,111
+2017,february,Boston Celtics,120,Portland Trail Blazers,111
+2017,february,Miami Heat,108,Brooklyn Nets,99
+2017,february,San Antonio Spurs,103,Detroit Pistons,92
+2017,february,Golden State Warriors,122,Memphis Grizzlies,107
+2017,february,Los Angeles Lakers,122,Milwaukee Bucks,114
+2017,february,New Orleans Pelicans,122,Minnesota Timberwolves,106
+2017,february,Denver Nuggets,131,New York Knicks,123
+2017,february,Chicago Bulls,97,Phoenix Suns,115
+2017,february,Atlanta Hawks,107,Sacramento Kings,108
+2017,february,Indiana Pacers,107,Washington Wizards,112
+2017,february,Los Angeles Clippers,107,Charlotte Hornets,102
+2017,february,Denver Nuggets,109,Cleveland Cavaliers,125
+2017,february,Orlando Magic,80,Dallas Mavericks,112
+2017,february,Phoenix Suns,102,Houston Rockets,133
+2017,february,Milwaukee Bucks,116,Indiana Pacers,100
+2017,february,Golden State Warriors,130,Oklahoma City Thunder,114
+2017,february,Miami Heat,109,Philadelphia 76ers,117
+2017,february,Boston Celtics,112,Utah Jazz,104
+2017,february,Chicago Bulls,89,Minnesota Timberwolves,117
+2017,february,San Antonio Spurs,90,New York Knicks,94
+2017,february,New Orleans Pelicans,99,Sacramento Kings,105
+2017,february,Detroit Pistons,102,Toronto Raptors,101
+2017,february,Memphis Grizzlies,112,Brooklyn Nets,103
+2017,february,Philadelphia 76ers,105,Charlotte Hornets,99
+2017,february,Boston Celtics,111,Dallas Mavericks,98
+2017,february,Golden State Warriors,110,Denver Nuggets,132
+2017,february,San Antonio Spurs,110,Indiana Pacers,106
+2017,february,Orlando Magic,116,Miami Heat,107
+2017,february,Detroit Pistons,89,Milwaukee Bucks,102
+2017,february,New Orleans Pelicans,110,Phoenix Suns,108
+2017,february,Atlanta Hawks,109,Portland Trail Blazers,104
+2017,february,Los Angeles Clippers,88,Utah Jazz,72
+2017,february,Oklahoma City Thunder,98,Washington Wizards,120
+2017,february,Toronto Raptors,94,Chicago Bulls,105
+2017,february,Sacramento Kings,97,Los Angeles Lakers,96
+2017,february,Cleveland Cavaliers,116,Minnesota Timberwolves,108
+2017,february,Philadelphia 76ers,108,Boston Celtics,116
+2017,february,Milwaukee Bucks,129,Brooklyn Nets,125
+2017,february,Indiana Pacers,104,Cleveland Cavaliers,113
+2017,february,Minnesota Timberwolves,112,Denver Nuggets,99
+2017,february,Dallas Mavericks,91,Detroit Pistons,98
+2017,february,Sacramento Kings,86,Golden State Warriors,109
+2017,february,Miami Heat,117,Houston Rockets,109
+2017,february,Atlanta Hawks,84,Los Angeles Clippers,99
+2017,february,New Orleans Pelicans,95,Memphis Grizzlies,91
+2017,february,New York Knicks,105,Oklahoma City Thunder,116
+2017,february,San Antonio Spurs,107,Orlando Magic,79
+2017,february,Los Angeles Lakers,101,Phoenix Suns,137
+2017,february,Charlotte Hornets,85,Toronto Raptors,90
+2017,february,Portland Trail Blazers,88,Utah Jazz,111
+2017,february,Boston Celtics,103,Chicago Bulls,104
+2017,february,Washington Wizards,111,Indiana Pacers,98
