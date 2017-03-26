@@ -1,0 +1,871 @@
+,a_tm,h_tm,sgoals,mqij,sim_ascore,sim_hscore
+Los Angeles LakersNew Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,207.5921437,-8.468456111,100,109
+Los Angeles LakersSan Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,202.316761,-18.69295521,92,111
+Los Angeles LakersBoston Celtics,Los Angeles Lakers,Boston Celtics,209.4420681,-12.04043899,99,111
+Los Angeles LakersCharlotte Hornets,Los Angeles Lakers,Charlotte Hornets,202.5326193,-10.12499862,97,107
+Los Angeles LakersDenver Nuggets,Los Angeles Lakers,Denver Nuggets,213.0118522,-7.722352639,103,111
+Los Angeles LakersIndiana Pacers,Los Angeles Lakers,Indiana Pacers,203.7772438,-11.03008542,97,108
+Los Angeles LakersMemphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,199.5700149,-10.73147297,95,105
+Los Angeles LakersMiami Heat,Los Angeles Lakers,Miami Heat,199.3679228,-10.11221389,95,105
+Los Angeles LakersNew York Knicks,Los Angeles Lakers,New York Knicks,203.4841519,-5.223789119,99,104
+Los Angeles LakersPhoenix Suns,Los Angeles Lakers,Phoenix Suns,212.5381346,-6.287059754,104,110
+Los Angeles LakersPortland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,210.6639465,-11.32987288,100,112
+Los Angeles LakersSacramento Kings,Los Angeles Lakers,Sacramento Kings,212.7326979,-7.50416529,103,111
+Los Angeles LakersToronto Raptors,Los Angeles Lakers,Toronto Raptors,206.6186615,-13.42167744,97,110
+Los Angeles LakersUtah Jazz,Los Angeles Lakers,Utah Jazz,195.1857989,-12.41783299,92,105
+Los Angeles LakersCleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,206.9935321,-15.94523652,96,112
+Los Angeles LakersDallas Mavericks,Los Angeles Lakers,Dallas Mavericks,207.0253033,-10.38203824,98,109
+Los Angeles LakersLos Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,209.8040185,-15.2032711,98,113
+Los Angeles LakersMinnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,209.7192284,-5.694342932,103,108
+Los Angeles LakersOrlando Magic,Los Angeles Lakers,Orlando Magic,204.8301973,-6.06731162,100,106
+Los Angeles LakersChicago Bulls,Los Angeles Lakers,Chicago Bulls,204.119279,-11.0487394,97,108
+Los Angeles LakersMilwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,203.8411612,-8.868427372,98,107
+Los Angeles LakersAtlanta Hawks,Los Angeles Lakers,Atlanta Hawks,204.5280683,-13.3528923,96,109
+Los Angeles LakersDetroit Pistons,Los Angeles Lakers,Detroit Pistons,203.5122835,-10.09500591,97,107
+Los Angeles LakersGolden State Warriors,Los Angeles Lakers,Golden State Warriors,217.1351818,-20.67615894,98,119
+Los Angeles LakersHouston Rockets,Los Angeles Lakers,Houston Rockets,214.8081651,-12.69599707,101,114
+Los Angeles LakersOklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,212.2118379,-14.11842335,100,114
+Los Angeles LakersPhiladelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,203.5940005,-1.913688579,101,103
+Los Angeles LakersWashington Wizards,Los Angeles Lakers,Washington Wizards,207.2379979,-11.42075363,98,110
+Los Angeles LakersBrooklyn Nets,Los Angeles Lakers,Brooklyn Nets,208.4404531,-4.473303693,103,107
+New Orleans PelicansLos Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,207.5921437,2.864888792,106,103
+New Orleans PelicansSan Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,200.6689507,-13.02628276,94,107
+New Orleans PelicansBoston Celtics,New Orleans Pelicans,Boston Celtics,207.7942578,-6.373766534,101,108
+New Orleans PelicansCharlotte Hornets,New Orleans Pelicans,Charlotte Hornets,200.884809,-4.458326168,99,104
+New Orleans PelicansDenver Nuggets,New Orleans Pelicans,Denver Nuggets,211.3640419,-2.055680187,105,107
+New Orleans PelicansIndiana Pacers,New Orleans Pelicans,Indiana Pacers,202.1294335,-5.363412969,99,104
+New Orleans PelicansMemphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,197.9222046,-5.064800523,97,102
+New Orleans PelicansMiami Heat,New Orleans Pelicans,Miami Heat,197.7201125,-4.445541437,97,102
+New Orleans PelicansNew York Knicks,New Orleans Pelicans,New York Knicks,201.8363416,0.442883332,102,101
+New Orleans PelicansPhoenix Suns,New Orleans Pelicans,Phoenix Suns,210.8903243,-0.620387303,106,107
+New Orleans PelicansPortland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,209.0161361,-5.663200428,102,108
+New Orleans PelicansSacramento Kings,New Orleans Pelicans,Sacramento Kings,211.0848876,-1.837492839,105,107
+New Orleans PelicansToronto Raptors,New Orleans Pelicans,Toronto Raptors,204.9708512,-7.755004992,99,107
+New Orleans PelicansUtah Jazz,New Orleans Pelicans,Utah Jazz,193.5379886,-6.751160541,94,101
+New Orleans PelicansCleveland Cavaliers,New Orleans Pelicans,Cleveland Cavaliers,205.3457218,-10.27856407,98,109
+New Orleans PelicansDallas Mavericks,New Orleans Pelicans,Dallas Mavericks,205.377493,-4.715365788,101,105
+New Orleans PelicansLos Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,208.1562082,-9.536598651,100,109
+New Orleans PelicansMinnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,208.0714181,-0.027670481,104,104
+New Orleans PelicansOrlando Magic,New Orleans Pelicans,Orlando Magic,203.182387,-0.400639168,102,102
+New Orleans PelicansChicago Bulls,New Orleans Pelicans,Chicago Bulls,202.4714687,-5.38206695,99,104
+New Orleans PelicansMilwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,202.1933508,-3.201754921,100,103
+New Orleans PelicansAtlanta Hawks,New Orleans Pelicans,Atlanta Hawks,202.880258,-7.686219853,98,106
+New Orleans PelicansDetroit Pistons,New Orleans Pelicans,Detroit Pistons,201.8644732,-4.428333455,99,104
+New Orleans PelicansGolden State Warriors,New Orleans Pelicans,Golden State Warriors,215.4873715,-15.00948649,101,116
+New Orleans PelicansHouston Rockets,New Orleans Pelicans,Houston Rockets,213.1603548,-7.029324615,103,110
+New Orleans PelicansOklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,210.5640276,-8.451750903,101,110
+New Orleans PelicansPhiladelphia 76ers,New Orleans Pelicans,Philadelphia 76ers,201.9461902,3.752983873,103,99
+New Orleans PelicansWashington Wizards,New Orleans Pelicans,Washington Wizards,205.5901875,-5.754081178,101,106
+New Orleans PelicansBrooklyn Nets,New Orleans Pelicans,Brooklyn Nets,206.7926428,1.193368758,104,103
+San Antonio SpursLos Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,202.316761,13.08938789,108,95
+San Antonio SpursNew Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,200.6689507,7.422715437,105,97
+San Antonio SpursBoston Celtics,San Antonio Spurs,Boston Celtics,202.5188751,3.850732563,104,100
+San Antonio SpursCharlotte Hornets,San Antonio Spurs,Charlotte Hornets,195.6094262,5.766172928,101,96
+San Antonio SpursDenver Nuggets,San Antonio Spurs,Denver Nuggets,206.0886591,8.168818909,108,99
+San Antonio SpursIndiana Pacers,San Antonio Spurs,Indiana Pacers,196.8540508,4.861086128,101,96
+San Antonio SpursMemphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,192.6468219,5.159698573,99,94
+San Antonio SpursMiami Heat,San Antonio Spurs,Miami Heat,192.4447298,5.77895766,100,94
+San Antonio SpursNew York Knicks,San Antonio Spurs,New York Knicks,196.5609588,10.66738243,104,93
+San Antonio SpursPhoenix Suns,San Antonio Spurs,Phoenix Suns,205.6149415,9.604111794,108,98
+San Antonio SpursPortland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,203.7407534,4.561298669,105,100
+San Antonio SpursSacramento Kings,San Antonio Spurs,Sacramento Kings,205.8095049,8.387006258,108,99
+San Antonio SpursToronto Raptors,San Antonio Spurs,Toronto Raptors,199.6954684,2.469494105,102,99
+San Antonio SpursUtah Jazz,San Antonio Spurs,Utah Jazz,188.2626059,3.473338555,97,93
+San Antonio SpursCleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,200.070339,-0.054064973,101,101
+San Antonio SpursDallas Mavericks,San Antonio Spurs,Dallas Mavericks,200.1021103,5.509133308,103,98
+San Antonio SpursLos Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,202.8808255,0.687900445,102,101
+San Antonio SpursMinnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,202.7960354,10.19682862,107,97
+San Antonio SpursOrlando Magic,San Antonio Spurs,Orlando Magic,197.9070042,9.823859928,105,95
+San Antonio SpursChicago Bulls,San Antonio Spurs,Chicago Bulls,197.1960859,4.842432146,102,97
+San Antonio SpursMilwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,196.9179681,7.022744176,102,95
+San Antonio SpursAtlanta Hawks,San Antonio Spurs,Atlanta Hawks,197.6048752,2.538279243,101,98
+San Antonio SpursDetroit Pistons,San Antonio Spurs,Detroit Pistons,196.5890905,5.796165641,102,96
+San Antonio SpursGolden State Warriors,San Antonio Spurs,Golden State Warriors,210.2119888,-4.78498739,103,108
+San Antonio SpursHouston Rockets,San Antonio Spurs,Houston Rockets,207.8849721,3.195174482,106,103
+San Antonio SpursOklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,205.2886449,1.772748193,104,102
+San Antonio SpursPhiladelphia 76ers,San Antonio Spurs,Philadelphia 76ers,196.6708075,13.97748297,106,92
+San Antonio SpursWashington Wizards,San Antonio Spurs,Washington Wizards,200.3148048,4.470417918,103,98
+San Antonio SpursBrooklyn Nets,San Antonio Spurs,Brooklyn Nets,201.5172601,11.41786785,107,95
+Boston CelticsLos Angeles Lakers,Boston Celtics,Los Angeles Lakers,209.4420681,6.436871666,109,102
+Boston CelticsNew Orleans Pelicans,Boston Celtics,New Orleans Pelicans,207.7942578,0.770199215,104,104
+Boston CelticsSan Antonio Spurs,Boston Celtics,San Antonio Spurs,202.5188751,-9.454299882,97,107
+Boston CelticsCharlotte Hornets,Boston Celtics,Charlotte Hornets,202.7347334,-0.886343294,101,102
+Boston CelticsDenver Nuggets,Boston Celtics,Denver Nuggets,213.2139663,1.516302687,108,106
+Boston CelticsIndiana Pacers,Boston Celtics,Indiana Pacers,203.9793579,-1.791430094,101,103
+Boston CelticsMemphis Grizzlies,Boston Celtics,Memphis Grizzlies,199.772129,-1.492817649,100,101
+Boston CelticsMiami Heat,Boston Celtics,Miami Heat,199.5700369,-0.873558563,100,101
+Boston CelticsNew York Knicks,Boston Celtics,New York Knicks,203.686266,4.014866207,104,100
+Boston CelticsPhoenix Suns,Boston Celtics,Phoenix Suns,212.7402487,2.951595571,108,106
+Boston CelticsPortland Trail Blazers,Boston Celtics,Portland Trail Blazers,210.8660606,-2.091217554,105,107
+Boston CelticsSacramento Kings,Boston Celtics,Sacramento Kings,212.934812,1.734490035,108,106
+Boston CelticsToronto Raptors,Boston Celtics,Toronto Raptors,206.8207756,-4.183022118,102,106
+Boston CelticsUtah Jazz,Boston Celtics,Utah Jazz,195.387913,-3.179177667,97,100
+Boston CelticsCleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,207.1956462,-6.706581195,100,107
+Boston CelticsDallas Mavericks,Boston Celtics,Dallas Mavericks,207.2274174,-1.143382914,103,105
+Boston CelticsLos Angeles Clippers,Boston Celtics,Los Angeles Clippers,210.0061326,-5.964615777,103,109
+Boston CelticsMinnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,209.9213425,3.544312394,107,103
+Boston CelticsOrlando Magic,Boston Celtics,Orlando Magic,205.0323114,3.171343706,105,102
+Boston CelticsChicago Bulls,Boston Celtics,Chicago Bulls,204.3213931,-1.810084076,102,103
+Boston CelticsMilwaukee Bucks,Boston Celtics,Milwaukee Bucks,204.0432752,0.370227954,103,103
+Boston CelticsAtlanta Hawks,Boston Celtics,Atlanta Hawks,204.7301824,-4.114236979,101,105
+Boston CelticsDetroit Pistons,Boston Celtics,Detroit Pistons,203.7143976,-0.856350581,102,103
+Boston CelticsGolden State Warriors,Boston Celtics,Golden State Warriors,217.3372959,-11.43750361,103,115
+Boston CelticsHouston Rockets,Boston Celtics,Houston Rockets,215.0102792,-3.457341741,107,110
+Boston CelticsOklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,212.413952,-4.879768029,105,110
+Boston CelticsPhiladelphia 76ers,Boston Celtics,Philadelphia 76ers,203.7961146,7.324966747,106,99
+Boston CelticsWashington Wizards,Boston Celtics,Washington Wizards,207.4401119,-2.182098304,103,105
+Boston CelticsBrooklyn Nets,Boston Celtics,Brooklyn Nets,208.6425672,4.765351633,107,102
+Charlotte HornetsLos Angeles Lakers,Charlotte Hornets,Los Angeles Lakers,202.5326193,4.521431301,104,100
+Charlotte HornetsNew Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,200.884809,-1.14524115,101,102
+Charlotte HornetsSan Antonio Spurs,Charlotte Hornets,San Antonio Spurs,195.6094262,-11.36974025,93,104
+Charlotte HornetsBoston Celtics,Charlotte Hornets,Boston Celtics,202.7347334,-4.717224025,99,104
+Charlotte HornetsDenver Nuggets,Charlotte Hornets,Denver Nuggets,206.3045174,-0.399137678,104,104
+Charlotte HornetsIndiana Pacers,Charlotte Hornets,Indiana Pacers,197.0699091,-3.706870459,97,101
+Charlotte HornetsMemphis Grizzlies,Charlotte Hornets,Memphis Grizzlies,192.8626802,-3.408258014,95,99
+Charlotte HornetsMiami Heat,Charlotte Hornets,Miami Heat,192.6605881,-2.788998928,96,99
+Charlotte HornetsNew York Knicks,Charlotte Hornets,New York Knicks,196.7768172,2.099425842,100,98
+Charlotte HornetsPhoenix Suns,Charlotte Hornets,Phoenix Suns,205.8307998,1.036155206,104,103
+Charlotte HornetsPortland Trail Blazers,Charlotte Hornets,Portland Trail Blazers,203.9566117,-4.006657919,101,105
+Charlotte HornetsSacramento Kings,Charlotte Hornets,Sacramento Kings,206.0253632,-0.18095033,103,103
+Charlotte HornetsToronto Raptors,Charlotte Hornets,Toronto Raptors,199.9113267,-6.098462483,97,104
+Charlotte HornetsUtah Jazz,Charlotte Hornets,Utah Jazz,188.4784642,-5.094618032,92,97
+Charlotte HornetsCleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,200.2861973,-8.62202156,96,105
+Charlotte HornetsDallas Mavericks,Charlotte Hornets,Dallas Mavericks,200.3179686,-3.058823279,99,102
+Charlotte HornetsLos Angeles Clippers,Charlotte Hornets,Los Angeles Clippers,203.0966838,-7.880056142,98,106
+Charlotte HornetsMinnesota Timberwolves,Charlotte Hornets,Minnesota Timberwolves,203.0118937,1.628872028,103,102
+Charlotte HornetsOrlando Magic,Charlotte Hornets,Orlando Magic,198.1228625,1.255903341,100,99
+Charlotte HornetsChicago Bulls,Charlotte Hornets,Chicago Bulls,197.4119442,-3.725524441,98,101
+Charlotte HornetsMilwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,197.1338264,-1.545212412,98,100
+Charlotte HornetsAtlanta Hawks,Charlotte Hornets,Atlanta Hawks,197.8207335,-6.029677344,96,102
+Charlotte HornetsDetroit Pistons,Charlotte Hornets,Detroit Pistons,196.8049488,-2.771790946,97,100
+Charlotte HornetsGolden State Warriors,Charlotte Hornets,Golden State Warriors,210.4278471,-13.35294398,99,113
+Charlotte HornetsHouston Rockets,Charlotte Hornets,Houston Rockets,208.1008304,-5.372782106,102,107
+Charlotte HornetsOklahoma City Thunder,Charlotte Hornets,Oklahoma City Thunder,205.5045032,-6.795208394,100,107
+Charlotte HornetsPhiladelphia 76ers,Charlotte Hornets,Philadelphia 76ers,196.8866658,5.409526382,102,96
+Charlotte HornetsWashington Wizards,Charlotte Hornets,Washington Wizards,200.5306631,-4.097538669,99,103
+Charlotte HornetsBrooklyn Nets,Charlotte Hornets,Brooklyn Nets,201.7331184,2.849911267,103,100
+Denver NuggetsLos Angeles Lakers,Denver Nuggets,Los Angeles Lakers,213.0118522,2.11878532,108,106
+Denver NuggetsNew Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,211.3640419,-3.547887132,104,108
+Denver NuggetsSan Antonio Spurs,Denver Nuggets,San Antonio Spurs,206.0886591,-13.77238623,96,110
+Denver NuggetsBoston Celtics,Denver Nuggets,Boston Celtics,213.2139663,-7.119870006,103,111
+Denver NuggetsCharlotte Hornets,Denver Nuggets,Charlotte Hornets,206.3045174,-5.204429641,101,106
+Denver NuggetsIndiana Pacers,Denver Nuggets,Indiana Pacers,207.549142,-6.109516441,101,108
+Denver NuggetsMemphis Grizzlies,Denver Nuggets,Memphis Grizzlies,203.3419131,-5.810903995,99,105
+Denver NuggetsMiami Heat,Denver Nuggets,Miami Heat,203.139821,-5.191644909,100,105
+Denver NuggetsNew York Knicks,Denver Nuggets,New York Knicks,207.2560501,-0.30322014,104,104
+Denver NuggetsPhoenix Suns,Denver Nuggets,Phoenix Suns,216.3100328,-1.366490775,108,109
+Denver NuggetsPortland Trail Blazers,Denver Nuggets,Portland Trail Blazers,214.4358446,-6.4093039,105,111
+Denver NuggetsSacramento Kings,Denver Nuggets,Sacramento Kings,216.5045961,-2.583596311,107,110
+Denver NuggetsToronto Raptors,Denver Nuggets,Toronto Raptors,210.3905596,-8.501108464,101,110
+Denver NuggetsUtah Jazz,Denver Nuggets,Utah Jazz,198.9576971,-7.497264014,96,104
+Denver NuggetsCleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,210.7654302,-11.02466754,101,112
+Denver NuggetsDallas Mavericks,Denver Nuggets,Dallas Mavericks,210.7972015,-5.46146926,104,109
+Denver NuggetsLos Angeles Clippers,Denver Nuggets,Los Angeles Clippers,213.5759167,-10.28270212,102,112
+Denver NuggetsMinnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,213.4911266,-0.773773953,107,108
+Denver NuggetsOrlando Magic,Denver Nuggets,Orlando Magic,208.6020955,-1.146742641,104,105
+Denver NuggetsChicago Bulls,Denver Nuggets,Chicago Bulls,207.8911772,-6.128170423,101,107
+Denver NuggetsMilwaukee Bucks,Denver Nuggets,Milwaukee Bucks,207.6130593,-3.947858393,102,106
+Denver NuggetsAtlanta Hawks,Denver Nuggets,Atlanta Hawks,208.2999664,-8.432323325,100,109
+Denver NuggetsDetroit Pistons,Denver Nuggets,Detroit Pistons,207.2841817,-5.174436927,102,107
+Denver NuggetsGolden State Warriors,Denver Nuggets,Golden State Warriors,220.90708,-15.75558996,103,119
+Denver NuggetsHouston Rockets,Denver Nuggets,Houston Rockets,218.5800633,-7.775428087,106,114
+Denver NuggetsOklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,215.9837361,-9.197854375,104,114
+Denver NuggetsPhiladelphia 76ers,Denver Nuggets,Philadelphia 76ers,207.3658987,3.0068804,106,103
+Denver NuggetsWashington Wizards,Denver Nuggets,Washington Wizards,211.009896,-6.500184651,103,109
+Denver NuggetsBrooklyn Nets,Denver Nuggets,Brooklyn Nets,212.2123513,0.447265286,107,107
+Indiana PacersLos Angeles Lakers,Indiana Pacers,Los Angeles Lakers,203.7772438,5.426518101,105,100
+Indiana PacersNew Orleans Pelicans,Indiana Pacers,New Orleans Pelicans,202.1294335,-0.24015435,101,102
+Indiana PacersSan Antonio Spurs,Indiana Pacers,San Antonio Spurs,196.8540508,-10.46465345,94,104
+Indiana PacersBoston Celtics,Indiana Pacers,Boston Celtics,203.9793579,-3.812137225,100,104
+Indiana PacersCharlotte Hornets,Indiana Pacers,Charlotte Hornets,197.0699091,-1.896696859,98,100
+Indiana PacersDenver Nuggets,Indiana Pacers,Denver Nuggets,207.549142,0.505949122,105,104
+Indiana PacersMemphis Grizzlies,Indiana Pacers,Memphis Grizzlies,194.1073047,-2.503171214,96,99
+Indiana PacersMiami Heat,Indiana Pacers,Miami Heat,193.9052126,-1.883912128,97,98
+Indiana PacersNew York Knicks,Indiana Pacers,New York Knicks,198.0214417,3.004512642,101,98
+Indiana PacersPhoenix Suns,Indiana Pacers,Phoenix Suns,207.0754244,1.941242006,105,103
+Indiana PacersPortland Trail Blazers,Indiana Pacers,Portland Trail Blazers,205.2012362,-3.101571119,102,105
+Indiana PacersSacramento Kings,Indiana Pacers,Sacramento Kings,207.2699877,0.72413647,104,104
+Indiana PacersToronto Raptors,Indiana Pacers,Toronto Raptors,201.1559513,-5.193375683,98,104
+Indiana PacersUtah Jazz,Indiana Pacers,Utah Jazz,189.7230887,-4.189531232,93,98
+Indiana PacersCleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,201.5308219,-7.71693476,97,105
+Indiana PacersDallas Mavericks,Indiana Pacers,Dallas Mavericks,201.5625931,-2.153736479,100,102
+Indiana PacersLos Angeles Clippers,Indiana Pacers,Los Angeles Clippers,204.3413083,-6.974969342,99,106
+Indiana PacersMinnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,204.2565182,2.533958828,104,101
+Indiana PacersOrlando Magic,Indiana Pacers,Orlando Magic,199.3674871,2.160990141,101,99
+Indiana PacersChicago Bulls,Indiana Pacers,Chicago Bulls,198.6565688,-2.820437641,99,102
+Indiana PacersMilwaukee Bucks,Indiana Pacers,Milwaukee Bucks,198.3784509,-0.640125612,99,100
+Indiana PacersAtlanta Hawks,Indiana Pacers,Atlanta Hawks,199.0653581,-5.124590544,97,102
+Indiana PacersDetroit Pistons,Indiana Pacers,Detroit Pistons,198.0495733,-1.866704146,99,100
+Indiana PacersGolden State Warriors,Indiana Pacers,Golden State Warriors,211.6724716,-12.44785718,100,113
+Indiana PacersHouston Rockets,Indiana Pacers,Houston Rockets,209.3454549,-4.467695306,103,108
+Indiana PacersOklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,206.7491277,-5.890121594,101,107
+Indiana PacersPhiladelphia 76ers,Indiana Pacers,Philadelphia 76ers,198.1312903,6.314613182,103,96
+Indiana PacersWashington Wizards,Indiana Pacers,Washington Wizards,201.7752876,-3.192451869,100,103
+Indiana PacersBrooklyn Nets,Indiana Pacers,Brooklyn Nets,202.9777429,3.754998068,104,100
+Memphis GrizzliesLos Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,199.5700149,5.127905656,103,98
+Memphis GrizzliesNew Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,197.9222046,-0.538766796,100,100
+Memphis GrizzliesSan Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,192.6468219,-10.76326589,91,102
+Memphis GrizzliesBoston Celtics,Memphis Grizzlies,Boston Celtics,199.772129,-4.11074967,98,102
+Memphis GrizzliesCharlotte Hornets,Memphis Grizzlies,Charlotte Hornets,192.8626802,-2.195309305,96,98
+Memphis GrizzliesDenver Nuggets,Memphis Grizzlies,Denver Nuggets,203.3419131,0.207336677,102,102
+Memphis GrizzliesIndiana Pacers,Memphis Grizzlies,Indiana Pacers,194.1073047,-3.100396105,96,99
+Memphis GrizzliesMiami Heat,Memphis Grizzlies,Miami Heat,189.6979837,-2.182524573,94,96
+Memphis GrizzliesNew York Knicks,Memphis Grizzlies,New York Knicks,193.8142128,2.705900196,99,96
+Memphis GrizzliesPhoenix Suns,Memphis Grizzlies,Phoenix Suns,202.8681955,1.642629561,103,101
+Memphis GrizzliesPortland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,200.9940074,-3.400183564,99,102
+Memphis GrizzliesSacramento Kings,Memphis Grizzlies,Sacramento Kings,203.0627588,0.425524025,102,102
+Memphis GrizzliesToronto Raptors,Memphis Grizzlies,Toronto Raptors,196.9487224,-5.491988128,96,102
+Memphis GrizzliesUtah Jazz,Memphis Grizzlies,Utah Jazz,185.5158598,-4.488143678,91,96
+Memphis GrizzliesCleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,197.323593,-8.015547206,95,103
+Memphis GrizzliesDallas Mavericks,Memphis Grizzlies,Dallas Mavericks,197.3553642,-2.452348924,98,101
+Memphis GrizzliesLos Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,200.1340794,-7.273581788,97,104
+Memphis GrizzliesMinnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,200.0492893,2.235346383,102,100
+Memphis GrizzliesOrlando Magic,Memphis Grizzlies,Orlando Magic,195.1602582,1.862377695,99,97
+Memphis GrizzliesChicago Bulls,Memphis Grizzlies,Chicago Bulls,194.4493399,-3.119050087,96,99
+Memphis GrizzliesMilwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,194.171222,-0.938738057,97,98
+Memphis GrizzliesAtlanta Hawks,Memphis Grizzlies,Atlanta Hawks,194.8581292,-5.423202989,96,101
+Memphis GrizzliesDetroit Pistons,Memphis Grizzlies,Detroit Pistons,193.8423444,-2.165316592,97,99
+Memphis GrizzliesGolden State Warriors,Memphis Grizzlies,Golden State Warriors,207.4652427,-12.74646962,98,111
+Memphis GrizzliesHouston Rockets,Memphis Grizzlies,Houston Rockets,205.138226,-4.766307751,101,105
+Memphis GrizzliesOklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,202.5418988,-6.18873404,98,105
+Memphis GrizzliesPhiladelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,193.9240614,6.016000736,101,95
+Memphis GrizzliesWashington Wizards,Memphis Grizzlies,Washington Wizards,197.5680587,-3.491064315,97,101
+Memphis GrizzliesBrooklyn Nets,Memphis Grizzlies,Brooklyn Nets,198.770514,3.456385622,102,98
+Miami HeatLos Angeles Lakers,Miami Heat,Los Angeles Lakers,199.3679228,4.508646569,102,98
+Miami HeatNew Orleans Pelicans,Miami Heat,New Orleans Pelicans,197.7201125,-1.158025882,98,99
+Miami HeatSan Antonio Spurs,Miami Heat,San Antonio Spurs,192.4447298,-11.38252498,91,103
+Miami HeatBoston Celtics,Miami Heat,Boston Celtics,199.5700369,-4.730008756,98,102
+Miami HeatCharlotte Hornets,Miami Heat,Charlotte Hornets,192.6605881,-2.814568391,95,98
+Miami HeatDenver Nuggets,Miami Heat,Denver Nuggets,203.139821,-0.41192241,102,102
+Miami HeatIndiana Pacers,Miami Heat,Indiana Pacers,193.9052126,-3.719655191,96,99
+Miami HeatMemphis Grizzlies,Miami Heat,Memphis Grizzlies,189.6979837,-3.421042746,94,97
+Miami HeatNew York Knicks,Miami Heat,New York Knicks,193.6121207,2.08664111,98,96
+Miami HeatPhoenix Suns,Miami Heat,Phoenix Suns,202.6661034,1.023370474,103,102
+Miami HeatPortland Trail Blazers,Miami Heat,Portland Trail Blazers,200.7919153,-4.01944265,99,103
+Miami HeatSacramento Kings,Miami Heat,Sacramento Kings,202.8606668,-0.193735061,102,102
+Miami HeatToronto Raptors,Miami Heat,Toronto Raptors,196.7466303,-6.111247214,96,102
+Miami HeatUtah Jazz,Miami Heat,Utah Jazz,185.3137678,-5.107402764,91,96
+Miami HeatCleveland Cavaliers,Miami Heat,Cleveland Cavaliers,197.1215009,-8.634806292,94,103
+Miami HeatDallas Mavericks,Miami Heat,Dallas Mavericks,197.1532721,-3.071608011,98,101
+Miami HeatLos Angeles Clippers,Miami Heat,Los Angeles Clippers,199.9319873,-7.892840874,96,104
+Miami HeatMinnesota Timberwolves,Miami Heat,Minnesota Timberwolves,199.8471973,1.616087297,101,100
+Miami HeatOrlando Magic,Miami Heat,Orlando Magic,194.9581661,1.243118609,99,97
+Miami HeatChicago Bulls,Miami Heat,Chicago Bulls,194.2472478,-3.738309173,96,99
+Miami HeatMilwaukee Bucks,Miami Heat,Milwaukee Bucks,193.96913,-1.557997143,96,98
+Miami HeatAtlanta Hawks,Miami Heat,Atlanta Hawks,194.6560371,-6.042462076,95,101
+Miami HeatDetroit Pistons,Miami Heat,Detroit Pistons,193.6402524,-2.784575678,96,99
+Miami HeatGolden State Warriors,Miami Heat,Golden State Warriors,207.2631506,-13.36572871,97,111
+Miami HeatHouston Rockets,Miami Heat,Houston Rockets,204.936134,-5.385566837,100,106
+Miami HeatOklahoma City Thunder,Miami Heat,Oklahoma City Thunder,202.3398067,-6.807993126,99,106
+Miami HeatPhiladelphia 76ers,Miami Heat,Philadelphia 76ers,193.7219693,5.39674165,100,94
+Miami HeatWashington Wizards,Miami Heat,Washington Wizards,197.3659667,-4.110323401,97,101
+Miami HeatBrooklyn Nets,Miami Heat,Brooklyn Nets,198.5684219,2.837126536,102,99
+New York KnicksLos Angeles Lakers,New York Knicks,Los Angeles Lakers,203.4841519,-0.3797782,102,103
+New York KnicksNew Orleans Pelicans,New York Knicks,New Orleans Pelicans,201.8363416,-6.046450651,99,105
+New York KnicksSan Antonio Spurs,New York Knicks,San Antonio Spurs,196.5609588,-16.27094975,91,107
+New York KnicksBoston Celtics,New York Knicks,Boston Celtics,203.686266,-9.618433526,97,107
+New York KnicksCharlotte Hornets,New York Knicks,Charlotte Hornets,196.7768172,-7.70299316,95,102
+New York KnicksDenver Nuggets,New York Knicks,Denver Nuggets,207.2560501,-5.300347179,102,107
+New York KnicksIndiana Pacers,New York Knicks,Indiana Pacers,198.0214417,-8.60807996,95,103
+New York KnicksMemphis Grizzlies,New York Knicks,Memphis Grizzlies,193.8142128,-8.309467515,93,101
+New York KnicksMiami Heat,New York Knicks,Miami Heat,193.6121207,-7.690208429,93,101
+New York KnicksPhoenix Suns,New York Knicks,Phoenix Suns,206.7823325,-3.865054295,102,106
+New York KnicksPortland Trail Blazers,New York Knicks,Portland Trail Blazers,204.9081443,-8.90786742,98,107
+New York KnicksSacramento Kings,New York Knicks,Sacramento Kings,206.9768958,-5.082159831,101,106
+New York KnicksToronto Raptors,New York Knicks,Toronto Raptors,200.8628594,-10.99967198,95,107
+New York KnicksUtah Jazz,New York Knicks,Utah Jazz,189.4299968,-9.995827533,90,100
+New York KnicksCleveland Cavaliers,New York Knicks,Cleveland Cavaliers,201.2377299,-13.52323106,95,108
+New York KnicksDallas Mavericks,New York Knicks,Dallas Mavericks,201.2695012,-7.96003278,97,105
+New York KnicksLos Angeles Clippers,New York Knicks,Los Angeles Clippers,204.0482164,-12.78126564,96,109
+New York KnicksMinnesota Timberwolves,New York Knicks,Minnesota Timberwolves,203.9634263,-3.272337473,101,105
+New York KnicksOrlando Magic,New York Knicks,Orlando Magic,199.0743952,-3.64530616,98,102
+New York KnicksChicago Bulls,New York Knicks,Chicago Bulls,198.3634769,-8.626733942,96,104
+New York KnicksMilwaukee Bucks,New York Knicks,Milwaukee Bucks,198.085359,-6.446421913,96,103
+New York KnicksAtlanta Hawks,New York Knicks,Atlanta Hawks,198.7722662,-10.93088684,95,106
+New York KnicksDetroit Pistons,New York Knicks,Detroit Pistons,197.7564814,-7.673000447,96,103
+New York KnicksGolden State Warriors,New York Knicks,Golden State Warriors,211.3793797,-18.25415348,97,115
+New York KnicksHouston Rockets,New York Knicks,Houston Rockets,209.052363,-10.27399161,100,110
+New York KnicksOklahoma City Thunder,New York Knicks,Oklahoma City Thunder,206.4560358,-11.6964179,98,110
+New York KnicksPhiladelphia 76ers,New York Knicks,Philadelphia 76ers,197.8381984,0.508316881,100,99
+New York KnicksWashington Wizards,New York Knicks,Washington Wizards,201.4821957,-8.99874817,97,106
+New York KnicksBrooklyn Nets,New York Knicks,Brooklyn Nets,202.684651,-2.051298233,101,103
+Phoenix SunsLos Angeles Lakers,Phoenix Suns,Los Angeles Lakers,212.5381346,0.683492436,107,106
+Phoenix SunsNew Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,210.8903243,-4.983180016,104,109
+Phoenix SunsSan Antonio Spurs,Phoenix Suns,San Antonio Spurs,205.6149415,-15.20767911,96,111
+Phoenix SunsBoston Celtics,Phoenix Suns,Boston Celtics,212.7402487,-8.55516289,103,111
+Phoenix SunsCharlotte Hornets,Phoenix Suns,Charlotte Hornets,205.8307998,-6.639722525,100,107
+Phoenix SunsDenver Nuggets,Phoenix Suns,Denver Nuggets,216.3100328,-4.237076544,107,111
+Phoenix SunsIndiana Pacers,Phoenix Suns,Indiana Pacers,207.0754244,-7.544809325,100,108
+Phoenix SunsMemphis Grizzlies,Phoenix Suns,Memphis Grizzlies,202.8681955,-7.246196879,98,106
+Phoenix SunsMiami Heat,Phoenix Suns,Miami Heat,202.6661034,-6.626937793,99,105
+Phoenix SunsNew York Knicks,Phoenix Suns,New York Knicks,206.7823325,-1.738513024,103,105
+Phoenix SunsPortland Trail Blazers,Phoenix Suns,Portland Trail Blazers,213.962127,-7.844596784,104,112
+Phoenix SunsSacramento Kings,Phoenix Suns,Sacramento Kings,216.0308785,-4.018889195,107,111
+Phoenix SunsToronto Raptors,Phoenix Suns,Toronto Raptors,209.9168421,-9.936401348,100,110
+Phoenix SunsUtah Jazz,Phoenix Suns,Utah Jazz,198.4839795,-8.932556898,95,104
+Phoenix SunsCleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,210.2917126,-12.45996043,99,112
+Phoenix SunsDallas Mavericks,Phoenix Suns,Dallas Mavericks,210.3234839,-6.896762145,102,109
+Phoenix SunsLos Angeles Clippers,Phoenix Suns,Los Angeles Clippers,213.1021991,-11.71799501,101,113
+Phoenix SunsMinnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,213.017409,-2.209066837,106,108
+Phoenix SunsOrlando Magic,Phoenix Suns,Orlando Magic,208.1283779,-2.582035525,103,106
+Phoenix SunsChicago Bulls,Phoenix Suns,Chicago Bulls,207.4174596,-7.563463307,100,108
+Phoenix SunsMilwaukee Bucks,Phoenix Suns,Milwaukee Bucks,207.1393417,-5.383151277,101,106
+Phoenix SunsAtlanta Hawks,Phoenix Suns,Atlanta Hawks,207.8262489,-9.86761621,99,109
+Phoenix SunsDetroit Pistons,Phoenix Suns,Detroit Pistons,206.8104641,-6.609729812,101,107
+Phoenix SunsGolden State Warriors,Phoenix Suns,Golden State Warriors,220.4333624,-17.19088284,102,119
+Phoenix SunsHouston Rockets,Phoenix Suns,Houston Rockets,218.1063457,-9.210720971,105,114
+Phoenix SunsOklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,215.5100185,-10.63314726,103,114
+Phoenix SunsPhiladelphia 76ers,Phoenix Suns,Philadelphia 76ers,206.8921811,1.571587516,105,103
+Phoenix SunsWashington Wizards,Phoenix Suns,Washington Wizards,210.5361784,-7.935477535,102,110
+Phoenix SunsBrooklyn Nets,Phoenix Suns,Brooklyn Nets,211.7386337,-0.988027598,106,107
+Portland Trail BlazersLos Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,210.6639465,5.726305561,109,103
+Portland Trail BlazersNew Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,209.0161361,0.059633109,105,105
+Portland Trail BlazersSan Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,203.7407534,-10.16486599,97,107
+Portland Trail BlazersBoston Celtics,Portland Trail Blazers,Boston Celtics,210.8660606,-3.512349765,104,107
+Portland Trail BlazersCharlotte Hornets,Portland Trail Blazers,Charlotte Hornets,203.9566117,-1.5969094,102,103
+Portland Trail BlazersDenver Nuggets,Portland Trail Blazers,Denver Nuggets,214.4358446,0.805736581,108,107
+Portland Trail BlazersIndiana Pacers,Portland Trail Blazers,Indiana Pacers,205.2012362,-2.5019962,102,104
+Portland Trail BlazersMemphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,200.9940074,-2.203383755,100,102
+Portland Trail BlazersMiami Heat,Portland Trail Blazers,Miami Heat,200.7919153,-1.584124668,100,101
+Portland Trail BlazersNew York Knicks,Portland Trail Blazers,New York Knicks,204.9081443,3.304300101,105,102
+Portland Trail BlazersPhoenix Suns,Portland Trail Blazers,Phoenix Suns,213.962127,2.241029466,109,107
+Portland Trail BlazersSacramento Kings,Portland Trail Blazers,Sacramento Kings,214.1566904,1.02392393,108,107
+Portland Trail BlazersToronto Raptors,Portland Trail Blazers,Toronto Raptors,208.0426539,-4.893588223,103,108
+Portland Trail BlazersUtah Jazz,Portland Trail Blazers,Utah Jazz,196.6097914,-3.889743773,97,101
+Portland Trail BlazersCleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,208.4175245,-7.417147301,101,109
+Portland Trail BlazersDallas Mavericks,Portland Trail Blazers,Dallas Mavericks,208.4492958,-1.85394902,104,106
+Portland Trail BlazersLos Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,211.228011,-6.675181883,103,110
+Portland Trail BlazersMinnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,211.1432209,2.833746288,108,105
+Portland Trail BlazersOrlando Magic,Portland Trail Blazers,Orlando Magic,206.2541897,2.4607776,105,102
+Portland Trail BlazersChicago Bulls,Portland Trail Blazers,Chicago Bulls,205.5432714,-2.520650182,102,104
+Portland Trail BlazersMilwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,205.2651536,-0.340338152,103,103
+Portland Trail BlazersAtlanta Hawks,Portland Trail Blazers,Atlanta Hawks,205.9520607,-4.824803085,101,106
+Portland Trail BlazersDetroit Pistons,Portland Trail Blazers,Detroit Pistons,204.936276,-1.566916687,102,104
+Portland Trail BlazersGolden State Warriors,Portland Trail Blazers,Golden State Warriors,218.5591743,-12.14806972,104,116
+Portland Trail BlazersHouston Rockets,Portland Trail Blazers,Houston Rockets,216.2321576,-4.167907846,107,111
+Portland Trail BlazersOklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,213.6358304,-5.590334135,105,110
+Portland Trail BlazersPhiladelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,205.017993,6.614400641,107,100
+Portland Trail BlazersWashington Wizards,Portland Trail Blazers,Washington Wizards,208.6619903,-2.89266441,103,106
+Portland Trail BlazersBrooklyn Nets,Portland Trail Blazers,Brooklyn Nets,209.8644456,4.054785527,108,104
+Sacramento KingsLos Angeles Lakers,Sacramento Kings,Los Angeles Lakers,212.7326979,1.900597971,108,106
+Sacramento KingsNew Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,211.0848876,-3.76607448,104,108
+Sacramento KingsSan Antonio Spurs,Sacramento Kings,San Antonio Spurs,205.8095049,-13.99057358,96,110
+Sacramento KingsBoston Celtics,Sacramento Kings,Boston Celtics,212.934812,-7.338057354,103,111
+Sacramento KingsCharlotte Hornets,Sacramento Kings,Charlotte Hornets,206.0253632,-5.422616989,101,106
+Sacramento KingsDenver Nuggets,Sacramento Kings,Denver Nuggets,216.5045961,-3.019971008,107,110
+Sacramento KingsIndiana Pacers,Sacramento Kings,Indiana Pacers,207.2699877,-6.327703789,101,108
+Sacramento KingsMemphis Grizzlies,Sacramento Kings,Memphis Grizzlies,203.0627588,-6.029091344,99,105
+Sacramento KingsMiami Heat,Sacramento Kings,Miami Heat,202.8606668,-5.409832257,99,105
+Sacramento KingsNew York Knicks,Sacramento Kings,New York Knicks,206.9768958,-0.521407488,104,104
+Sacramento KingsPhoenix Suns,Sacramento Kings,Phoenix Suns,216.0308785,-1.584678123,107,109
+Sacramento KingsPortland Trail Blazers,Sacramento Kings,Portland Trail Blazers,214.1566904,-6.627491248,104,111
+Sacramento KingsToronto Raptors,Sacramento Kings,Toronto Raptors,210.1114054,-8.719295812,101,110
+Sacramento KingsUtah Jazz,Sacramento Kings,Utah Jazz,198.6785429,-7.715451362,96,104
+Sacramento KingsCleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,210.486276,-11.24285489,100,112
+Sacramento KingsDallas Mavericks,Sacramento Kings,Dallas Mavericks,210.5180472,-5.679656609,103,108
+Sacramento KingsLos Angeles Clippers,Sacramento Kings,Los Angeles Clippers,213.2967624,-10.50088947,102,112
+Sacramento KingsMinnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,213.2119724,-0.991961301,106,107
+Sacramento KingsOrlando Magic,Sacramento Kings,Orlando Magic,208.3229412,-1.364929989,104,105
+Sacramento KingsChicago Bulls,Sacramento Kings,Chicago Bulls,207.6120229,-6.346357771,101,108
+Sacramento KingsMilwaukee Bucks,Sacramento Kings,Milwaukee Bucks,207.3339051,-4.166045741,102,106
+Sacramento KingsAtlanta Hawks,Sacramento Kings,Atlanta Hawks,208.0208122,-8.650510674,100,109
+Sacramento KingsDetroit Pistons,Sacramento Kings,Detroit Pistons,207.0050275,-5.392624276,101,107
+Sacramento KingsGolden State Warriors,Sacramento Kings,Golden State Warriors,220.6279257,-15.97377731,103,119
+Sacramento KingsHouston Rockets,Sacramento Kings,Houston Rockets,218.3009091,-7.993615435,105,113
+Sacramento KingsOklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,215.7045818,-9.416041724,104,113
+Sacramento KingsPhiladelphia 76ers,Sacramento Kings,Philadelphia 76ers,207.0867444,2.788693052,106,103
+Sacramento KingsWashington Wizards,Sacramento Kings,Washington Wizards,210.7307418,-6.718371999,102,109
+Sacramento KingsBrooklyn Nets,Sacramento Kings,Brooklyn Nets,211.933197,0.229077938,107,106
+Toronto RaptorsLos Angeles Lakers,Toronto Raptors,Los Angeles Lakers,206.6186615,7.818110124,107,100
+Toronto RaptorsNew Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,204.9708512,2.151437673,104,102
+Toronto RaptorsSan Antonio Spurs,Toronto Raptors,San Antonio Spurs,199.6954684,-8.073061423,97,105
+Toronto RaptorsBoston Celtics,Toronto Raptors,Boston Celtics,206.8207756,-1.420545201,103,104
+Toronto RaptorsCharlotte Hornets,Toronto Raptors,Charlotte Hornets,199.9113267,0.494895164,101,100
+Toronto RaptorsDenver Nuggets,Toronto Raptors,Denver Nuggets,210.3905596,2.897541145,107,104
+Toronto RaptorsIndiana Pacers,Toronto Raptors,Indiana Pacers,201.1559513,-0.410191636,101,101
+Toronto RaptorsMemphis Grizzlies,Toronto Raptors,Memphis Grizzlies,196.9487224,-0.111579191,99,99
+Toronto RaptorsMiami Heat,Toronto Raptors,Miami Heat,196.7466303,0.507679896,99,98
+Toronto RaptorsNew York Knicks,Toronto Raptors,New York Knicks,200.8628594,5.396104665,104,98
+Toronto RaptorsPhoenix Suns,Toronto Raptors,Phoenix Suns,209.9168421,4.33283403,108,103
+Toronto RaptorsPortland Trail Blazers,Toronto Raptors,Portland Trail Blazers,208.0426539,-0.709979095,104,104
+Toronto RaptorsSacramento Kings,Toronto Raptors,Sacramento Kings,210.1114054,3.115728494,107,104
+Toronto RaptorsUtah Jazz,Toronto Raptors,Utah Jazz,192.5645064,-1.797939209,96,98
+Toronto RaptorsCleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,204.3722395,-5.325342737,100,105
+Toronto RaptorsDallas Mavericks,Toronto Raptors,Dallas Mavericks,204.4040108,0.237855544,103,102
+Toronto RaptorsLos Angeles Clippers,Toronto Raptors,Los Angeles Clippers,207.182726,-4.583377319,101,106
+Toronto RaptorsMinnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,207.0979359,4.925550852,107,102
+Toronto RaptorsOrlando Magic,Toronto Raptors,Orlando Magic,202.2089048,4.552582164,104,99
+Toronto RaptorsChicago Bulls,Toronto Raptors,Chicago Bulls,201.4979864,-0.428845618,101,101
+Toronto RaptorsMilwaukee Bucks,Toronto Raptors,Milwaukee Bucks,201.2198686,1.751466412,102,100
+Toronto RaptorsAtlanta Hawks,Toronto Raptors,Atlanta Hawks,201.9067757,-2.732998521,100,103
+Toronto RaptorsDetroit Pistons,Toronto Raptors,Detroit Pistons,200.890991,0.524887877,101,101
+Toronto RaptorsGolden State Warriors,Toronto Raptors,Golden State Warriors,214.5138893,-10.05626515,103,113
+Toronto RaptorsHouston Rockets,Toronto Raptors,Houston Rockets,212.1868726,-2.076103282,105,107
+Toronto RaptorsOklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,209.5905454,-3.498529571,104,107
+Toronto RaptorsPhiladelphia 76ers,Toronto Raptors,Philadelphia 76ers,200.972708,8.706205205,105,97
+Toronto RaptorsWashington Wizards,Toronto Raptors,Washington Wizards,204.6167053,-0.800859846,103,104
+Toronto RaptorsBrooklyn Nets,Toronto Raptors,Brooklyn Nets,205.8191606,6.146590091,106,100
+Utah JazzLos Angeles Lakers,Utah Jazz,Los Angeles Lakers,195.1857989,6.814265674,102,95
+Utah JazzNew Orleans Pelicans,Utah Jazz,New Orleans Pelicans,193.5379886,1.147593223,98,97
+Utah JazzSan Antonio Spurs,Utah Jazz,San Antonio Spurs,188.2626059,-9.076905874,90,99
+Utah JazzBoston Celtics,Utah Jazz,Boston Celtics,195.387913,-2.424389652,97,100
+Utah JazzCharlotte Hornets,Utah Jazz,Charlotte Hornets,188.4784642,-0.508949286,94,95
+Utah JazzDenver Nuggets,Utah Jazz,Denver Nuggets,198.9576971,1.893696695,101,99
+Utah JazzIndiana Pacers,Utah Jazz,Indiana Pacers,189.7230887,-1.414036087,95,96
+Utah JazzMemphis Grizzlies,Utah Jazz,Memphis Grizzlies,185.5158598,-1.115423641,92,93
+Utah JazzMiami Heat,Utah Jazz,Miami Heat,185.3137678,-0.496164555,93,93
+Utah JazzNew York Knicks,Utah Jazz,New York Knicks,189.4299968,4.392260214,97,93
+Utah JazzPhoenix Suns,Utah Jazz,Phoenix Suns,198.4839795,3.328989579,102,98
+Utah JazzPortland Trail Blazers,Utah Jazz,Portland Trail Blazers,196.6097914,-1.713823546,98,99
+Utah JazzSacramento Kings,Utah Jazz,Sacramento Kings,198.6785429,2.111884043,101,99
+Utah JazzToronto Raptors,Utah Jazz,Toronto Raptors,192.5645064,-3.80562811,95,99
+Utah JazzCleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,192.939377,-6.329187187,94,100
+Utah JazzDallas Mavericks,Utah Jazz,Dallas Mavericks,192.9711482,-0.765988906,97,98
+Utah JazzLos Angeles Clippers,Utah Jazz,Los Angeles Clippers,195.7498634,-5.587221769,96,101
+Utah JazzMinnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,195.6650734,3.921706401,100,96
+Utah JazzOrlando Magic,Utah Jazz,Orlando Magic,190.7760422,3.548737714,98,94
+Utah JazzChicago Bulls,Utah Jazz,Chicago Bulls,190.0651239,-1.432690068,94,96
+Utah JazzMilwaukee Bucks,Utah Jazz,Milwaukee Bucks,189.7870061,0.747621961,96,95
+Utah JazzAtlanta Hawks,Utah Jazz,Atlanta Hawks,190.4739132,-3.736842971,94,98
+Utah JazzDetroit Pistons,Utah Jazz,Detroit Pistons,189.4581285,-0.478956573,95,95
+Utah JazzGolden State Warriors,Utah Jazz,Golden State Warriors,203.0810267,-11.0601096,96,108
+Utah JazzHouston Rockets,Utah Jazz,Houston Rockets,200.7540101,-3.079947733,99,103
+Utah JazzOklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,198.1576828,-4.502374021,97,102
+Utah JazzPhiladelphia 76ers,Utah Jazz,Philadelphia 76ers,189.5398454,7.702360755,99,92
+Utah JazzWashington Wizards,Utah Jazz,Washington Wizards,193.1838428,-1.804704296,96,98
+Utah JazzBrooklyn Nets,Utah Jazz,Brooklyn Nets,194.386298,5.14274564,100,95
+Cleveland CavaliersLos Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,206.9935321,10.3416692,109,99
+Cleveland CavaliersNew Orleans Pelicans,Cleveland Cavaliers,New Orleans Pelicans,205.3457218,4.674996751,106,101
+Cleveland CavaliersSan Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,200.070339,-5.549502346,98,104
+Cleveland CavaliersBoston Celtics,Cleveland Cavaliers,Boston Celtics,207.1956462,1.103013876,105,104
+Cleveland CavaliersCharlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,200.2861973,3.018454242,102,99
+Cleveland CavaliersDenver Nuggets,Cleveland Cavaliers,Denver Nuggets,210.7654302,5.421100223,109,103
+Cleveland CavaliersIndiana Pacers,Cleveland Cavaliers,Indiana Pacers,201.5308219,2.113367441,103,101
+Cleveland CavaliersMemphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,197.323593,2.411979887,100,98
+Cleveland CavaliersMiami Heat,Cleveland Cavaliers,Miami Heat,197.1215009,3.031238973,101,98
+Cleveland CavaliersNew York Knicks,Cleveland Cavaliers,New York Knicks,201.2377299,7.919663742,105,97
+Cleveland CavaliersPhoenix Suns,Cleveland Cavaliers,Phoenix Suns,210.2917126,6.856393107,109,102
+Cleveland CavaliersPortland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,208.4175245,1.813579982,105,104
+Cleveland CavaliersSacramento Kings,Cleveland Cavaliers,Sacramento Kings,210.486276,5.639287571,109,103
+Cleveland CavaliersToronto Raptors,Cleveland Cavaliers,Toronto Raptors,204.3722395,-0.278224582,102,102
+Cleveland CavaliersUtah Jazz,Cleveland Cavaliers,Utah Jazz,192.939377,0.725619869,97,97
+Cleveland CavaliersDallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,204.7788814,2.761414622,105,102
+Cleveland CavaliersLos Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,207.5575966,-2.059818241,103,105
+Cleveland CavaliersMinnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,207.4728065,7.449109929,108,100
+Cleveland CavaliersOrlando Magic,Cleveland Cavaliers,Orlando Magic,202.5837753,7.076141242,105,98
+Cleveland CavaliersChicago Bulls,Cleveland Cavaliers,Chicago Bulls,201.872857,2.09471346,103,101
+Cleveland CavaliersMilwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,201.5947392,4.275025489,103,99
+Cleveland CavaliersAtlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,202.2816463,-0.209439443,102,102
+Cleveland CavaliersDetroit Pistons,Cleveland Cavaliers,Detroit Pistons,201.2658616,3.048446955,103,100
+Cleveland CavaliersGolden State Warriors,Cleveland Cavaliers,Golden State Warriors,214.8887599,-7.532706076,104,112
+Cleveland CavaliersHouston Rockets,Cleveland Cavaliers,Houston Rockets,212.5617432,0.447455795,107,106
+Cleveland CavaliersOklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,209.965416,-0.974970493,105,106
+Cleveland CavaliersPhiladelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,201.3475786,11.22976428,107,95
+Cleveland CavaliersWashington Wizards,Cleveland Cavaliers,Washington Wizards,204.9915759,1.722699232,104,102
+Cleveland CavaliersBrooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,206.1940312,8.670149168,108,99
+Dallas MavericksLos Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,207.0253033,4.778470921,106,102
+Dallas MavericksNew Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,205.377493,-0.888201531,103,104
+Dallas MavericksSan Antonio Spurs,Dallas Mavericks,San Antonio Spurs,200.1021103,-11.11270063,95,106
+Dallas MavericksBoston Celtics,Dallas Mavericks,Boston Celtics,207.2274174,-4.460184405,102,106
+Dallas MavericksCharlotte Hornets,Dallas Mavericks,Charlotte Hornets,200.3179686,-2.54474404,100,102
+Dallas MavericksDenver Nuggets,Dallas Mavericks,Denver Nuggets,210.7972015,-0.142098058,106,106
+Dallas MavericksIndiana Pacers,Dallas Mavericks,Indiana Pacers,201.5625931,-3.44983084,99,103
+Dallas MavericksMemphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,197.3553642,-3.151218394,97,101
+Dallas MavericksMiami Heat,Dallas Mavericks,Miami Heat,197.1532721,-2.531959308,98,100
+Dallas MavericksNew York Knicks,Dallas Mavericks,New York Knicks,201.2695012,2.356465461,102,100
+Dallas MavericksPhoenix Suns,Dallas Mavericks,Phoenix Suns,210.3234839,1.293194826,106,105
+Dallas MavericksPortland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,208.4492958,-3.749618299,103,107
+Dallas MavericksSacramento Kings,Dallas Mavericks,Sacramento Kings,210.5180472,0.07608929,106,106
+Dallas MavericksToronto Raptors,Dallas Mavericks,Toronto Raptors,204.4040108,-5.841422863,100,105
+Dallas MavericksUtah Jazz,Dallas Mavericks,Utah Jazz,192.9711482,-4.837578413,95,100
+Dallas MavericksCleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,204.7788814,-8.364981941,99,107
+Dallas MavericksLos Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,207.5893678,-7.623016523,100,108
+Dallas MavericksMinnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,207.5045777,1.885911648,105,103
+Dallas MavericksOrlando Magic,Dallas Mavericks,Orlando Magic,202.6155466,1.51294296,103,101
+Dallas MavericksChicago Bulls,Dallas Mavericks,Chicago Bulls,201.9046283,-3.468484822,100,103
+Dallas MavericksMilwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,201.6265104,-1.288172792,101,102
+Dallas MavericksAtlanta Hawks,Dallas Mavericks,Atlanta Hawks,202.3134176,-5.772637724,98,104
+Dallas MavericksDetroit Pistons,Dallas Mavericks,Detroit Pistons,201.2976328,-2.514751326,100,102
+Dallas MavericksGolden State Warriors,Dallas Mavericks,Golden State Warriors,214.9205311,-13.09590436,101,115
+Dallas MavericksHouston Rockets,Dallas Mavericks,Houston Rockets,212.5935144,-5.115742486,104,109
+Dallas MavericksOklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,209.9971872,-6.538168774,102,109
+Dallas MavericksPhiladelphia 76ers,Dallas Mavericks,Philadelphia 76ers,201.3793498,5.666566001,104,98
+Dallas MavericksWashington Wizards,Dallas Mavericks,Washington Wizards,205.0233471,-3.84049905,101,105
+Dallas MavericksBrooklyn Nets,Dallas Mavericks,Brooklyn Nets,206.2258024,3.106950887,105,102
+Los Angeles ClippersLos Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,209.8040185,9.599703784,110,101
+Los Angeles ClippersNew Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,208.1562082,3.933031333,107,103
+Los Angeles ClippersSan Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,202.8808255,-6.291467764,98,105
+Los Angeles ClippersBoston Celtics,Los Angeles Clippers,Boston Celtics,210.0061326,0.361048458,106,105
+Los Angeles ClippersCharlotte Hornets,Los Angeles Clippers,Charlotte Hornets,203.0966838,2.276488824,103,101
+Los Angeles ClippersDenver Nuggets,Los Angeles Clippers,Denver Nuggets,213.5759167,4.679134805,110,105
+Los Angeles ClippersIndiana Pacers,Los Angeles Clippers,Indiana Pacers,204.3413083,1.371402023,103,102
+Los Angeles ClippersMemphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,200.1340794,1.670014469,101,99
+Los Angeles ClippersMiami Heat,Los Angeles Clippers,Miami Heat,199.9319873,2.289273555,102,99
+Los Angeles ClippersNew York Knicks,Los Angeles Clippers,New York Knicks,204.0482164,7.177698324,106,99
+Los Angeles ClippersPhoenix Suns,Los Angeles Clippers,Phoenix Suns,213.1021991,6.114427689,110,104
+Los Angeles ClippersPortland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,211.228011,1.071614564,107,105
+Los Angeles ClippersSacramento Kings,Los Angeles Clippers,Sacramento Kings,213.2967624,4.897322153,110,105
+Los Angeles ClippersToronto Raptors,Los Angeles Clippers,Toronto Raptors,207.182726,-1.02019,104,105
+Los Angeles ClippersUtah Jazz,Los Angeles Clippers,Utah Jazz,195.7498634,-0.016345549,98,98
+Los Angeles ClippersCleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,207.5575966,-3.543749077,103,106
+Los Angeles ClippersDallas Mavericks,Los Angeles Clippers,Dallas Mavericks,207.5893678,2.019449204,105,103
+Los Angeles ClippersMinnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,210.2832929,6.707144511,109,102
+Los Angeles ClippersOrlando Magic,Los Angeles Clippers,Orlando Magic,205.3942618,6.334175824,107,100
+Los Angeles ClippersChicago Bulls,Los Angeles Clippers,Chicago Bulls,204.6833435,1.352748042,104,102
+Los Angeles ClippersMilwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,204.4052256,3.533060071,105,101
+Los Angeles ClippersAtlanta Hawks,Los Angeles Clippers,Atlanta Hawks,205.0921328,-0.951404861,103,104
+Los Angeles ClippersDetroit Pistons,Los Angeles Clippers,Detroit Pistons,204.076348,2.306481537,104,102
+Los Angeles ClippersGolden State Warriors,Los Angeles Clippers,Golden State Warriors,217.6992463,-8.274671494,105,114
+Los Angeles ClippersHouston Rockets,Los Angeles Clippers,Houston Rockets,215.3722296,-0.294509623,108,108
+Los Angeles ClippersOklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,212.7759024,-1.716935911,106,108
+Los Angeles ClippersPhiladelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,204.158065,10.48779886,108,97
+Los Angeles ClippersWashington Wizards,Los Angeles Clippers,Washington Wizards,207.8020623,0.980733814,105,104
+Los Angeles ClippersBrooklyn Nets,Los Angeles Clippers,Brooklyn Nets,209.0045176,7.92818375,109,101
+Minnesota TimberwolvesLos Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,209.7192284,0.090775613,105,105
+Minnesota TimberwolvesNew Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,208.0714181,-5.575896838,102,107
+Minnesota TimberwolvesSan Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,202.7960354,-15.80039593,94,110
+Minnesota TimberwolvesBoston Celtics,Minnesota Timberwolves,Boston Celtics,209.9213425,-9.147879712,100,110
+Minnesota TimberwolvesCharlotte Hornets,Minnesota Timberwolves,Charlotte Hornets,203.0118937,-7.232439347,98,106
+Minnesota TimberwolvesDenver Nuggets,Minnesota Timberwolves,Denver Nuggets,213.4911266,-4.829793366,105,110
+Minnesota TimberwolvesIndiana Pacers,Minnesota Timberwolves,Indiana Pacers,204.2565182,-8.137526147,98,107
+Minnesota TimberwolvesMemphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,200.0492893,-7.838913702,97,104
+Minnesota TimberwolvesMiami Heat,Minnesota Timberwolves,Miami Heat,199.8471973,-7.219654616,97,104
+Minnesota TimberwolvesNew York Knicks,Minnesota Timberwolves,New York Knicks,203.9634263,-2.331229846,101,104
+Minnesota TimberwolvesPhoenix Suns,Minnesota Timberwolves,Phoenix Suns,213.017409,-3.394500482,105,109
+Minnesota TimberwolvesPortland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,211.1432209,-8.437313607,102,110
+Minnesota TimberwolvesSacramento Kings,Minnesota Timberwolves,Sacramento Kings,213.2119724,-4.611606018,105,110
+Minnesota TimberwolvesToronto Raptors,Minnesota Timberwolves,Toronto Raptors,207.0979359,-10.52911817,99,109
+Minnesota TimberwolvesUtah Jazz,Minnesota Timberwolves,Utah Jazz,195.6650734,-9.52527372,94,103
+Minnesota TimberwolvesCleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,207.4728065,-13.05267725,98,111
+Minnesota TimberwolvesDallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,207.5045777,-7.489478967,101,108
+Minnesota TimberwolvesLos Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,210.2832929,-12.31071183,100,112
+Minnesota TimberwolvesOrlando Magic,Minnesota Timberwolves,Orlando Magic,205.3094717,-3.174752347,101,105
+Minnesota TimberwolvesChicago Bulls,Minnesota Timberwolves,Chicago Bulls,204.5985534,-8.156180129,98,107
+Minnesota TimberwolvesMilwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,204.3204356,-5.975868099,99,105
+Minnesota TimberwolvesAtlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,205.0073427,-10.46033303,98,109
+Minnesota TimberwolvesDetroit Pistons,Minnesota Timberwolves,Detroit Pistons,203.991558,-7.202446634,99,106
+Minnesota TimberwolvesGolden State Warriors,Minnesota Timberwolves,Golden State Warriors,217.6144562,-17.78359967,101,119
+Minnesota TimberwolvesHouston Rockets,Minnesota Timberwolves,Houston Rockets,215.2874396,-9.803437794,103,112
+Minnesota TimberwolvesOklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,212.6911123,-11.22586408,101,112
+Minnesota TimberwolvesPhiladelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,204.0732749,0.978870694,103,102
+Minnesota TimberwolvesWashington Wizards,Minnesota Timberwolves,Washington Wizards,207.7172723,-8.528194357,100,109
+Minnesota TimberwolvesBrooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,208.9197275,-1.58074442,105,106
+Orlando MagicLos Angeles Lakers,Orlando Magic,Los Angeles Lakers,204.8301973,0.463744301,103,103
+Orlando MagicNew Orleans Pelicans,Orlando Magic,New Orleans Pelicans,203.182387,-5.20292815,99,105
+Orlando MagicSan Antonio Spurs,Orlando Magic,San Antonio Spurs,197.9070042,-15.42742725,92,107
+Orlando MagicBoston Celtics,Orlando Magic,Boston Celtics,205.0323114,-8.774911025,98,107
+Orlando MagicCharlotte Hornets,Orlando Magic,Charlotte Hornets,198.1228625,-6.859470659,96,103
+Orlando MagicDenver Nuggets,Orlando Magic,Denver Nuggets,208.6020955,-4.456824678,102,107
+Orlando MagicIndiana Pacers,Orlando Magic,Indiana Pacers,199.3674871,-7.764557459,96,104
+Orlando MagicMemphis Grizzlies,Orlando Magic,Memphis Grizzlies,195.1602582,-7.465945014,94,102
+Orlando MagicMiami Heat,Orlando Magic,Miami Heat,194.9581661,-6.846685928,95,102
+Orlando MagicNew York Knicks,Orlando Magic,New York Knicks,199.0743952,-1.958261158,99,101
+Orlando MagicPhoenix Suns,Orlando Magic,Phoenix Suns,208.1283779,-3.021531794,103,106
+Orlando MagicPortland Trail Blazers,Orlando Magic,Portland Trail Blazers,206.2541897,-8.064344919,100,108
+Orlando MagicSacramento Kings,Orlando Magic,Sacramento Kings,208.3229412,-4.23863733,102,107
+Orlando MagicToronto Raptors,Orlando Magic,Toronto Raptors,202.2089048,-10.15614948,97,107
+Orlando MagicUtah Jazz,Orlando Magic,Utah Jazz,190.7760422,-9.152305032,91,101
+Orlando MagicCleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,202.5837753,-12.67970856,95,108
+Orlando MagicDallas Mavericks,Orlando Magic,Dallas Mavericks,202.6155466,-7.116510279,98,105
+Orlando MagicLos Angeles Clippers,Orlando Magic,Los Angeles Clippers,205.3942618,-11.93774314,98,110
+Orlando MagicMinnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,205.3094717,-2.428814972,102,105
+Orlando MagicChicago Bulls,Orlando Magic,Chicago Bulls,199.7095223,-7.783211441,96,104
+Orlando MagicMilwaukee Bucks,Orlando Magic,Milwaukee Bucks,199.4314044,-5.602899412,97,103
+Orlando MagicAtlanta Hawks,Orlando Magic,Atlanta Hawks,200.1183116,-10.08736434,96,106
+Orlando MagicDetroit Pistons,Orlando Magic,Detroit Pistons,199.1025268,-6.829477946,97,103
+Orlando MagicGolden State Warriors,Orlando Magic,Golden State Warriors,212.7254251,-17.41063098,98,115
+Orlando MagicHouston Rockets,Orlando Magic,Houston Rockets,210.3984084,-9.430469106,101,111
+Orlando MagicOklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,207.8020812,-10.85289539,99,110
+Orlando MagicPhiladelphia 76ers,Orlando Magic,Philadelphia 76ers,199.1842438,1.351839382,101,99
+Orlando MagicWashington Wizards,Orlando Magic,Washington Wizards,202.8282411,-8.155225669,98,106
+Orlando MagicBrooklyn Nets,Orlando Magic,Brooklyn Nets,204.0306964,-1.207775732,102,103
+Chicago BullsLos Angeles Lakers,Chicago Bulls,Los Angeles Lakers,204.119279,5.445172083,105,100
+Chicago BullsNew Orleans Pelicans,Chicago Bulls,New Orleans Pelicans,202.4714687,-0.221500368,102,102
+Chicago BullsSan Antonio Spurs,Chicago Bulls,San Antonio Spurs,197.1960859,-10.44599946,94,104
+Chicago BullsBoston Celtics,Chicago Bulls,Boston Celtics,204.3213931,-3.793483243,101,105
+Chicago BullsCharlotte Hornets,Chicago Bulls,Charlotte Hornets,197.4119442,-1.878042877,98,100
+Chicago BullsDenver Nuggets,Chicago Bulls,Denver Nuggets,207.8911772,0.524603104,105,104
+Chicago BullsIndiana Pacers,Chicago Bulls,Indiana Pacers,198.6565688,-2.783129677,98,101
+Chicago BullsMemphis Grizzlies,Chicago Bulls,Memphis Grizzlies,194.4493399,-2.484517232,96,99
+Chicago BullsMiami Heat,Chicago Bulls,Miami Heat,194.2472478,-1.865258146,97,99
+Chicago BullsNew York Knicks,Chicago Bulls,New York Knicks,198.3634769,3.023166624,101,98
+Chicago BullsPhoenix Suns,Chicago Bulls,Phoenix Suns,207.4174596,1.959895988,105,103
+Chicago BullsPortland Trail Blazers,Chicago Bulls,Portland Trail Blazers,205.5432714,-3.082917137,102,105
+Chicago BullsSacramento Kings,Chicago Bulls,Sacramento Kings,207.6120229,0.742790452,105,104
+Chicago BullsToronto Raptors,Chicago Bulls,Toronto Raptors,201.4979864,-5.174721701,99,104
+Chicago BullsUtah Jazz,Chicago Bulls,Utah Jazz,190.0651239,-4.17087725,93,97
+Chicago BullsCleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,201.872857,-7.698280778,97,105
+Chicago BullsDallas Mavericks,Chicago Bulls,Dallas Mavericks,201.9046283,-2.135082497,100,102
+Chicago BullsLos Angeles Clippers,Chicago Bulls,Los Angeles Clippers,204.6833435,-6.95631536,99,106
+Chicago BullsMinnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,204.5985534,2.55261281,104,102
+Chicago BullsOrlando Magic,Chicago Bulls,Orlando Magic,199.7095223,2.179644123,101,99
+Chicago BullsMilwaukee Bucks,Chicago Bulls,Milwaukee Bucks,198.7204861,-0.62147163,100,100
+Chicago BullsAtlanta Hawks,Chicago Bulls,Atlanta Hawks,199.4073932,-5.105936562,97,103
+Chicago BullsDetroit Pistons,Chicago Bulls,Detroit Pistons,198.3916085,-1.848050164,99,101
+Chicago BullsGolden State Warriors,Chicago Bulls,Golden State Warriors,212.0145068,-12.4292032,100,113
+Chicago BullsHouston Rockets,Chicago Bulls,Houston Rockets,209.6874901,-4.449041324,103,108
+Chicago BullsOklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,207.0911629,-5.871467612,101,107
+Chicago BullsPhiladelphia 76ers,Chicago Bulls,Philadelphia 76ers,198.4733255,6.333267164,103,97
+Chicago BullsWashington Wizards,Chicago Bulls,Washington Wizards,202.1173228,-3.173797887,100,103
+Chicago BullsBrooklyn Nets,Chicago Bulls,Brooklyn Nets,203.3197781,3.77365205,104,100
+Milwaukee BucksLos Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,203.8411612,3.264860053,104,101
+Milwaukee BucksNew Orleans Pelicans,Milwaukee Bucks,New Orleans Pelicans,202.1933508,-2.401812398,100,103
+Milwaukee BucksSan Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,196.9179681,-12.62631149,92,105
+Milwaukee BucksBoston Celtics,Milwaukee Bucks,Boston Celtics,204.0432752,-5.973795272,99,105
+Milwaukee BucksCharlotte Hornets,Milwaukee Bucks,Charlotte Hornets,197.1338264,-4.058354907,97,101
+Milwaukee BucksDenver Nuggets,Milwaukee Bucks,Denver Nuggets,207.6130593,-1.655708926,104,105
+Milwaukee BucksIndiana Pacers,Milwaukee Bucks,Indiana Pacers,198.3784509,-4.963441707,97,102
+Milwaukee BucksMemphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,194.171222,-4.664829262,95,100
+Milwaukee BucksMiami Heat,Milwaukee Bucks,Miami Heat,193.96913,-4.045570176,96,100
+Milwaukee BucksNew York Knicks,Milwaukee Bucks,New York Knicks,198.085359,0.842854594,100,99
+Milwaukee BucksPhoenix Suns,Milwaukee Bucks,Phoenix Suns,207.1393417,-0.220416042,104,104
+Milwaukee BucksPortland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,205.2651536,-5.263229167,100,106
+Milwaukee BucksSacramento Kings,Milwaukee Bucks,Sacramento Kings,207.3339051,-1.437521578,104,105
+Milwaukee BucksToronto Raptors,Milwaukee Bucks,Toronto Raptors,201.2198686,-7.355033731,98,105
+Milwaukee BucksUtah Jazz,Milwaukee Bucks,Utah Jazz,189.7870061,-6.35118928,92,98
+Milwaukee BucksCleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,201.5947392,-9.878592808,96,106
+Milwaukee BucksDallas Mavericks,Milwaukee Bucks,Dallas Mavericks,201.6265104,-4.315394527,99,103
+Milwaukee BucksLos Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,204.4052256,-9.13662739,98,107
+Milwaukee BucksMinnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,204.3204356,0.372300781,103,103
+Milwaukee BucksOrlando Magic,Milwaukee Bucks,Orlando Magic,199.4314044,-0.000667907,100,100
+Milwaukee BucksChicago Bulls,Milwaukee Bucks,Chicago Bulls,198.7204861,-4.982095689,97,102
+Milwaukee BucksAtlanta Hawks,Milwaukee Bucks,Atlanta Hawks,199.1292754,-7.286248592,96,104
+Milwaukee BucksDetroit Pistons,Milwaukee Bucks,Detroit Pistons,198.1134907,-4.028362194,98,102
+Milwaukee BucksGolden State Warriors,Milwaukee Bucks,Golden State Warriors,211.736389,-14.60951523,99,114
+Milwaukee BucksHouston Rockets,Milwaukee Bucks,Houston Rockets,209.4093723,-6.629353354,102,109
+Milwaukee BucksOklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,206.8130451,-8.051779642,100,108
+Milwaukee BucksPhiladelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,198.1952076,4.152955134,102,97
+Milwaukee BucksWashington Wizards,Milwaukee Bucks,Washington Wizards,201.839205,-5.354109917,99,104
+Milwaukee BucksBrooklyn Nets,Milwaukee Bucks,Brooklyn Nets,203.0416602,1.59334002,103,101
+Atlanta HawksLos Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,204.5280683,7.749324986,107,99
+Atlanta HawksNew Orleans Pelicans,Atlanta Hawks,New Orleans Pelicans,202.880258,2.082652534,103,101
+Atlanta HawksSan Antonio Spurs,Atlanta Hawks,San Antonio Spurs,197.6048752,-8.141846562,96,104
+Atlanta HawksBoston Celtics,Atlanta Hawks,Boston Celtics,204.7301824,-1.48933034,102,103
+Atlanta HawksCharlotte Hornets,Atlanta Hawks,Charlotte Hornets,197.8207335,0.426110025,100,99
+Atlanta HawksDenver Nuggets,Atlanta Hawks,Denver Nuggets,208.2999664,2.828756007,106,103
+Atlanta HawksIndiana Pacers,Atlanta Hawks,Indiana Pacers,199.0653581,-0.478976775,100,100
+Atlanta HawksMemphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,194.8581292,-0.180364329,98,98
+Atlanta HawksMiami Heat,Atlanta Hawks,Miami Heat,194.6560371,0.438894757,98,98
+Atlanta HawksNew York Knicks,Atlanta Hawks,New York Knicks,198.7722662,5.327319526,102,97
+Atlanta HawksPhoenix Suns,Atlanta Hawks,Phoenix Suns,207.8262489,4.264048891,106,102
+Atlanta HawksPortland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,205.9520607,-0.778764234,103,104
+Atlanta HawksSacramento Kings,Atlanta Hawks,Sacramento Kings,208.0208122,3.046943355,106,103
+Atlanta HawksToronto Raptors,Atlanta Hawks,Toronto Raptors,201.9067757,-2.870568798,100,103
+Atlanta HawksUtah Jazz,Atlanta Hawks,Utah Jazz,190.4739132,-1.866724348,95,96
+Atlanta HawksCleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,202.2816463,-5.394127876,99,104
+Atlanta HawksDallas Mavericks,Atlanta Hawks,Dallas Mavericks,202.3134176,0.169070406,102,102
+Atlanta HawksLos Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,205.0921328,-4.652162458,101,106
+Atlanta HawksMinnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,205.0073427,4.856765713,105,101
+Atlanta HawksOrlando Magic,Atlanta Hawks,Orlando Magic,200.1183116,4.483797025,103,98
+Atlanta HawksChicago Bulls,Atlanta Hawks,Chicago Bulls,199.4073932,-0.497630757,100,100
+Atlanta HawksMilwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,199.1292754,1.682681273,101,99
+Atlanta HawksDetroit Pistons,Atlanta Hawks,Detroit Pistons,198.8003978,0.456102738,100,99
+Atlanta HawksGolden State Warriors,Atlanta Hawks,Golden State Warriors,212.4232961,-10.12505029,101,112
+Atlanta HawksHouston Rockets,Atlanta Hawks,Houston Rockets,210.0962794,-2.144888421,104,106
+Atlanta HawksOklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,207.4999522,-3.567314709,103,106
+Atlanta HawksPhiladelphia 76ers,Atlanta Hawks,Philadelphia 76ers,198.8821148,8.637420066,104,96
+Atlanta HawksWashington Wizards,Atlanta Hawks,Washington Wizards,202.5261121,-0.869644985,101,102
+Atlanta HawksBrooklyn Nets,Atlanta Hawks,Brooklyn Nets,203.7285674,6.077804952,106,99
+Detroit PistonsLos Angeles Lakers,Detroit Pistons,Los Angeles Lakers,203.5122835,4.491438588,105,100
+Detroit PistonsNew Orleans Pelicans,Detroit Pistons,New Orleans Pelicans,201.8644732,-1.175233863,101,102
+Detroit PistonsSan Antonio Spurs,Detroit Pistons,San Antonio Spurs,196.5890905,-11.39973296,93,104
+Detroit PistonsBoston Celtics,Detroit Pistons,Boston Celtics,203.7143976,-4.747216738,100,104
+Detroit PistonsCharlotte Hornets,Detroit Pistons,Charlotte Hornets,196.8049488,-2.831776373,97,100
+Detroit PistonsDenver Nuggets,Detroit Pistons,Denver Nuggets,207.2841817,-0.429130391,104,104
+Detroit PistonsIndiana Pacers,Detroit Pistons,Indiana Pacers,198.0495733,-3.736863173,98,102
+Detroit PistonsMemphis Grizzlies,Detroit Pistons,Memphis Grizzlies,193.8423444,-3.438250727,96,99
+Detroit PistonsMiami Heat,Detroit Pistons,Miami Heat,193.6402524,-2.818991641,96,99
+Detroit PistonsNew York Knicks,Detroit Pistons,New York Knicks,197.7564814,2.069433128,100,98
+Detroit PistonsPhoenix Suns,Detroit Pistons,Phoenix Suns,206.8104641,1.006162493,105,104
+Detroit PistonsPortland Trail Blazers,Detroit Pistons,Portland Trail Blazers,204.936276,-4.036650632,101,105
+Detroit PistonsSacramento Kings,Detroit Pistons,Sacramento Kings,207.0050275,-0.210943043,104,104
+Detroit PistonsToronto Raptors,Detroit Pistons,Toronto Raptors,200.890991,-6.128455196,98,104
+Detroit PistonsUtah Jazz,Detroit Pistons,Utah Jazz,189.4581285,-5.124610745,93,98
+Detroit PistonsCleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,201.2658616,-8.652014273,97,105
+Detroit PistonsDallas Mavericks,Detroit Pistons,Dallas Mavericks,201.2976328,-3.088815992,100,103
+Detroit PistonsLos Angeles Clippers,Detroit Pistons,Los Angeles Clippers,204.076348,-7.910048855,99,107
+Detroit PistonsMinnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,203.991558,1.598879315,103,102
+Detroit PistonsOrlando Magic,Detroit Pistons,Orlando Magic,199.1025268,1.225910627,100,99
+Detroit PistonsChicago Bulls,Detroit Pistons,Chicago Bulls,198.3916085,-3.755517155,98,102
+Detroit PistonsMilwaukee Bucks,Detroit Pistons,Milwaukee Bucks,198.1134907,-1.575205125,99,101
+Detroit PistonsAtlanta Hawks,Detroit Pistons,Atlanta Hawks,198.8003978,-6.059670057,97,103
+Detroit PistonsGolden State Warriors,Detroit Pistons,Golden State Warriors,211.4075113,-13.38293669,99,113
+Detroit PistonsHouston Rockets,Detroit Pistons,Houston Rockets,209.0804947,-5.402774819,102,108
+Detroit PistonsOklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,206.4841674,-6.825201107,101,108
+Detroit PistonsPhiladelphia 76ers,Detroit Pistons,Philadelphia 76ers,197.86633,5.379533668,102,97
+Detroit PistonsWashington Wizards,Detroit Pistons,Washington Wizards,201.5103274,-4.127531382,99,103
+Detroit PistonsBrooklyn Nets,Detroit Pistons,Brooklyn Nets,202.7127826,2.819918554,104,101
+Golden State WarriorsLos Angeles Lakers,Golden State Warriors,Los Angeles Lakers,217.1351818,15.07259162,117,102
+Golden State WarriorsNew Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,215.4873715,9.405919168,113,103
+Golden State WarriorsSan Antonio Spurs,Golden State Warriors,San Antonio Spurs,210.2119888,-0.818579929,105,106
+Golden State WarriorsBoston Celtics,Golden State Warriors,Boston Celtics,217.3372959,5.833936293,112,106
+Golden State WarriorsCharlotte Hornets,Golden State Warriors,Charlotte Hornets,210.4278471,7.749376659,109,102
+Golden State WarriorsDenver Nuggets,Golden State Warriors,Denver Nuggets,220.90708,10.15202264,116,106
+Golden State WarriorsIndiana Pacers,Golden State Warriors,Indiana Pacers,211.6724716,6.844289858,110,103
+Golden State WarriorsMemphis Grizzlies,Golden State Warriors,Memphis Grizzlies,207.4652427,7.142902304,108,101
+Golden State WarriorsMiami Heat,Golden State Warriors,Miami Heat,207.2631506,7.76216139,108,100
+Golden State WarriorsNew York Knicks,Golden State Warriors,New York Knicks,211.3793797,12.65058616,113,100
+Golden State WarriorsPhoenix Suns,Golden State Warriors,Phoenix Suns,220.4333624,11.58731552,117,105
+Golden State WarriorsPortland Trail Blazers,Golden State Warriors,Portland Trail Blazers,218.5591743,6.544502399,113,107
+Golden State WarriorsSacramento Kings,Golden State Warriors,Sacramento Kings,220.6279257,10.37020999,116,105
+Golden State WarriorsToronto Raptors,Golden State Warriors,Toronto Raptors,214.5138893,4.452697835,110,105
+Golden State WarriorsUtah Jazz,Golden State Warriors,Utah Jazz,203.0810267,5.456542286,105,99
+Golden State WarriorsCleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,214.8887599,1.929138758,109,107
+Golden State WarriorsDallas Mavericks,Golden State Warriors,Dallas Mavericks,214.9205311,7.492337039,112,105
+Golden State WarriorsLos Angeles Clippers,Golden State Warriors,Los Angeles Clippers,217.6992463,2.671104176,111,108
+Golden State WarriorsMinnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,217.6144562,12.18003235,116,103
+Golden State WarriorsOrlando Magic,Golden State Warriors,Orlando Magic,212.7254251,11.80706366,113,101
+Golden State WarriorsChicago Bulls,Golden State Warriors,Chicago Bulls,212.0145068,6.825635877,110,103
+Golden State WarriorsMilwaukee Bucks,Golden State Warriors,Milwaukee Bucks,211.736389,9.005947906,111,102
+Golden State WarriorsAtlanta Hawks,Golden State Warriors,Atlanta Hawks,212.4232961,4.521482974,109,105
+Golden State WarriorsDetroit Pistons,Golden State Warriors,Detroit Pistons,211.4075113,7.779369372,110,103
+Golden State WarriorsHouston Rockets,Golden State Warriors,Houston Rockets,222.7033929,5.178378212,115,109
+Golden State WarriorsOklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,220.1070657,3.755951924,112,108
+Golden State WarriorsPhiladelphia 76ers,Golden State Warriors,Philadelphia 76ers,211.4892283,15.9606867,114,98
+Golden State WarriorsWashington Wizards,Golden State Warriors,Washington Wizards,215.1332256,6.453621649,111,105
+Golden State WarriorsBrooklyn Nets,Golden State Warriors,Brooklyn Nets,216.3356809,13.40107159,115,102
+Houston RocketsLos Angeles Lakers,Houston Rockets,Los Angeles Lakers,214.8081651,7.092429747,111,104
+Houston RocketsNew Orleans Pelicans,Houston Rockets,New Orleans Pelicans,213.1603548,1.425757296,108,106
+Houston RocketsSan Antonio Spurs,Houston Rockets,San Antonio Spurs,207.8849721,-8.798741801,100,109
+Houston RocketsBoston Celtics,Houston Rockets,Boston Celtics,215.0102792,-2.146225578,108,110
+Houston RocketsCharlotte Hornets,Houston Rockets,Charlotte Hornets,208.1008304,-0.230785213,105,105
+Houston RocketsDenver Nuggets,Houston Rockets,Denver Nuggets,218.5800633,2.171860768,111,109
+Houston RocketsIndiana Pacers,Houston Rockets,Indiana Pacers,209.3454549,-1.135872013,105,106
+Houston RocketsMemphis Grizzlies,Houston Rockets,Memphis Grizzlies,205.138226,-0.837259568,102,103
+Houston RocketsMiami Heat,Houston Rockets,Miami Heat,204.936134,-0.218000481,103,103
+Houston RocketsNew York Knicks,Houston Rockets,New York Knicks,209.052363,4.670424288,108,103
+Houston RocketsPhoenix Suns,Houston Rockets,Phoenix Suns,218.1063457,3.607153652,112,108
+Houston RocketsPortland Trail Blazers,Houston Rockets,Portland Trail Blazers,216.2321576,-1.435659472,108,109
+Houston RocketsSacramento Kings,Houston Rockets,Sacramento Kings,218.3009091,2.390048117,111,108
+Houston RocketsToronto Raptors,Houston Rockets,Toronto Raptors,212.1868726,-3.527464036,105,108
+Houston RocketsUtah Jazz,Houston Rockets,Utah Jazz,200.7540101,-2.523619586,100,102
+Houston RocketsCleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,212.5617432,-6.051023114,104,110
+Houston RocketsDallas Mavericks,Houston Rockets,Dallas Mavericks,212.5935144,-0.487824833,107,107
+Houston RocketsLos Angeles Clippers,Houston Rockets,Los Angeles Clippers,215.3722296,-5.309057696,106,111
+Houston RocketsMinnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,215.2874396,4.199870475,111,107
+Houston RocketsOrlando Magic,Houston Rockets,Orlando Magic,210.3984084,3.826901787,107,104
+Houston RocketsChicago Bulls,Houston Rockets,Chicago Bulls,209.6874901,-1.154525995,105,106
+Houston RocketsMilwaukee Bucks,Houston Rockets,Milwaukee Bucks,209.4093723,1.025786035,106,105
+Houston RocketsAtlanta Hawks,Houston Rockets,Atlanta Hawks,210.0962794,-3.458678898,103,107
+Houston RocketsDetroit Pistons,Houston Rockets,Detroit Pistons,209.0804947,-0.2007925,105,105
+Houston RocketsGolden State Warriors,Houston Rockets,Golden State Warriors,222.7033929,-10.78194553,106,117
+Houston RocketsOklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,217.780049,-4.224209948,107,112
+Houston RocketsPhiladelphia 76ers,Houston Rockets,Philadelphia 76ers,209.1622116,7.980524828,109,101
+Houston RocketsWashington Wizards,Houston Rockets,Washington Wizards,212.806209,-1.526540223,106,108
+Houston RocketsBrooklyn Nets,Houston Rockets,Brooklyn Nets,214.0086642,5.420909714,110,105
+Oklahoma City ThunderLos Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,212.2118379,8.514856036,111,102
+Oklahoma City ThunderNew Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,210.5640276,2.848183584,107,104
+Oklahoma City ThunderSan Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,205.2886449,-7.376315512,99,107
+Oklahoma City ThunderBoston Celtics,Oklahoma City Thunder,Boston Celtics,212.413952,-0.72379929,107,107
+Oklahoma City ThunderCharlotte Hornets,Oklahoma City Thunder,Charlotte Hornets,205.5045032,1.191641075,103,102
+Oklahoma City ThunderDenver Nuggets,Oklahoma City Thunder,Denver Nuggets,215.9837361,3.594287057,110,107
+Oklahoma City ThunderIndiana Pacers,Oklahoma City Thunder,Indiana Pacers,206.7491277,0.286554275,104,104
+Oklahoma City ThunderMemphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,202.5418988,0.585166721,102,101
+Oklahoma City ThunderMiami Heat,Oklahoma City Thunder,Miami Heat,202.3398067,1.204425807,102,101
+Oklahoma City ThunderNew York Knicks,Oklahoma City Thunder,New York Knicks,206.4560358,6.092850576,107,101
+Oklahoma City ThunderPhoenix Suns,Oklahoma City Thunder,Phoenix Suns,215.5100185,5.029579941,111,106
+Oklahoma City ThunderPortland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,213.6358304,-0.013233184,108,108
+Oklahoma City ThunderSacramento Kings,Oklahoma City Thunder,Sacramento Kings,215.7045818,3.812474405,111,107
+Oklahoma City ThunderToronto Raptors,Oklahoma City Thunder,Toronto Raptors,209.5905454,-2.105037748,104,106
+Oklahoma City ThunderUtah Jazz,Oklahoma City Thunder,Utah Jazz,198.1576828,-1.101193298,99,100
+Oklahoma City ThunderCleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,209.965416,-4.628596825,103,108
+Oklahoma City ThunderDallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,209.9971872,0.934601456,106,105
+Oklahoma City ThunderLos Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,212.7759024,-3.886631407,105,108
+Oklahoma City ThunderMinnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,212.6911123,5.622296763,110,104
+Oklahoma City ThunderOrlando Magic,Oklahoma City Thunder,Orlando Magic,207.8020812,5.249328075,107,102
+Oklahoma City ThunderChicago Bulls,Oklahoma City Thunder,Chicago Bulls,207.0911629,0.267900293,104,104
+Oklahoma City ThunderMilwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,206.8130451,2.448212323,105,102
+Oklahoma City ThunderAtlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,207.4999522,-2.036252609,103,105
+Oklahoma City ThunderDetroit Pistons,Oklahoma City Thunder,Detroit Pistons,206.4841674,1.221633789,104,103
+Oklahoma City ThunderGolden State Warriors,Oklahoma City Thunder,Golden State Warriors,220.1070657,-9.359519242,106,116
+Oklahoma City ThunderHouston Rockets,Oklahoma City Thunder,Houston Rockets,217.780049,-1.379357371,109,110
+Oklahoma City ThunderPhiladelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,206.5658844,9.402951116,109,99
+Oklahoma City ThunderWashington Wizards,Oklahoma City Thunder,Washington Wizards,210.2098817,-0.104113935,105,105
+Oklahoma City ThunderBrooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,211.412337,6.843336002,110,103
+Philadelphia 76ersLos Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,203.5940005,-3.68987874,100,104
+Philadelphia 76ersNew Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,201.9461902,-9.356551191,97,106
+Philadelphia 76ersSan Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,196.6708075,-19.58105029,89,108
+Philadelphia 76ersBoston Celtics,Philadelphia 76ers,Boston Celtics,203.7961146,-12.92853407,96,109
+Philadelphia 76ersCharlotte Hornets,Philadelphia 76ers,Charlotte Hornets,196.8866658,-11.0130937,93,104
+Philadelphia 76ersDenver Nuggets,Philadelphia 76ers,Denver Nuggets,207.3658987,-8.610447719,100,109
+Philadelphia 76ersIndiana Pacers,Philadelphia 76ers,Indiana Pacers,198.1312903,-11.9181805,94,106
+Philadelphia 76ersMemphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,193.9240614,-11.61956805,92,103
+Philadelphia 76ersMiami Heat,Philadelphia 76ers,Miami Heat,193.7219693,-11.00030897,92,103
+Philadelphia 76ersNew York Knicks,Philadelphia 76ers,New York Knicks,197.8381984,-6.111884199,96,102
+Philadelphia 76ersPhoenix Suns,Philadelphia 76ers,Phoenix Suns,206.8921811,-7.175154835,100,108
+Philadelphia 76ersPortland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,205.017993,-12.21796796,97,109
+Philadelphia 76ersSacramento Kings,Philadelphia 76ers,Sacramento Kings,207.0867444,-8.392260371,100,109
+Philadelphia 76ersToronto Raptors,Philadelphia 76ers,Toronto Raptors,200.972708,-14.30977252,94,108
+Philadelphia 76ersUtah Jazz,Philadelphia 76ers,Utah Jazz,189.5398454,-13.30592807,89,102
+Philadelphia 76ersCleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,201.3475786,-16.8333316,93,110
+Philadelphia 76ersDallas Mavericks,Philadelphia 76ers,Dallas Mavericks,201.3793498,-11.27013332,96,107
+Philadelphia 76ersLos Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,204.158065,-16.09136618,94,110
+Philadelphia 76ersMinnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,204.0732749,-6.582438013,99,106
+Philadelphia 76ersOrlando Magic,Philadelphia 76ers,Orlando Magic,199.1842438,-6.9554067,97,104
+Philadelphia 76ersChicago Bulls,Philadelphia 76ers,Chicago Bulls,198.4733255,-11.93683448,94,106
+Philadelphia 76ersMilwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,198.1952076,-9.756522453,95,105
+Philadelphia 76ersAtlanta Hawks,Philadelphia 76ers,Atlanta Hawks,198.8821148,-14.24098739,93,107
+Philadelphia 76ersDetroit Pistons,Philadelphia 76ers,Detroit Pistons,197.86633,-10.98310099,94,105
+Philadelphia 76ersGolden State Warriors,Philadelphia 76ers,Golden State Warriors,211.4892283,-21.56425402,95,117
+Philadelphia 76ersHouston Rockets,Philadelphia 76ers,Houston Rockets,209.1622116,-13.58409215,98,112
+Philadelphia 76ersOklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,206.5658844,-15.00651844,96,111
+Philadelphia 76ersWashington Wizards,Philadelphia 76ers,Washington Wizards,201.5920443,-12.30884871,95,108
+Philadelphia 76ersBrooklyn Nets,Philadelphia 76ers,Brooklyn Nets,202.7944996,-5.361398773,99,105
+Washington WizardsLos Angeles Lakers,Washington Wizards,Los Angeles Lakers,207.2379979,5.817186311,107,101
+Washington WizardsNew Orleans Pelicans,Washington Wizards,New Orleans Pelicans,205.5901875,0.15051386,104,103
+Washington WizardsSan Antonio Spurs,Washington Wizards,San Antonio Spurs,200.3148048,-10.07398524,95,106
+Washington WizardsBoston Celtics,Washington Wizards,Boston Celtics,207.4401119,-3.421469015,103,106
+Washington WizardsCharlotte Hornets,Washington Wizards,Charlotte Hornets,200.5306631,-1.506028649,100,102
+Washington WizardsDenver Nuggets,Washington Wizards,Denver Nuggets,211.009896,0.896617332,106,105
+Washington WizardsIndiana Pacers,Washington Wizards,Indiana Pacers,201.7752876,-2.41111545,100,102
+Washington WizardsMemphis Grizzlies,Washington Wizards,Memphis Grizzlies,197.5680587,-2.112503004,98,100
+Washington WizardsMiami Heat,Washington Wizards,Miami Heat,197.3659667,-1.493243918,99,100
+Washington WizardsNew York Knicks,Washington Wizards,New York Knicks,201.4821957,3.395180851,102,99
+Washington WizardsPhoenix Suns,Washington Wizards,Phoenix Suns,210.5361784,2.331910216,107,105
+Washington WizardsPortland Trail Blazers,Washington Wizards,Portland Trail Blazers,208.6619903,-2.710902909,103,106
+Washington WizardsSacramento Kings,Washington Wizards,Sacramento Kings,210.7307418,1.11480468,107,106
+Washington WizardsToronto Raptors,Washington Wizards,Toronto Raptors,204.6167053,-4.802707473,100,105
+Washington WizardsUtah Jazz,Washington Wizards,Utah Jazz,193.1838428,-3.798863022,95,99
+Washington WizardsCleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,204.9915759,-7.32626655,99,106
+Washington WizardsDallas Mavericks,Washington Wizards,Dallas Mavericks,205.0233471,-1.763068269,102,104
+Washington WizardsLos Angeles Clippers,Washington Wizards,Los Angeles Clippers,207.8020623,-6.584301132,102,108
+Washington WizardsMinnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,207.7172723,2.924627038,106,103
+Washington WizardsOrlando Magic,Washington Wizards,Orlando Magic,202.8282411,2.551658351,103,101
+Washington WizardsChicago Bulls,Washington Wizards,Chicago Bulls,202.1173228,-2.429769431,101,103
+Washington WizardsMilwaukee Bucks,Washington Wizards,Milwaukee Bucks,201.839205,-0.249457402,101,101
+Washington WizardsAtlanta Hawks,Washington Wizards,Atlanta Hawks,202.5261121,-4.733922334,99,104
+Washington WizardsDetroit Pistons,Washington Wizards,Detroit Pistons,201.5103274,-1.476035936,100,102
+Washington WizardsGolden State Warriors,Washington Wizards,Golden State Warriors,215.1332256,-12.05718897,102,115
+Washington WizardsHouston Rockets,Washington Wizards,Houston Rockets,212.806209,-4.077027096,105,109
+Washington WizardsOklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,210.2098817,-5.499453384,103,109
+Washington WizardsPhiladelphia 76ers,Washington Wizards,Philadelphia 76ers,201.5920443,6.705281392,104,98
+Washington WizardsBrooklyn Nets,Washington Wizards,Brooklyn Nets,206.4384969,4.145666277,106,102
+Brooklyn NetsLos Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,208.4404531,-1.130263626,104,105
+Brooklyn NetsNew Orleans Pelicans,Brooklyn Nets,New Orleans Pelicans,206.7926428,-6.796936077,100,107
+Brooklyn NetsSan Antonio Spurs,Brooklyn Nets,San Antonio Spurs,201.5172601,-17.02143517,93,110
+Brooklyn NetsBoston Celtics,Brooklyn Nets,Boston Celtics,208.6425672,-10.36891895,99,110
+Brooklyn NetsCharlotte Hornets,Brooklyn Nets,Charlotte Hornets,201.7331184,-8.453478586,97,106
+Brooklyn NetsDenver Nuggets,Brooklyn Nets,Denver Nuggets,212.2123513,-6.050832605,104,110
+Brooklyn NetsIndiana Pacers,Brooklyn Nets,Indiana Pacers,202.9777429,-9.358565386,97,107
+Brooklyn NetsMemphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,198.770514,-9.059952941,95,104
+Brooklyn NetsMiami Heat,Brooklyn Nets,Miami Heat,198.5684219,-8.440693855,95,104
+Brooklyn NetsNew York Knicks,Brooklyn Nets,New York Knicks,202.684651,-3.552269085,100,103
+Brooklyn NetsPhoenix Suns,Brooklyn Nets,Phoenix Suns,211.7386337,-4.615539721,104,109
+Brooklyn NetsPortland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,209.8644456,-9.658352846,100,110
+Brooklyn NetsSacramento Kings,Brooklyn Nets,Sacramento Kings,211.933197,-5.832645257,104,110
+Brooklyn NetsToronto Raptors,Brooklyn Nets,Toronto Raptors,205.8191606,-11.75015741,98,109
+Brooklyn NetsUtah Jazz,Brooklyn Nets,Utah Jazz,194.386298,-10.74631296,92,103
+Brooklyn NetsCleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,206.1940312,-14.27371649,96,111
+Brooklyn NetsDallas Mavericks,Brooklyn Nets,Dallas Mavericks,206.2258024,-8.710518206,100,108
+Brooklyn NetsLos Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,209.0045176,-13.53175107,98,112
+Brooklyn NetsMinnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,208.9197275,-4.022822898,103,107
+Brooklyn NetsOrlando Magic,Brooklyn Nets,Orlando Magic,204.0306964,-4.395791586,100,105
+Brooklyn NetsChicago Bulls,Brooklyn Nets,Chicago Bulls,203.3197781,-9.377219368,98,107
+Brooklyn NetsMilwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,203.0416602,-7.196907338,99,106
+Brooklyn NetsAtlanta Hawks,Brooklyn Nets,Atlanta Hawks,203.7285674,-11.68137227,97,108
+Brooklyn NetsDetroit Pistons,Brooklyn Nets,Detroit Pistons,202.7127826,-8.423485873,97,106
+Brooklyn NetsGolden State Warriors,Brooklyn Nets,Golden State Warriors,216.3356809,-19.0046389,99,118
+Brooklyn NetsHouston Rockets,Brooklyn Nets,Houston Rockets,214.0086642,-11.02447703,102,113
+Brooklyn NetsOklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,211.412337,-12.44690332,100,113
+Brooklyn NetsPhiladelphia 76ers,Brooklyn Nets,Philadelphia 76ers,202.7944996,-0.242168545,102,102
+Brooklyn NetsWashington Wizards,Brooklyn Nets,Washington Wizards,206.4384969,-9.749233596,99,109
